@@ -5,6 +5,9 @@ import { WeeklyDef } from "../common";
 
 import { StudyRulesBuilder } from "./studyRules";
 
+import "./languages/ee";
+import "./languages/ru";
+
 export interface SurveysDefs {
   intake: IntakeDef;
   weekly: WeeklyDef;
