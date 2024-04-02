@@ -1,0 +1,14 @@
+studyKey: standard
+status: active
+props:
+  systemDefaultStudy: true
+  startDate: 1590969600
+  name:
+    en: Influweb Italy
+  description:
+    en: <optional description>
+  tags:
+    - en: covid-19
+      de: covid-19
+    - en: flu
+      de: flu
