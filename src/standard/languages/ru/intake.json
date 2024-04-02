@@ -1,287 +1,287 @@
 {
   "intake.name.0": {
     "en": "Intake questionnaire",
-    "ru": "TODO"
+    "ru": "Вступительная анкета"
   },
   "intake.description.0": {
     "en": "The purpose of the background questionnaire is to find out a little more about each user.",
-    "ru": "TODO"
+    "ru": "Цель предварительной анкеты — узнать немного больше о каждом пользователе."
   },
   "intake.typicalDuration.0": {
     "en": "Duration 5-10 minutes",
-    "ru": "TODO"
+    "ru": "Продолжительность 5–10 минут"
   },
   "intake.Q1.title.0": {
     "en": "What is your gender?",
-    "ru": "TODO"
+    "ru": "Какого Вы пола?"
   },
   "intake.Q1.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "intake.Q1.helpGroup.text.1": {
     "en": "In order to examine the differences between men and women.",
-    "ru": "TODO"
+    "ru": "Чтобы изучить различия между мужчинами и женщинами."
   },
   "intake.Q1.rg.scg.option.0": {
     "en": "Male",
-    "ru": "TODO"
+    "ru": "Мужчина"
   },
   "intake.Q1.rg.scg.option.1": {
     "en": "Female",
-    "ru": "TODO"
+    "ru": " Женщина"
   },
   "intake.Q1.rg.scg.option.2": {
     "en": "Other",
-    "ru": "TODO"
+    "ru": "Другое"
   },
   "intake.Q2.title.0": {
-    "en": "What is your date of birth (year and month)?",
-    "ru": "TODO"
+    "en": "What is your date of birth (month and year)?",
+    "ru": "Какая у вас дата рождения (месяц и год)?"
   },
   "intake.Q2.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "intake.Q2.helpGroup.text.1": {
     "en": "In order to examine the differences between age groups.",
-    "ru": "TODO"
+    "ru": "Чтобы изучить различия между возрастными группами."
   },
   "intake.Q2.rg.feedback.text.1": {
     "en": " years old",
-    "ru": "TODO"
+    "ru": " год/года/лет"
   },
   "intake.Q3.title.0": {
     "en": "What is your home postal code?",
-    "ru": "TODO"
+    "ru": "Какой у вас домашний почтовый индекс?"
   },
   "intake.Q3.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "intake.Q3.helpGroup.text.1": {
     "en": "In order to verify the representativeness of our cohort (the group of participants in this study), and to examine the geographical differences in the spread of the coronavirus and influenza.",
-    "ru": "TODO"
+    "ru": "Чтобы проверить репрезентативность нашей когорты (т. е. группы участников данного исследования) и изучить географические различия в распространении коронавируса и гриппа."
   },
   "intake.Q3.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "intake.Q3.helpGroup.text.3": {
     "en": "Insert the postal code of your place of residence",
-    "ru": "TODO"
+    "ru": "Укажите почтовый индекс вашего места жительства"
   },
   "intake.Q3.rg.scg.input.0": {
     "en": "Postal code:",
-    "ru": "TODO"
+    "ru": "Почтовый индекс:"
   },
   "intake.Q3.rg.scg.description.input.0": {
     "en": "Postal code",
-    "ru": "TODO"
+    "ru": "Почтовый индекс"
   },
   "intake.Q3.rg.scg.option.1": {
     "en": "I prefer not to answer this question",
-    "ru": "TODO"
+    "ru": "Я предпочитаю не отвечать на этот вопрос"
   },
   "intake.Q3.error.3": {
     "en": "Please enter the digits of your postal code",
-    "ru": "TODO"
+    "ru": "Пожалуйста, введите цифры вашего почтового индекса"
   },
   "intake.Q3.error.4": {
     "en": "Please enter at most 5 digits",
-    "ru": "TODO"
+    "ru": "Пожалуйста, введите не более 5 цифр"
   },
   "intake.Q4.title.0": {
-    "en": "What is your current professional status? (Assume a normal situation, without any COVID-19 measures).",
-    "ru": "TODO"
+    "en": "What is your current professional status?",
+    "ru": "Каков ваш текущий профессиональный статус?"
   },
   "intake.Q4.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "intake.Q4.helpGroup.text.1": {
     "en": "To check how representative our sample is compared to the population as a whole, and to find out whether the chance of getting flu is different for people in different types of occupation.",
-    "ru": "TODO"
+    "ru": "Чтобы проверить, насколько репрезентативна наша выборка по сравнению с населением в целом, и выяснить, различна ли вероятность заболеть гриппом у людей разного рода занятий."
   },
   "intake.Q4.helpGroup.text.2": {
-    "en": "How should I answer this question?",
-    "ru": "TODO"
+    "en": "How should I answer it?",
+    "ru": "Как мне на это ответить?"
   },
   "intake.Q4.helpGroup.text.3": {
     "en": "Please, tick the box that most closely resembles your main occupation. For pre-school children who don't go to daycare tick the \"other\" box.",
-    "ru": "TODO"
+    "ru": "Пожалуйста, отметьте галочкой тот пункт, который больше всего соответствует вашему основному занятию. Для детей дошкольного возраста, которые не ходят в детский сад, отметьте поле \"другое\"."
   },
   "intake.Q4.rg.scg.option.0": {
     "en": "Paid employment, full time",
-    "ru": "TODO"
+    "ru": "Оплачиваемая занятость, полный рабочий день"
   },
   "intake.Q4.rg.scg.option.1": {
     "en": "Paid employment, part time",
-    "ru": "TODO"
+    "ru": "Оплачиваемая занятость, неполный рабочий день"
   },
   "intake.Q4.rg.scg.option.2": {
     "en": "Self-employed (businessman, farmer, tradesman, etc.)",
-    "ru": "TODO"
+    "ru": "Самозанятый (бизнесмен, фермер, торговец и т. д.)"
   },
   "intake.Q4.rg.scg.option.3": {
     "en": "Attending daycare/school/college/university",
-    "ru": "TODO"
+    "ru": "Посещение детского сада/школы/колледжа/университета"
   },
   "intake.Q4.rg.scg.option.4": {
     "en": "Home-maker (e.g. housewife)",
-    "ru": "TODO"
+    "ru": "Работа по дому (например, домохозяйка)"
   },
   "intake.Q4.rg.scg.option.5": {
     "en": "Unemployed",
-    "ru": "TODO"
+    "ru": "Безработный(-ая)"
   },
   "intake.Q4.rg.scg.option.6": {
     "en": "Long-term sick-leave or parental leave",
-    "ru": "TODO"
+    "ru": "Длительный больничный или отпуск по уходу за ребенком"
   },
   "intake.Q4.rg.scg.option.7": {
     "en": "Retired",
-    "ru": "TODO"
+    "ru": "На пенсии"
   },
   "intake.Q4.rg.scg.option.8": {
     "en": "Other",
-    "ru": "TODO"
+    "ru": "Другое"
   },
   "intake.Q4b.title.0": {
     "en": "What is the postal code of your school/college/workplace (where you spend the majority of your working/studying time)?",
-    "ru": "TODO"
+    "ru": "Какой почтовый индекс у ваших школы/колледжа/места работы (где вы проводите большую часть своего рабочего/учебного времени)?"
   },
   "intake.Q4b.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "intake.Q4b.helpGroup.text.1": {
     "en": "To be able to determine the distance you regularly travel during your movements.",
-    "ru": "TODO"
+    "ru": "Чтобы иметь возможность определять расстояние, которое вы регулярно преодолеваете во время своих перемещений."
   },
   "intake.Q4b.rg.scg.input.0": {
     "en": "Postal code",
-    "ru": "TODO"
+    "ru": "Почтовый индекс"
   },
   "intake.Q4b.rg.scg.description.input.0": {
     "en": "Postal code",
-    "ru": "TODO"
+    "ru": "Почтовый индекс"
   },
   "intake.Q4b.rg.scg.option.1": {
-    "en": "I don’t know/can’t remember",
-    "ru": "TODO"
+    "en": "I don’t know",
+    "ru": "Я не знаю"
   },
   "intake.Q4b.rg.scg.option.2": {
     "en": "Not applicable (e.g. don’t have a fixed workplace)",
-    "ru": "TODO"
+    "ru": "Неприменимо (например, нет постоянного места работы)"
   },
   "intake.Q4b.error.3": {
     "en": "Please enter the digits of your postal code",
-    "ru": "TODO"
+    "ru": "Пожалуйста, введите цифры вашего почтового индекса"
   },
   "intake.Q4b.error.4": {
     "en": "Please enter at most 5 digits",
-    "ru": "TODO"
+    "ru": "Пожалуйста, введите не более 5 цифр"
   },
   "intake.Q4h.title.0": {
     "en": "Which of the following descriptions most closely matches with your main occupation? ",
-    "ru": "TODO"
+    "ru": "Какое из следующих описаний наиболее соответствует вашему основному занятию?"
   },
   "intake.Q4h.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "intake.Q4h.helpGroup.text.1": {
     "en": "To check how representative our sample is compared to the population as a whole and to find out whether the chance of getting COVID-19 or flu are different for people in different types of occupation.",
-    "ru": "TODO"
+    "ru": "Чтобы проверить, насколько репрезентативна наша выборка по сравнению с населением в целом, и выяснить, различна ли вероятность заболеть COVID-19 или гриппом у людей разного рода занятий."
   },
   "intake.Q4h.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "intake.Q4h.helpGroup.text.3": {
     "en": "Please tick the box that most closely resembles your main occupation.",
-    "ru": "TODO"
+    "ru": "Пожалуйста, отметьте галочкой тот пункт, который больше всего соответствует вашему основному занятию."
   },
   "intake.Q4h.rg.scg.option.0": {
     "en": "Services and sales workers (Personal Services Workers, Sales Workers, Personal Care Workers, Protective Services Workers)",
-    "ru": "TODO"
+    "ru": "Работники сферы услуг и продаж (работники бытового обслуживания, торговые работники, работники сферы личного ухода и гигиены или работники, оказывающие помощь совершеннолетним лицам с ограниченными возможностями)"
   },
   "intake.Q4h.rg.scg.option.1": {
     "en": "Craft and related trades workers (Handicraft and printing workers, Food processing, wood working, garment and other craft and related trades workers,  Metal, machinery and related trades workers, Electrical and electronic trades workers, Building and related trades workers, excluding electricians)",
-    "ru": "TODO"
+    "ru": "Работники ремесленных и смежных профессий (работники ремесленных и полиграфических предприятий, работники пищевой, деревообрабатывающей, швейной и других ремесленных и смежных профессий, работники металлургии, машиностроения и смежных профессий, работники электротехники и электронной промышленности, работники строительных и смежных профессий, за исключением электриков)"
   },
   "intake.Q4h.rg.scg.option.2": {
     "en": "Armed forces occupations (Commissioned armed forces officers, Armed forces occupations other ranks, Non-commissioned armed forces officers)",
-    "ru": "TODO"
+    "ru": "Военные профессии (офицеры, военнослужащие других званий и унтер-офицеры Сил обороны)"
   },
   "intake.Q4h.rg.scg.option.3": {
     "en": "Managers (Chief Executives, Senior Officials and Legislators, Administrative and Commercial Managers, Production and Specialized Services Managers, Hospitality, Retail and Other Services Managers)",
-    "ru": "TODO"
+    "ru": "Менеджеры (руководители высокого ранга, старшие должностные лица и законодатели, административные и коммерческие менеджеры, менеджеры по производству и специализированным услугам, менеджеры по гостиничному бизнесу, розничной торговле и другим услугам)"
   },
   "intake.Q4h.rg.scg.option.4": {
     "en": "Professionals (Science and Engineering Professionals, Health Professionals,  Teaching Professionals, Business and Administration Professionals, Information and Communications Technology Professionals, Legal, Social and Cultural Professionals)",
-    "ru": "TODO"
+    "ru": "Профессионалы (специалисты в области науки и техники, специалисты здравоохранения, преподаватели, специалисты в области бизнеса и управления, специалисты в области информационно-коммуникационных технологий, специалисты в области права, социальной и культурной сферы)"
   },
   "intake.Q4h.rg.scg.option.5": {
     "en": "Technicians and associate professionals (Science and Engineering Associate Professionals, Health Associate Professionals, Business and Administration Associate Professionals, Legal, Social, Cultural and Related Associate Professionals, Information and Communications Technicians)",
-    "ru": "TODO"
+    "ru": "Техники и младшие специалисты (младшие специалисты по науке и технике, младшие специалисты по здравоохранению, младшие специалисты по бизнесу и администрированию, младшие специалисты по юридическим, социальным, культурным и смежным вопросам, технические специалисты по информационно-коммуникационным технологиям)"
   },
   "intake.Q4h.rg.scg.option.6": {
     "en": "Clerical support workers (General and Keyboard Clerks, Customer Services Clerks,  Numerical and Material Recording Clerks, Other Clerical Support Workers)",
-    "ru": "TODO"
+    "ru": "Работники канцелярской поддержки (специалисты по общему делопроизводству и другие работники конторы, работники по обслуживанию клиентов, специалисты по числовому учету и учету материалов, другие работники канцелярской поддержки)"
   },
   "intake.Q4h.rg.scg.option.7": {
     "en": "Skilled agricultural, forestry and fishery workers",
-    "ru": "TODO"
+    "ru": "Квалифицированные работники сельского, лесного и рыбного хозяйства"
   },
   "intake.Q4h.rg.scg.option.8": {
     "en": "Plant and machine operators and assemblers (Stationary Plant and Machine Operators, Assemblers, Drivers and Mobile Plant Operators)",
-    "ru": "TODO"
+    "ru": "Операторы и монтажники установок и машин (операторы стационарных установок и машин, сборщики, водители и операторы мобильных установок)"
   },
   "intake.Q4h.rg.scg.option.9": {
     "en": "Elementary occupations (Cleaners and Helpers, Agricultural, Forestry and Fishery Labourers, Labourers in Mining, Construction, Manufacturing and Transport, Food Preparation Assistants, Street and Related Sales and Services Workers, Refuse Workers and Other Elementary Workers)",
-    "ru": "TODO"
+    "ru": "Низкоквалифицированные работники (уборщики и помощники, рабочие в сельском, лесном и рыбном хозяйстве, рабочие в горнодобывающей промышленности, строительстве, на производстве и транспорте, помощники по приготовлению пищи, работники уличной торговли и сопутствующих услуг, работники по сбору мусора и другие представители подобных форм занятости)"
   },
   "intake.Q4h.rg.scg.input.10": {
     "en": "Other",
-    "ru": "TODO"
+    "ru": "Другое"
   },
   "intake.Q4h.rg.scg.description.input.10": {
     "en": "Describe here (optional)",
-    "ru": "TODO"
+    "ru": "Опишите здесь (необязательно)"
   },
   "intake.Q4d.title.0": {
     "en": "What is the highest level of formal education/qualification that you have?",
-    "ru": "TODO"
+    "ru": "Какой у вас высший уровень формального образования/формальной квалификации?"
   },
   "intake.Q4d.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "intake.Q4d.helpGroup.text.1": {
     "en": "To check how representative our sample is compared to the population of the UK (Italy, Belgium..) as a whole.",
-    "ru": "TODO"
+    "ru": "Чтобы проверить, насколько репрезентативна наша выборка по сравнению с населением Великобритании (Италии, Бельгии...) в целом."
   },
   "intake.Q4d.helpGroup.text.2": {
-    "en": "How should I answer this question?",
-    "ru": "TODO"
+    "en": "How should I answer it?",
+    "ru": "Как мне на это ответить?"
   },
   "intake.Q4d.helpGroup.text.3": {
     "en": "Please choose the box that represents your HIGHEST level of educational achievements. The different option rougly equate to: 1 - no qualifications, 2 - school-leaving exams at around 16 years of age, 3 - school-leaving exams at around 18 years of age, 4 - University degree or equivalent professional qualification, 5 - Higher degree or advanced professional qualification. If you are an adult who is currently undergoing part - time training(e.g.night school) then tick the box that represents your current highest level of education.",
-    "ru": "TODO"
+    "ru": "Пожалуйста, выберите ячейку, которая соответствует вашему ВЫСОЧАЙШЕМУ уровню образовательных достижений. Каждый вариант примерно равен: 1 – отсутствие квалификации, 2 – выпускные экзамены в возрасте около 16 лет, 3 – выпускные экзамены в возрасте около 18 лет, 4 – Степень бакалавра или эквивалентная профессиональная квалификация, 5 – высшая степень или повышенная профессиональная квалификация. Если вы взрослый человек, который в настоящее время проходит обучение заочно (например, в вечерней школе), отметьте ячейку, соответствующую вашему текущему наивысшему уровню образования."
   },
   "intake.Q4d.rg.nUk7.text.0": {
     "en": "Select all options that apply",
-    "ru": "TODO"
+    "ru": "Выберите все подходящие варианты"
   },
   "intake.Q4d.rg.mcg.option.0": {
     "en": "I have no formal qualification",
-    "ru": "TODO"
+    "ru": "У меня нет формальной квалификации"
   },
   "intake.Q4d.rg.mcg.option.1": {
     "en": "GCSEs, levels, CSEs or equivalent",
-    "ru": "TODO"
+    "ru": "среднее образование, профессиональное образование или эквивалентные"
   },
   "intake.Q4d.rg.mcg.option.2": {
     "en": "A-levels or equivalent (e.g. Higher, NVQ Level3, BTEC)",
@@ -289,99 +289,99 @@
   },
   "intake.Q4d.rg.mcg.option.3": {
     "en": "Bachelor Degree (BA, BSc) or equivalent",
-    "ru": "TODO"
+    "ru": "Степень бакалавра (BA, BSc) или эквивалент"
   },
   "intake.Q4d.rg.mcg.option.4": {
     "en": "Higher Degree or equivalent (e.g. Masters Degree, PGCE, PhD, Medical Doctorate, Advanced Professional Award)",
-    "ru": "TODO"
+    "ru": "Высшая степень или ее эквивалент (например, степень магистра, PGCE, PhD, докторская степень, свидетельство о послеуниверситетском профессиональном образовании)"
   },
   "intake.Q4d.rg.mcg.option.5": {
     "en": "I am still in education",
-    "ru": "TODO"
+    "ru": "Я все еще учусь"
   },
   "intake.Q5.title.0": {
     "en": "Except people you meet on public transportation, do you have contact with any of the following during the course of a typical day (so without COVID-19 measures)?",
-    "ru": "TODO"
+    "ru": "За исключением людей, которых вы встречаете в общественном транспорте, контактировали ли вы с кем-либо из следующих лиц в течение обычного дня (то есть без мер по борьбе с COVID-19)?"
   },
   "intake.Q5.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "intake.Q5.helpGroup.text.1": {
     "en": "To find out whether you are likely to be exposed to more infection risk than the average person (e.g. work with children, or patients).",
-    "ru": "TODO"
+    "ru": "Чтобы выяснить, подвергаетесь ли вы большему риску заражения, чем средний человек (например, работая с детьми или пациентами)."
   },
   "intake.Q5.helpGroup.text.2": {
-    "en": "Why are we asking this?",
-    "ru": "TODO"
+    "en": "Hint:",
+    "ru": "Подсказка:"
   },
   "intake.Q5.helpGroup.text.3": {
     "en": "Groups of people could include any setting where you come into contact with large numbers of people at once, e.g. a teacher who may contact many children in a day.",
-    "ru": "TODO"
+    "ru": "Группы людей могут подразумевать любые условия, в которых вы вступаете в контакт с большим количеством людей одновременно, например как учитель, который может контактировать со многими детьми за день."
   },
   "intake.Q5.rg.dwL8.text.0": {
     "en": "Select all options that apply",
-    "ru": "TODO"
+    "ru": "Выберите все подходящие варианты"
   },
   "intake.Q5.rg.mcg.option.0": {
     "en": "More than 10 children or teenagers (without counting your own children)",
-    "ru": "TODO"
+    "ru": "Более 10 детей или подростков (не считая собственных детей)"
   },
   "intake.Q5.rg.mcg.option.1": {
     "en": "More than 10 people aged over 65",
-    "ru": "TODO"
+    "ru": "Более 10 человек в возрасте старше 65 лет"
   },
   "intake.Q5.rg.mcg.option.2": {
     "en": "Patients",
-    "ru": "TODO"
+    "ru": "Пациенты"
   },
   "intake.Q5.rg.mcg.option.3": {
     "en": "Groups of people (more than 10 individuals at any one time)",
-    "ru": "TODO"
+    "ru": "Группы людей (более 10 человек одновременно)"
   },
   "intake.Q5.rg.mcg.option.4": {
     "en": "None of the above",
-    "ru": "TODO"
+    "ru": "Ни один вариант из вышеперечисленных"
   },
   "intake.Q6.title.0": {
     "en": "INCLUDING YOU, how many people in each of the following age groups live in your household?",
-    "ru": "TODO"
+    "ru": "ВКЛЮЧАЯ ВАС, сколько человек в каждой из следующих возрастных групп проживает в вашем домохозяйстве?"
   },
   "intake.Q6.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "intake.Q6.helpGroup.text.1": {
     "en": "Members of larger households, or those with children, may more likely get infected than the others.",
-    "ru": "TODO"
+    "ru": "Члены больших домохозяйств или люди с детьми могут заразиться с большей вероятностью, чем другие."
   },
   "intake.Q6.rg.mat.row0.l.label.0": {
     "en": "0 - 4 years",
-    "ru": "TODO"
+    "ru": "От 0 до 4 лет"
   },
   "intake.Q6.rg.mat.row1.l.label.0": {
     "en": "5 - 18 years",
-    "ru": "TODO"
+    "ru": "От 5 до 18 лет"
   },
   "intake.Q6.rg.mat.row2.l.label.0": {
     "en": "19 - 44 years",
-    "ru": "TODO"
+    "ru": "От 19 до 44 лет"
   },
   "intake.Q6.rg.mat.row3.l.label.0": {
     "en": "45 - 64 years",
-    "ru": "TODO"
+    "ru": "От 45 до 64 лет"
   },
   "intake.Q6.rg.mat.row4.l.label.0": {
     "en": "65+",
-    "ru": "TODO"
+    "ru": "65 лет и старше"
   },
   "intake.Q6c.title.0": {
     "en": "One or several of these people are they at risk of complications in case of flu or COVID-19 (e.g, pregnant, over 65, underlying health condition, obese, etc.)?",
-    "ru": "TODO"
+    "ru": "Один или несколько из этих людей подвержены риску осложнений в случае гриппа или COVID-19 (например, беременны, старше 65 лет, имеют сопутствующее хроническое заболевание, страдают ожирением и т. д.)?"
   },
   "intake.Q6c.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "intake.Q6c.helpGroup.text.1": {
     "en": "TODO",
@@ -389,7 +389,7 @@
   },
   "intake.Q6c.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "intake.Q6c.helpGroup.text.3": {
     "en": "TODO",
@@ -397,271 +397,271 @@
   },
   "intake.Q6c.rg.scg.option.0": {
     "en": "Yes",
-    "ru": "TODO"
+    "ru": "Да"
   },
   "intake.Q6c.rg.scg.option.1": {
     "en": "No",
-    "ru": "TODO"
+    "ru": "Нет"
   },
   "intake.Q6c.rg.scg.option.2": {
     "en": "Don't know/would rather not answer",
-    "ru": "TODO"
+    "ru": "Не знаю/Предпочитаю не отвечать"
   },
   "intake.Q6b.title.0": {
     "en": "How many of the children in your household go to school or day-care?",
-    "ru": "TODO"
+    "ru": "Сколько детей в вашей семье ходят в школу или детский сад?"
   },
   "intake.Q6b.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "intake.Q6b.helpGroup.text.1": {
     "en": "Attending school, daycare or childcare can increase the risk of contracting the coronavirus or influenza, as well as other similar illnesses. We wish to study this issue.",
-    "ru": "TODO"
+    "ru": "Посещение школы, детского сада или присмотра за детьми может увеличить риск заражения коронавирусом или гриппом, а также другими подобными заболеваниями. Мы хотим изучить этот вопрос."
   },
   "intake.Q6b.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "intake.Q6b.helpGroup.text.3": {
     "en": "If your child attends school, daycare or childcare (even if only one day a week), please count it. Participation in (sport) associations or other extracurricular activities does not count.",
-    "ru": "TODO"
+    "ru": "Если ваш ребенок ходит в школу, детский сад или присмотр за детьми (даже если только один день в неделю), пожалуйста, посчитайте это. Участие в кружках по интересам (спортивных секциях) или других внеклассных мероприятиях не считается."
   },
   "intake.Q6b.rg.scg.option.0": {
     "en": "None",
-    "ru": "TODO"
+    "ru": "Ни одного"
   },
   "intake.Q6b.rg.scg.option.6": {
     "en": "More than 5",
-    "ru": "TODO"
+    "ru": "Более пяти"
   },
   "intake.Q7.title.0": {
     "en": "What means of transportation do you typically use for your daily activities?",
-    "ru": "TODO"
+    "ru": "Какие виды транспорта вы обычно используете в повседневной деятельности?"
   },
   "intake.Q7.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "intake.Q7.helpGroup.text.1": {
     "en": "We want to know if people who regularly use public transportation have a higher risk of infection.",
-    "ru": "TODO"
+    "ru": "Мы хотим знать, подвергаются ли люди, регулярно пользующиеся общественным транспортом, более высокому риску заражения."
   },
   "intake.Q7.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "intake.Q7.helpGroup.text.3": {
     "en": "Mark the box that best matches the means of transportation you most frequently use.",
-    "ru": "TODO"
+    "ru": "Отметьте галочкой тот вид транспорта, который вы чаще всего используете."
   },
   "intake.Q7.rg.9JtQ.text.0": {
     "en": "Please select the transportation means you use the most.",
-    "ru": "TODO"
+    "ru": "Пожалуйста, выберите тот вид транспорта, которым вы пользуетесь чаще всего."
   },
   "intake.Q7.rg.scg.option.0": {
     "en": "Walking",
-    "ru": "TODO"
+    "ru": "Хожу пешком"
   },
   "intake.Q7.rg.scg.option.1": {
     "en": "Bike",
-    "ru": "TODO"
+    "ru": "Велосипед"
   },
   "intake.Q7.rg.scg.option.2": {
     "en": "Motorbike/scooter",
-    "ru": "TODO"
+    "ru": "Мотоцикл/скутер"
   },
   "intake.Q7.rg.scg.option.3": {
     "en": "Car",
-    "ru": "TODO"
+    "ru": "Автомобиль"
   },
   "intake.Q7.rg.scg.option.4": {
     "en": "Public transportation (bus, train, tube, etc)",
-    "ru": "TODO"
+    "ru": "Общественный транспорт (автобус, поезд, метро и т. д.)"
   },
   "intake.Q7.rg.scg.option.5": {
     "en": "Other",
-    "ru": "TODO"
+    "ru": "Другое"
   },
   "intake.Q8.title.0": {
     "en": "How often do you have common colds or flu-like diseases?",
-    "ru": "TODO"
+    "ru": "Как часто вы болеете простудными или гриппоподобными заболеваниями?"
   },
   "intake.Q8.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "intake.Q8.helpGroup.text.1": {
     "en": "We want to know if some people have an increased risk of infection.",
-    "ru": "TODO"
+    "ru": "Мы хотим знать, есть ли у некоторых людей повышенный риск заражения."
   },
   "intake.Q8.rg.scg.option.0": {
     "en": "Never",
-    "ru": "TODO"
+    "ru": "Никогда"
   },
   "intake.Q8.rg.scg.option.1": {
     "en": "Once or twice a year",
-    "ru": "TODO"
+    "ru": "Один или два раза в год"
   },
   "intake.Q8.rg.scg.option.2": {
     "en": "Between 3 and 5 times a year",
-    "ru": "TODO"
+    "ru": "От 3 до 5 раз в год"
   },
   "intake.Q8.rg.scg.option.3": {
     "en": "Between 6 and 10 times a year",
-    "ru": "TODO"
+    "ru": "От 6 до 10 раз в год"
   },
   "intake.Q8.rg.scg.option.4": {
     "en": "More than 10 times a year",
-    "ru": "TODO"
+    "ru": "Более 10 раз в год"
   },
   "intake.Q8.rg.scg.option.5": {
     "en": "I don't know",
-    "ru": "TODO"
+    "ru": "Я не знаю"
   },
   "intake.Q11.title.0": {
     "en": "Do you take regular medication for any of the following medical conditions?",
-    "ru": "TODO"
+    "ru": "Принимаете ли вы регулярно лекарства от любого из следующих заболеваний?"
   },
   "intake.Q11.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "intake.Q11.helpGroup.text.1": {
     "en": "This question allows us to find out whether you have other medical conditions that may increase your risk of having more severe illness if you are infected.",
-    "ru": "TODO"
+    "ru": "Этот вопрос позволяет нам выяснить, есть ли у вас другие заболевания, которые могут увеличить риск более тяжелого протекания заболевания в случае заражения."
   },
   "intake.Q11.helpGroup.text.2": {
-    "en": "How should I answer this question?",
-    "ru": "TODO"
+    "en": "How should I answer it?",
+    "ru": "Как мне на это ответить?"
   },
   "intake.Q11.helpGroup.text.3": {
     "en": "Only answer \"yes\" if you take regular medication for your medical problem. If, for instance, you only occasionally take an asthma inhaler, then do not answer \"yes\" for asthma.",
-    "ru": "TODO"
+    "ru": "Отвечайте \"да\" только в том случае, если вы регулярно принимаете лекарства по поводу своей медицинской проблемы. Если, например, вы лишь изредка применяете ингалятор от астмы, то не отвечайте \"да\" про астму."
   },
   "intake.Q11.rg.hYo0.text.0": {
     "en": "Select all options that apply",
-    "ru": "TODO"
+    "ru": "Выберите все подходящие варианты"
   },
   "intake.Q11.rg.mcg.option.0": {
     "en": "No",
-    "ru": "TODO"
+    "ru": "Нет"
   },
   "intake.Q11.rg.mcg.option.1": {
     "en": "Asthma",
-    "ru": "TODO"
+    "ru": "Астма"
   },
   "intake.Q11.rg.mcg.option.2": {
     "en": "Diabetes",
-    "ru": "TODO"
+    "ru": "Диабет"
   },
   "intake.Q11.rg.mcg.option.3": {
     "en": "Chronic lung disorder besides asthma e.g. COPD, emphysema, or other disorders that affect your breathing",
-    "ru": "TODO"
+    "ru": "Хроническое заболевание легких, помимо астмы, например ХОБЛ, эмфизема или другие заболевания, влияющие на дыхание"
   },
   "intake.Q11.rg.mcg.option.4": {
     "en": "Heart disorder",
-    "ru": "TODO"
+    "ru": "Расстройство сердечной деятельности"
   },
   "intake.Q11.rg.mcg.option.5": {
     "en": "Kidney disorder",
-    "ru": "TODO"
+    "ru": "Заболевание почек"
   },
   "intake.Q11.rg.mcg.option.6": {
     "en": "An immunocompromising condition (e.g. splenectomy, organ transplant, acquired immune deficiency, cancer treatment)",
-    "ru": "TODO"
+    "ru": "Состояние иммунодефицита (например, спленэктомия, трансплантация органов, приобретенный иммунодефицит, лечение рака)"
   },
   "intake.Q11.rg.mcg.option.7": {
     "en": "I would rather not answer",
-    "ru": "TODO"
+    "ru": "Я предпочитаю не отвечать"
   },
   "intake.Q12.title.0": {
     "en": "Are you currently pregnant?",
-    "ru": "TODO"
+    "ru": "Вы сейчас беременны?"
   },
   "intake.Q12.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "intake.Q12.helpGroup.text.1": {
     "en": "Pregnancy is a potential risk factor for severe symptoms in the event of infection.",
-    "ru": "TODO"
+    "ru": "Беременность является потенциальным фактором риска развития тяжелых симптомов в случае заражения."
   },
   "intake.Q12.rg.scg.option.0": {
     "en": "Yes",
-    "ru": "TODO"
+    "ru": "Да"
   },
   "intake.Q12.rg.scg.option.1": {
     "en": "No",
-    "ru": "TODO"
+    "ru": "Нет"
   },
   "intake.Q12.rg.scg.option.2": {
     "en": "Don't know/would rather not answer",
-    "ru": "TODO"
+    "ru": "Не знаю/предпочитаю не отвечать"
   },
   "intake.Q12b.title.0": {
     "en": "Which trimester of the pregnancy are you in?",
-    "ru": "TODO"
+    "ru": "В каком триместре беременности вы находитесь?"
   },
   "intake.Q12b.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "intake.Q12b.helpGroup.text.1": {
     "en": "The risk of severe symptoms can vary depending on the pregnancy trimester, but this link has not yet been clearly established.",
-    "ru": "TODO"
+    "ru": "Риск развития тяжелых симптомов может варьироваться в зависимости от триместра беременности, но эта связь еще четко не установлена."
   },
   "intake.Q12b.rg.scg.option.0": {
     "en": "First trimester (week 1-12)",
-    "ru": "TODO"
+    "ru": "Первый триместр (1–12 недели)"
   },
   "intake.Q12b.rg.scg.option.1": {
     "en": "Second trimester (week 13-28)",
-    "ru": "TODO"
+    "ru": "Второй триместр (13–28 неделя)"
   },
   "intake.Q12b.rg.scg.option.2": {
     "en": "Third trimester (week 29-delivery)",
-    "ru": "TODO"
+    "ru": "Третий триместр (29 неделя–роды)"
   },
   "intake.Q12b.rg.scg.option.3": {
     "en": "Don't know/would rather not answer",
-    "ru": "TODO"
+    "ru": "Не знаю/предпочитаю не отвечать"
   },
   "intake.Q13.title.0": {
     "en": "Do you smoke tobacco?",
-    "ru": "TODO"
+    "ru": "Вы курите табак?"
   },
   "intake.Q13.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "intake.Q13.helpGroup.text.1": {
     "en": "Smoking might make you more likely to get a more severe dose of virus disease. We would like to test this.",
-    "ru": "TODO"
+    "ru": "Курение может повысить вероятность получения более тяжелой дозы вирусного заболевания. Мы хотели бы это проверить."
   },
   "intake.Q13.helpGroup.text.2": {
-    "en": "How should I answer this question?",
-    "ru": "TODO"
+    "en": "How should I answer it?",
+    "ru": "Как мне на это ответить?"
   },
   "intake.Q13.helpGroup.text.3": {
     "en": "Please, answer as accurately as possible.",
-    "ru": "TODO"
+    "ru": "Пожалуйста, ответьте как можно точнее."
   },
   "intake.Q13.rg.scg.option.0": {
     "en": "No",
-    "ru": "TODO"
+    "ru": "Нет"
   },
   "intake.Q13.rg.scg.option.1": {
     "en": "Yes, occasionally",
-    "ru": "TODO"
+    "ru": "Да, иногда"
   },
   "intake.Q13.rg.scg.option.2": {
     "en": "Yes, daily, fewer than 10 times a day",
-    "ru": "TODO"
+    "ru": "Да, ежедневно, менее 10 раз в день"
   },
   "intake.Q13.rg.scg.option.3": {
     "en": "Yes, daily, 10 or more times a day",
-    "ru": "TODO"
+    "ru": "Да, ежедневно, 10 и более раз в день"
   },
   "intake.Q13.rg.scg.option.4": {
     "en": "Yes, only e-cigarettes",
@@ -669,154 +669,154 @@
   },
   "intake.Q13.rg.scg.option.5": {
     "en": "Dont know/would rather not answer",
-    "ru": "TODO"
+    "ru": "Не знаю/предпочитаю не отвечать"
   },
   "intake.Q14.title.0": {
     "en": "Do you have one of the following allergies that can cause respiratory symptoms?",
-    "ru": "TODO"
+    "ru": "Есть ли у вас одна из следующих аллергий, которая может вызвать респираторные симптомы?"
   },
   "intake.Q14.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "intake.Q14.helpGroup.text.1": {
     "en": "Certain allergies provoke the same symptoms as respiratory infections.",
-    "ru": "TODO"
+    "ru": "Некоторые аллергии вызывают те же симптомы, что и респираторные инфекции."
   },
   "intake.Q14.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "intake.Q14.helpGroup.text.3": {
     "en": "Multiple answers are possible, mark all that apply.",
-    "ru": "TODO"
+    "ru": "Возможно несколько ответов, отметьте все подходящие."
   },
   "intake.Q14.rg.7tXM.text.0": {
     "en": "Select all options that apply",
-    "ru": "TODO"
+    "ru": "Выберите все подходящие варианты"
   },
   "intake.Q14.rg.mcg.option.0": {
     "en": "Hay fever",
-    "ru": "TODO"
+    "ru": "Сенная лихорадка"
   },
   "intake.Q14.rg.mcg.option.1": {
     "en": "Allergy against house dust mite",
-    "ru": "TODO"
+    "ru": "Аллергия на клеща домашней пыли"
   },
   "intake.Q14.rg.mcg.option.2": {
     "en": "Allergy against domestic animals or pets",
-    "ru": "TODO"
+    "ru": "Аллергия на домашних животных или питомцев"
   },
   "intake.Q14.rg.mcg.option.3": {
     "en": "Other allergies that cause respiratory symptoms (e.g. sneezing, runny eyes)",
-    "ru": "TODO"
+    "ru": "Другие аллергии, вызывающие респираторные симптомы (например, чихание, слезотечение)"
   },
   "intake.Q14.rg.mcg.option.4": {
     "en": "I do not have an allergy that causes respiratory symptoms",
-    "ru": "TODO"
+    "ru": "У меня нет аллергии, вызывающей респираторные симптомы"
   },
   "intake.Q15.title.0": {
     "en": "Do you follow a special diet?",
-    "ru": "TODO"
+    "ru": "Вы соблюдаете специальную диету?"
   },
   "intake.Q15.rg.mVmB.text.0": {
     "en": "Select all options that apply",
-    "ru": "TODO"
+    "ru": "Выберите все подходящие варианты"
   },
   "intake.Q15.rg.mcg.option.0": {
     "en": "No special diet",
-    "ru": "TODO"
+    "ru": "Никакой специальной диеты"
   },
   "intake.Q15.rg.mcg.option.1": {
     "en": "Vegetarian",
-    "ru": "TODO"
+    "ru": "Вегетарианство"
   },
   "intake.Q15.rg.mcg.option.2": {
     "en": "Veganism",
-    "ru": "TODO"
+    "ru": "Веганство"
   },
   "intake.Q15.rg.mcg.option.3": {
     "en": "Low-calorie",
-    "ru": "TODO"
+    "ru": "Низкокалорийное питание"
   },
   "intake.Q15.rg.mcg.option.4": {
     "en": "Other",
-    "ru": "TODO"
+    "ru": "Другое"
   },
   "intake.Q26.title.0": {
     "en": "Are you taking or do you plan to take this winter homeopathic products in order to prevent COVID-19?",
-    "ru": "TODO"
+    "ru": "Принимаете ли вы или планируете ли принимать этой зимой гомеопатические препараты для профилактики COVID-19?"
   },
   "intake.Q26.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "intake.Q26.helpGroup.text.1": {
     "en": "We are interested in knowing more about your health-related habits",
-    "ru": "TODO"
+    "ru": "Нам интересно узнать больше о ваших привычках, связанных со здоровьем"
   },
   "intake.Q26.rg.scg.option.0": {
     "en": "Yes",
-    "ru": "TODO"
+    "ru": "Да"
   },
   "intake.Q26.rg.scg.option.1": {
     "en": "No",
-    "ru": "TODO"
+    "ru": "Нет"
   },
   "intake.Q26.rg.scg.option.2": {
     "en": "I don't know",
-    "ru": "TODO"
+    "ru": "Не знаю"
   },
   "intake.Q26.rg.scg.option.3": {
     "en": "I don't want to answer",
-    "ru": "TODO"
+    "ru": "Я не хочу отвечать"
   },
   "intake.Q17.title.0": {
     "en": "Where did you first hear about the platform?",
-    "ru": "TODO"
+    "ru": "Где вы впервые услышали об этой платформе?"
   },
   "intake.Q17.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "intake.Q17.helpGroup.text.1": {
     "en": "We would like to know how you found out about our website.",
-    "ru": "TODO"
+    "ru": "Мы хотели бы знать, как вы узнали о нашем сайте."
   },
   "intake.Q17.rg.hIai.text.0": {
     "en": "Select all options that apply",
-    "ru": "TODO"
+    "ru": "Выберите все подходящие варианты"
   },
   "intake.Q17.rg.mcg.option.0": {
     "en": "Radio or television",
-    "ru": "TODO"
+    "ru": "По радио или телевидению"
   },
   "intake.Q17.rg.mcg.option.1": {
     "en": "In the newspaper or in a magazine",
-    "ru": "TODO"
+    "ru": "В газете или в журнале"
   },
   "intake.Q17.rg.mcg.option.2": {
     "en": "The internet (a website, link, a search engine)",
-    "ru": "TODO"
+    "ru": "В интернете (сайт, ссылка, поисковая система)"
   },
   "intake.Q17.rg.mcg.option.3": {
     "en": "By poster",
-    "ru": "TODO"
+    "ru": "На плакате"
   },
   "intake.Q17.rg.mcg.option.4": {
     "en": "Via family or friends",
-    "ru": "TODO"
+    "ru": "Через семью или друзей"
   },
   "intake.Q17.rg.mcg.option.5": {
     "en": "Via school or work",
-    "ru": "TODO"
+    "ru": "На учебе или работе"
   },
   "intake.Q17.rg.mcg.option.6": {
     "en": "Other",
-    "ru": "TODO"
+    "ru": "Другое"
   },
   "intake.surveyEnd.title.0": {
     "en": "Thank you! This was all for now, please submit (push « send ») your responses. Please come back or continue reporting symptoms you experience during the last week.",
-    "ru": "TODO"
+    "ru": "Спасибо! На этом пока всё, пожалуйста, отправьте свои ответы (нажмите «отправить»). Пожалуйста, возвращайтесь или продолжайте сообщать о симптомах, которые вы испытали в течение прошедшей недели."
   }
 }
