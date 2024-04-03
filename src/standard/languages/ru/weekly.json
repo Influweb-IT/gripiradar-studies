@@ -1,1582 +1,1562 @@
 {
   "weekly.name.0": {
     "en": "Weekly questionnaire",
-    "ru": "TODO"
+    "ru": "Еженедельная анкета"
   },
   "weekly.description.0": {
     "en": "Please also report if you had no complaints.",
-    "ru": "TODO"
+    "ru": "Пожалуйста, также сообщите, не было ли у вас жалоб."
   },
   "weekly.typicalDuration.0": {
     "en": "Duration 1-5 minutes",
-    "ru": "TODO"
+    "ru": "Продолжительность от 1 до 5 минут"
   },
   "weekly.Q1.title.0": {
     "en": "Have you had any of the following symptoms since your last questionnaire (or in the past week, if this the first tie you are taking this questionnaire)?",
-    "ru": "TODO"
+    "ru": "Были ли у вас какие-либо из следующих симптомов после заполнения последней анкеты (или на прошлой неделе, если вы впервые заполняете эту анкету)?"
   },
   "weekly.Q1.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "ru": "TODO"
+    "en": "Why are we asking this question?",
+    "ru": "Почему мы задаем этот вопрос?"
   },
   "weekly.Q1.helpGroup.text.1": {
     "en": "The most important part of this study is about following up on the symptoms you have reported.",
-    "ru": "TODO"
+    "ru": "Самая важная часть этого исследования — наблюдение за симптомами, о которых вы сообщили."
   },
   "weekly.Q1.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "weekly.Q1.helpGroup.text.3": {
     "en": "If you suffer from chronic illness, only indicate symptoms that have changed. For example, if you experience chronic shortness of breath, only mark this symptom if it has recently gotten worse. Multiple answers possible.",
-    "ru": "TODO"
+    "ru": "Если вы страдаете хроническим заболеванием, указывайте только те симптомы, которые изменились. Например, если вы испытываете хроническую одышку, отмечайте этот симптом только в том случае, если он недавно ухудшился. Возможно несколько ответов."
   },
   "weekly.Q1.rg.cGJZ.text.0": {
     "en": "Multiple answers possible. If you suffer from chronic illness, only indicate symptoms that have changed. For example, if you experience chronic shortness of breath, only mark this symptom if it has recently gotten worse.",
-    "ru": "TODO"
+    "ru": "Возможно несколько ответов. Если вы страдаете хроническим заболеванием, указывайте только те симптомы, которые изменились. Например, если вы испытываете хроническую одышку, отмечайте этот симптом только в том случае, если он недавно ухудшился."
   },
   "weekly.Q1.rg.mcg.option.0": {
     "en": "No symptoms",
-    "ru": "TODO"
+    "ru": "Нет симптомов"
   },
   "weekly.Q1.rg.mcg.option.1": {
     "en": "Fever",
-    "ru": "TODO"
+    "ru": "Высокая температура"
   },
   "weekly.Q1.rg.mcg.option.2": {
     "en": "Chills",
-    "ru": "TODO"
+    "ru": "Озноб"
   },
   "weekly.Q1.rg.mcg.option.3": {
     "en": "Runny or blocked nose",
-    "ru": "TODO"
+    "ru": "Насморк или заложенный нос"
   },
   "weekly.Q1.rg.mcg.option.4": {
     "en": "Sneezing",
-    "ru": "TODO"
+    "ru": "Чихание"
   },
   "weekly.Q1.rg.mcg.option.5": {
     "en": "Sore throat",
-    "ru": "TODO"
+    "ru": "Боль в горле"
   },
   "weekly.Q1.rg.mcg.option.6": {
     "en": "Cough",
-    "ru": "TODO"
+    "ru": "Кашель"
   },
   "weekly.Q1.rg.mcg.option.7": {
     "en": "Shortness of breath",
-    "ru": "TODO"
+    "ru": "Одышка"
   },
   "weekly.Q1.rg.mcg.option.8": {
     "en": "Headache",
-    "ru": "TODO"
+    "ru": "Головная боль"
   },
   "weekly.Q1.rg.mcg.option.9": {
     "en": "Muscle/joint pain",
-    "ru": "TODO"
+    "ru": "Мышечная/суставная боль"
   },
   "weekly.Q1.rg.mcg.option.10": {
     "en": "Chest pain",
-    "ru": "TODO"
+    "ru": "Боль в груди"
   },
   "weekly.Q1.rg.mcg.option.11": {
     "en": "Feeling tired or exhausted (malaise)",
-    "ru": "TODO"
+    "ru": "Чувство усталости или истощения (недомогание)"
   },
   "weekly.Q1.rg.mcg.option.12": {
     "en": "Loss of appetite",
-    "ru": "TODO"
+    "ru": "Потеря аппетита"
   },
   "weekly.Q1.rg.mcg.option.13": {
     "en": "Coloured sputum/phlegm",
-    "ru": "TODO"
+    "ru": "Окрашенная слюна/мокрота"
   },
   "weekly.Q1.rg.mcg.option.14": {
     "en": "Watery, bloodshot eyes",
-    "ru": "TODO"
+    "ru": "Слезящиеся, налитые кровью глаза"
   },
   "weekly.Q1.rg.mcg.option.15": {
     "en": "Nausea",
-    "ru": "TODO"
+    "ru": "Тошнота"
   },
   "weekly.Q1.rg.mcg.option.16": {
     "en": "Vomiting",
-    "ru": "TODO"
+    "ru": "Рвота"
   },
   "weekly.Q1.rg.mcg.option.17": {
     "en": "Diarrhoea",
-    "ru": "TODO"
+    "ru": "Диарея"
   },
   "weekly.Q1.rg.mcg.option.18": {
     "en": "Stomach ache",
-    "ru": "TODO"
+    "ru": "Боли в животе"
   },
   "weekly.Q1.rg.mcg.option.19": {
     "en": "Loss of smell",
-    "ru": "TODO"
+    "ru": "Потеря обоняния"
   },
   "weekly.Q1.rg.mcg.option.20": {
     "en": "Loss of taste",
-    "ru": "TODO"
+    "ru": "Потеря вкуса"
   },
   "weekly.Q1.rg.mcg.option.21": {
     "en": "Nose bleed",
-    "ru": "TODO"
+    "ru": "Носовое кровотечение"
   },
   "weekly.Q1.rg.mcg.option.22": {
     "en": "Rash",
-    "ru": "TODO"
+    "ru": "Сыпь"
   },
   "weekly.Q1.rg.mcg.option.23": {
     "en": "Other",
-    "ru": "TODO"
+    "ru": "Другое"
   },
   "weekly.HS.Q2.title.0": {
     "en": "When you filled in the previous questionnaire, you indicated that you were still sick. Are the symptoms you are  reporting now from the same timeframe as the symptoms you reported the last time?",
-    "ru": "TODO"
+    "ru": "Когда вы заполняли предыдущую анкету, вы указали, что всё еще болеете. Симптомы, о которых вы сообщаете сейчас, относятся к тому же периоду времени, что и симптомы, о которых вы сообщали в прошлый раз?"
   },
   "weekly.HS.Q2.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "ru": "TODO"
+    "en": "Why are we asking this question?",
+    "ru": "Почему мы задаем этот вопрос?"
   },
   "weekly.HS.Q2.helpGroup.text.1": {
     "en": "To speed up the completion of the rest of the questionnaire.",
-    "ru": "TODO"
+    "ru": "Чтобы ускорить заполнение остальной части анкеты."
   },
   "weekly.HS.Q2.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "weekly.HS.Q2.helpGroup.text.3": {
     "en": "If you think that the complaints you are indicating today are caused by the same infection or the same problem (the same period during which you experienced the complaints), answer 'yes'.",
-    "ru": "TODO"
+    "ru": "Если вы считаете, что жалобы, которые вы указываете сегодня, вызваны той же инфекцией или той же проблемой (продолжается тот же период, в течение которого вы испытывали жалобы), ответьте 'да'."
   },
   "weekly.HS.Q2.rg.scg.option.0": {
     "en": "Yes",
-    "ru": "TODO"
+    "ru": "Да"
   },
   "weekly.HS.Q2.rg.scg.option.1": {
     "en": "No",
-    "ru": "TODO"
+    "ru": "Нет"
   },
   "weekly.HS.Q2.rg.scg.option.2": {
     "en": "I don’t know/can’t remember",
-    "ru": "TODO"
+    "ru": "Не знаю/Не помню"
   },
   "weekly.HS.Q2.rg.scg.option.3": {
     "en": "This does not apply to me",
-    "ru": "TODO"
+    "ru": "Ко мне это не относится"
   },
   "weekly.HS.Qcov3.title.0": {
     "en": "In the 14 days before your symptoms started, have you been in close contact with someone for whom an antigenic or PCR test has confirmed that they have COVID-19?",
-    "ru": "TODO"
+    "ru": "В течение 14 дней до появления у вас симптомов были ли вы в тесном контакте с кем-то, у кого антигенный или ПЦР-тест подтвердил наличие COVID-19?"
   },
   "weekly.HS.Qcov3.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "ru": "TODO"
+    "en": "Why are we asking this question?",
+    "ru": "Почему мы задаем этот вопрос?"
   },
   "weekly.HS.Qcov3.helpGroup.text.1": {
     "en": "In  order to study how the coronavirus spreads within the general population.",
-    "ru": "TODO"
+    "ru": "Чтобы изучить, как коронавирус распространяется среди населения в целом."
   },
   "weekly.HS.Qcov3.rg.scg.option.0": {
     "en": "Yes",
-    "ru": "TODO"
+    "ru": "Да"
   },
   "weekly.HS.Qcov3.rg.scg.option.1": {
     "en": "No",
-    "ru": "TODO"
+    "ru": "Нет"
   },
   "weekly.HS.Qcov3.rg.scg.option.2": {
     "en": "I don’t know/can’t remember",
-    "ru": "TODO"
+    "ru": "Не знаю/Не помню"
   },
   "weekly.HS.Qcov3b.title.0": {
     "en": "Was this person or one of these persons a member of your household?",
-    "ru": "TODO"
+    "ru": "Был ли этот человек или одно из этих лиц членом вашего домохозяйства?"
   },
   "weekly.HS.Qcov3b.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "ru": "TODO"
+    "en": "Why are we asking this question?",
+    "ru": "Почему мы задаем этот вопрос?"
   },
   "weekly.HS.Qcov3b.helpGroup.text.1": {
     "en": "The coronavirus and influenza spread quickly indoors.",
-    "ru": "TODO"
+    "ru": "Коронавирус и грипп быстро распространяются в помещении."
   },
   "weekly.HS.Qcov3b.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "weekly.HS.Qcov3b.helpGroup.text.3": {
     "en": "A member of the household is defined as a person (not necessary a family member) who lives at the same address as you, and who shares the kitchen, living room, family room or dining room.",
-    "ru": "TODO"
+    "ru": "Член домохозяйства определяется как человек (не обязательно член семьи), который проживает по тому же адресу, что и вы, и который делит с вами кухню, гостиную, семейную комнату или столовую."
   },
   "weekly.HS.Qcov3b.rg.scg.option.0": {
     "en": "Yes",
-    "ru": "TODO"
+    "ru": "Да"
   },
   "weekly.HS.Qcov3b.rg.scg.option.1": {
     "en": "No",
-    "ru": "TODO"
+    "ru": "Нет"
   },
   "weekly.HS.Qcov3b.rg.scg.option.2": {
     "en": "I don’t know",
-    "ru": "TODO"
+    "ru": "Я не знаю"
   },
   "weekly.HS.Q3.title.0": {
     "en": "On what day did you begin feeling the first symptoms? If you do not recall the exact date, please give an approximate date.",
-    "ru": "TODO"
+    "ru": "В какой день вы почувствовали первые симптомы? Если вы не помните точную дату, укажите приблизительную."
   },
   "weekly.HS.Q3.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "ru": "TODO"
+    "en": "Why are we asking this question?",
+    "ru": "Почему мы задаем этот вопрос?"
   },
   "weekly.HS.Q3.helpGroup.text.1": {
     "en": "This question will help us to determine how many people are experiencing symptoms per day/week.",
-    "ru": "TODO"
+    "ru": "Этот вопрос поможет нам определить, сколько людей испытывают симптомы в день/неделю."
   },
   "weekly.HS.Q3.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "weekly.HS.Q3.helpGroup.text.3": {
     "en": "Answer as precisely as possible.",
-    "ru": "TODO"
+    "ru": "Ответьте как можно точнее."
   },
   "weekly.HS.Q3.rg.scg.dateInput.0": {
     "en": "Choose date",
-    "ru": "TODO"
+    "ru": "Выберите дату"
   },
   "weekly.HS.Q3.rg.scg.option.1": {
     "en": "I don't know/can't remember",
-    "ru": "TODO"
+    "ru": "Не знаю/Не помню"
   },
   "weekly.HS.Q4.title.0": {
     "en": "When did your symptoms end?",
-    "ru": "TODO"
+    "ru": "Когда у вас закончились симптомы?"
   },
   "weekly.HS.Q4.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "ru": "TODO"
+    "en": "Why are we asking this question?",
+    "ru": "Почему мы задаем этот вопрос?"
   },
   "weekly.HS.Q4.helpGroup.text.1": {
-    "en": "We can use the first and last dates of the complaints to calculate how long your complaints lasted. ",
-    "ru": "TODO"
+    "en": "We can use the first and last dates of the complaints to calculate how long your complaints lasted.",
+    "ru": "Мы можем использовать первую и последнюю даты подачи жалоб, чтобы подсчитать, как долго продолжались ваши жалобы."
   },
   "weekly.HS.Q4.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "weekly.HS.Q4.helpGroup.text.3": {
     "en": "Answer as precisely as possible.",
-    "ru": "TODO"
+    "ru": "Ответьте как можно точнее."
   },
   "weekly.HS.Q4.rg.scg.dateInput.0": {
     "en": "Choose date",
-    "ru": "TODO"
+    "ru": "Выберите дату"
   },
   "weekly.HS.Q4.rg.scg.option.1": {
     "en": "I don't know/can't remember",
-    "ru": "TODO"
+    "ru": "Не знаю/Не помню"
   },
   "weekly.HS.Q4.rg.scg.option.2": {
     "en": "I am still ill",
-    "ru": "TODO"
+    "ru": "Я все еще болен"
   },
   "weekly.HS.Q5.title.0": {
     "en": "Did your symptoms develop suddenly over a few hours?",
-    "ru": "TODO"
+    "ru": "Ваши симптомы развились внезапно в течение нескольких часов?"
   },
   "weekly.HS.Q5.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "ru": "TODO"
+    "en": "Why are we asking this question?",
+    "ru": "Почему мы задаем этот вопрос?"
   },
   "weekly.HS.Q5.helpGroup.text.1": {
     "en": "The sudden onset of symptoms (within a few hours) is linked to the coronavirus and influenza.",
-    "ru": "TODO"
+    "ru": "Внезапное появление симптомов (в течение нескольких часов) связано с коронавирусом и гриппом."
   },
   "weekly.HS.Q5.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "weekly.HS.Q5.helpGroup.text.3": {
     "en": "Answer “yes” if your symptoms appeared within a few hours, and not gradually over a period of several days.",
-    "ru": "TODO"
+    "ru": "Ответьте «да», если ваши симптомы появились в течение нескольких часов, а не постепенно в течение нескольких дней."
   },
   "weekly.HS.Q5.rg.scg.option.0": {
     "en": "Yes",
-    "ru": "TODO"
+    "ru": "Да"
   },
   "weekly.HS.Q5.rg.scg.option.1": {
     "en": "No",
-    "ru": "TODO"
+    "ru": "Нет"
   },
   "weekly.HS.Q5.rg.scg.option.2": {
     "en": "I don’t know/can’t remember",
-    "ru": "TODO"
+    "ru": "Не знаю/Не помню"
   },
   "weekly.HS.Q6.title.0": {
     "en": "On what day did your fever start? If you do not recall the exact date, please give an approximate date.",
-    "ru": "TODO"
+    "ru": "В какой день у вас началась температура? Если вы не помните точную дату, укажите приблизительную."
   },
   "weekly.HS.Q6.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "ru": "TODO"
+    "en": "Why are we asking this question?",
+    "ru": "Почему мы задаем этот вопрос?"
   },
   "weekly.HS.Q6.helpGroup.text.1": {
     "en": "Fever is an important diagnostic symptom, so we would like to know when the fever appeared.",
-    "ru": "TODO"
+    "ru": "Высокая температура тела является важным диагностическим симптомом, поэтому мы хотели бы знать, когда она появилась."
   },
   "weekly.HS.Q6.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "weekly.HS.Q6.helpGroup.text.3": {
     "en": "Answer as precisely as possible.",
-    "ru": "TODO"
+    "ru": "Ответьте как можно точнее."
   },
   "weekly.HS.Q6.rg.scg.dateInput.0": {
     "en": "Choose date",
-    "ru": "TODO"
+    "ru": "Выберите дату"
   },
   "weekly.HS.Q6.rg.scg.option.1": {
     "en": "I don’t know/can’t remember",
-    "ru": "TODO"
+    "ru": "Не знаю/Не помню"
   },
   "weekly.HS.Q6b.title.0": {
     "en": "Did your fever develop suddenly over a few hours?",
-    "ru": "TODO"
+    "ru": "У вас возникла высокая температура внезапно в течение нескольких часов?"
   },
   "weekly.HS.Q6b.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "ru": "TODO"
+    "en": "Why are we asking this question?",
+    "ru": "Почему мы задаем этот вопрос?"
   },
   "weekly.HS.Q6b.helpGroup.text.1": {
     "en": "The sudden onset of symptoms (within a few hours) is linked to the coronavirus and influenza.",
-    "ru": "TODO"
+    "ru": "Внезапное появление симптомов (в течение нескольких часов) связано с коронавирусом и гриппом."
   },
   "weekly.HS.Q6b.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "weekly.HS.Q6b.helpGroup.text.3": {
     "en": "Answer “yes” if your symptoms appeared within a few hours, and not gradually over a period of several days.",
-    "ru": "TODO"
+    "ru": "Ответьте «да», если ваши симптомы появились в течение нескольких часов, а не постепенно в течение нескольких дней."
   },
   "weekly.HS.Q6b.rg.scg.option.0": {
     "en": "Yes",
-    "ru": "TODO"
+    "ru": "Да"
   },
   "weekly.HS.Q6b.rg.scg.option.1": {
     "en": "No",
-    "ru": "TODO"
+    "ru": "Нет"
   },
   "weekly.HS.Q6b.rg.scg.option.2": {
     "en": "I don’t know/can’t remember",
-    "ru": "TODO"
+    "ru": "Не знаю/Не помню"
   },
   "weekly.HS.Q6c.title.0": {
     "en": "Did you take your temperature?",
-    "ru": "TODO"
+    "ru": "Вы измеряли температуру?"
   },
   "weekly.HS.Q6c.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "ru": "TODO"
+    "en": "Why are we asking this question?",
+    "ru": "Почему мы задаем этот вопрос?"
   },
   "weekly.HS.Q6c.helpGroup.text.1": {
     "en": "If you have taken your temperature, we would like to know the highest body temperature you have measured.",
-    "ru": "TODO"
+    "ru": "Если вы измеряли температуру, мы хотели бы знать самую высокую температуру тела, которую вы измерили."
   },
   "weekly.HS.Q6c.helpGroup.text.2": {
-    "en": "How should I answer this question?",
-    "ru": "TODO"
+    "en": "How should I answer it?",
+    "ru": "Как мне на это ответить?"
   },
   "weekly.HS.Q6c.helpGroup.text.3": {
     "en": "Answer yes, if you took your temperature using a thermometer.",
-    "ru": "TODO"
+    "ru": "Ответьте утвердительно, если вы измеряли температуру с помощью термометра."
   },
   "weekly.HS.Q6c.rg.scg.option.0": {
     "en": "Yes",
-    "ru": "TODO"
+    "ru": "Да"
   },
   "weekly.HS.Q6c.rg.scg.option.1": {
     "en": "No",
-    "ru": "TODO"
+    "ru": "Нет"
   },
   "weekly.HS.Q6c.rg.scg.option.2": {
     "en": "I don’t know/can’t remember",
-    "ru": "TODO"
+    "ru": "Не знаю/Не помню"
   },
   "weekly.HS.Q6d.title.0": {
     "en": "What was your highest temperature measured?",
-    "ru": "TODO"
+    "ru": "Какая у вас была измерена самая высокая температура?"
   },
   "weekly.HS.Q6d.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "ru": "TODO"
+    "en": "Why are we asking this question?",
+    "ru": "Почему мы задаем этот вопрос?"
   },
   "weekly.HS.Q6d.helpGroup.text.1": {
     "en": "Certain infectious diseases cause a raised temperature.",
-    "ru": "TODO"
+    "ru": "Некоторые инфекционные заболевания вызывают повышение температуры."
   },
   "weekly.HS.Q6d.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "weekly.HS.Q6d.helpGroup.text.3": {
     "en": "Please indicate the highest temperature you measured during the period in which you experienced your symptoms.",
-    "ru": "TODO"
+    "ru": "Пожалуйста, укажите самую высокую температуру, которую вы измеряли в тот период, когда у вас наблюдались симптомы."
   },
   "weekly.HS.Q6d.rg.scg.option.0": {
     "en": "Below 37.0°C",
-    "ru": "TODO"
+    "ru": "Ниже 37,0 °С"
   },
   "weekly.HS.Q6d.rg.scg.option.1": {
     "en": "37.0°C - 37.4°C",
-    "ru": "TODO"
+    "ru": "От 37,0 °С до 37,4 °С"
   },
   "weekly.HS.Q6d.rg.scg.option.2": {
     "en": "37.5°C - 37.9°C",
-    "ru": "TODO"
+    "ru": "От 37,5 °C до 37,9 °C"
   },
   "weekly.HS.Q6d.rg.scg.option.3": {
     "en": "38.0°C - 38.9°C",
-    "ru": "TODO"
+    "ru": "От 38,0°C до 38,9 °C"
   },
   "weekly.HS.Q6d.rg.scg.option.4": {
     "en": "39.0°C - 39.9°C",
-    "ru": "TODO"
+    "ru": "От 39,0 °C до 39,9 °C"
   },
   "weekly.HS.Q6d.rg.scg.option.5": {
     "en": "40.0°C or more",
-    "ru": "TODO"
+    "ru": "40,0 °C или выше"
   },
   "weekly.HS.Q6d.rg.scg.option.6": {
     "en": "I don't know/can't remember",
-    "ru": "TODO"
+    "ru": "Не знаю/Не помню"
   },
   "weekly.HS.Q36.title.0": {
     "en": "Thank you for all these information. They will help us to estimate the frequency of symptoms among general population. You can stop here. If you have a little more time, we propose you to answer further questions about your symptoms and care. Do you accept to answer to these additional questions?",
-    "ru": "TODO"
+    "ru": "Спасибо за всю эту информацию. Она поможет нам оценить частоту симптомов среди населения в целом. На этом вы можете остановиться. Если у вас есть немного больше времени, мы предлагаем вам ответить на дополнительные вопросы о ваших симптомах и лечении. Вы согласны ответить на эти дополнительные вопросы?"
   },
   "weekly.HS.Q36.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "ru": "TODO"
+    "en": "Why are we asking this question?",
+    "ru": "Почему мы задаем этот вопрос?"
   },
   "weekly.HS.Q36.helpGroup.text.1": {
     "en": "We want to know if you are willing to answer the follow-up questions. Your answers to the follow-up questions may assist our research.",
-    "ru": "TODO"
+    "ru": "Мы хотим знать, готовы ли вы ответить на дополнительные вопросы. Ваши ответы на дополнительные вопросы могут помочь нашему исследованию."
   },
   "weekly.HS.Q36.rg.scg.option.0": {
     "en": "Yes",
-    "ru": "TODO"
+    "ru": "Да"
   },
   "weekly.HS.Q36.rg.scg.option.1": {
     "en": "No",
-    "ru": "TODO"
+    "ru": "Нет"
   },
   "weekly.EX.Q7.title.0": {
     "en": "Because of your symptoms, did you VISIT (see face to face or teleconsultation) any medical services?",
-    "ru": "TODO"
+    "ru": "Из-за ваших симптомов, ПОСЕЩАЛИ ли вы (в ходе личной встречи или телеконсультации) какие-либо медицинские услуги?"
   },
   "weekly.EX.Q7.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.EX.Q7.helpGroup.text.1": {
     "en": "To find out whether people contact the health services because of their symptoms.",
-    "ru": "TODO"
+    "ru": "Чтобы выяснить, обращаются ли люди в службы здравоохранения из-за симптомов."
   },
   "weekly.EX.Q7.helpGroup.text.2": {
-    "en": "How should I answer this question?",
-    "ru": "TODO"
+    "en": "How should I answer it?",
+    "ru": "Как мне на это ответить?"
   },
   "weekly.EX.Q7.helpGroup.text.3": {
     "en": "Tick all of those that apply. If you are due to see attend, then tick the final option.",
-    "ru": "TODO"
+    "ru": "Отметьте все подходящие. Если у вас назначено посещение, отметьте последний вариант."
   },
   "weekly.EX.Q7.rg.DTpM.text.0": {
-    "en": "Select all options that apply",
-    "ru": "TODO"
+    "en": "Multiple answers possible",
+    "ru": "Возможно несколько ответов"
   },
   "weekly.EX.Q7.rg.mcg.option.0": {
     "en": "No",
-    "ru": "TODO"
+    "ru": "Нет"
   },
   "weekly.EX.Q7.rg.mcg.option.1": {
     "en": "GP or GP's practice nurse",
-    "ru": "TODO"
+    "ru": "Семейный врач или семейная медсестра"
   },
   "weekly.EX.Q7.rg.mcg.option.2": {
     "en": "Hospital admission",
-    "ru": "TODO"
+    "ru": "Госпитализация"
   },
   "weekly.EX.Q7.rg.mcg.option.3": {
     "en": "Hospital accident & emergency department / out of hours service",
-    "ru": "TODO"
+    "ru": "Больничное отделение экстренной медицины (ОЭМ/EMO) / обслуживание в нерабочее время"
   },
   "weekly.EX.Q7.rg.mcg.option.4": {
     "en": "Other medical services",
-    "ru": "TODO"
+    "ru": "Другие медицинские услуги"
   },
   "weekly.EX.Q7.rg.mcg.option.5": {
     "en": "No, but I have an appointment scheduled",
-    "ru": "TODO"
+    "ru": "Нет, но у меня назначен визит"
   },
   "weekly.EX.Q7b.title.0": {
     "en": "How soon after your symptoms appeared did you first VISIT this medical service?",
-    "ru": "TODO"
+    "ru": "Как скоро после появления симптомов Вы впервые ПОСЕТИЛИ данное медицинское учреждение?"
   },
   "weekly.EX.Q7b.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.EX.Q7b.helpGroup.text.1": {
     "en": "To find out how quickly people with symptoms are seen by the health services.",
-    "ru": "TODO"
+    "ru": "Чтобы узнать, как быстро службы здравоохранения принимают людей с симптомами."
   },
   "weekly.EX.Q7b.helpGroup.text.2": {
-    "en": "How should I answer this question?",
-    "ru": "TODO"
+    "en": "How should I answer it?",
+    "ru": "Как мне на это ответить?"
   },
   "weekly.EX.Q7b.helpGroup.text.3": {
     "en": "Only record the time until your FIRST contact with the health services.",
-    "ru": "TODO"
+    "ru": "Напишите только время до ПЕРВОГО обращения в службы здравоохранения."
   },
   "weekly.EX.Q7b.rg.sFcN.text.0": {
     "en": "Select the correct number of days",
-    "ru": "TODO"
+    "ru": "Выберите правильное количество дней"
   },
   "weekly.EX.Q7b.rg.mat.header.col0.text.0": {
     "en": "Medical Service",
-    "ru": "TODO"
+    "ru": "Медицинское обслуживание"
   },
   "weekly.EX.Q7b.rg.mat.r1.col0.label.0": {
     "en": "GP or GP'r practice nurse",
-    "ru": "TODO"
+    "ru": "Семейный врач или семейная медсестра"
   },
   "weekly.EX.Q7b.rg.mat.r1.col1.option.0": {
     "en": "Same day",
-    "ru": "TODO"
+    "ru": "В тот же день"
   },
   "weekly.EX.Q7b.rg.mat.r1.col1.option.1": {
     "en": "1 day",
-    "ru": "TODO"
+    "ru": "1 день"
   },
   "weekly.EX.Q7b.rg.mat.r1.col1.option.2": {
     "en": "2 days",
-    "ru": "TODO"
+    "ru": "2 дня"
   },
   "weekly.EX.Q7b.rg.mat.r1.col1.option.3": {
     "en": "3 days",
-    "ru": "TODO"
+    "ru": "3 дня"
   },
   "weekly.EX.Q7b.rg.mat.r1.col1.option.4": {
     "en": "4 days",
-    "ru": "TODO"
+    "ru": "4 дня"
   },
   "weekly.EX.Q7b.rg.mat.r1.col1.option.5": {
     "en": "5 - 7 days",
-    "ru": "TODO"
+    "ru": "5–7 дней"
   },
   "weekly.EX.Q7b.rg.mat.r1.col1.option.6": {
     "en": "More than 7 days",
-    "ru": "TODO"
+    "ru": "Более 7 дней"
   },
   "weekly.EX.Q7b.rg.mat.r1.col1.option.7": {
     "en": "I don't know/can't remember",
-    "ru": "TODO"
+    "ru": "Не знаю/Не помню"
   },
   "weekly.EX.Q7b.rg.mat.r2.col0.label.0": {
     "en": "Hospital accident & department/out of hours service",
-    "ru": "TODO"
+    "ru": "Больничное отделение экстренной медицины (ОЭМ/EMO) / обслуживание в нерабочее время"
   },
   "weekly.EX.Q7b.rg.mat.r2.col1.option.0": {
     "en": "Same day",
-    "ru": "TODO"
+    "ru": "В тот же день"
   },
   "weekly.EX.Q7b.rg.mat.r2.col1.option.1": {
     "en": "1 day",
-    "ru": "TODO"
+    "ru": "1 день"
   },
   "weekly.EX.Q7b.rg.mat.r2.col1.option.2": {
     "en": "2 days",
-    "ru": "TODO"
+    "ru": "2 дня"
   },
   "weekly.EX.Q7b.rg.mat.r2.col1.option.3": {
     "en": "3 days",
-    "ru": "TODO"
+    "ru": "3 дня"
   },
   "weekly.EX.Q7b.rg.mat.r2.col1.option.4": {
     "en": "4 days",
-    "ru": "TODO"
+    "ru": "4 дня"
   },
   "weekly.EX.Q7b.rg.mat.r2.col1.option.5": {
     "en": "5 - 7 days",
-    "ru": "TODO"
+    "ru": "5–7 дней"
   },
   "weekly.EX.Q7b.rg.mat.r2.col1.option.6": {
     "en": "More than 7 days",
-    "ru": "TODO"
+    "ru": "Более 7 дней"
   },
   "weekly.EX.Q7b.rg.mat.r2.col1.option.7": {
     "en": "I don't know/can't remember",
-    "ru": "TODO"
+    "ru": "Не знаю/Не помню"
   },
   "weekly.EX.Q7b.rg.mat.r3.col0.label.0": {
     "en": "Hospital admission",
-    "ru": "TODO"
+    "ru": "Госпитализация"
   },
   "weekly.EX.Q7b.rg.mat.r3.col1.option.0": {
     "en": "Same day",
-    "ru": "TODO"
+    "ru": "В тот же день"
   },
   "weekly.EX.Q7b.rg.mat.r3.col1.option.1": {
     "en": "1 day",
-    "ru": "TODO"
+    "ru": "1 день"
   },
   "weekly.EX.Q7b.rg.mat.r3.col1.option.2": {
     "en": "2 days",
-    "ru": "TODO"
+    "ru": "2 дня"
   },
   "weekly.EX.Q7b.rg.mat.r3.col1.option.3": {
     "en": "3 days",
-    "ru": "TODO"
+    "ru": "3 дня"
   },
   "weekly.EX.Q7b.rg.mat.r3.col1.option.4": {
     "en": "4 days",
-    "ru": "TODO"
+    "ru": "4 дня"
   },
   "weekly.EX.Q7b.rg.mat.r3.col1.option.5": {
     "en": "5 - 7 days",
-    "ru": "TODO"
+    "ru": "5–7 дней"
   },
   "weekly.EX.Q7b.rg.mat.r3.col1.option.6": {
     "en": "More than 7 days",
-    "ru": "TODO"
+    "ru": "Более 7 дней"
   },
   "weekly.EX.Q7b.rg.mat.r3.col1.option.7": {
     "en": "I don't know/can't remember",
-    "ru": "TODO"
+    "ru": "Не знаю/Не помню"
   },
   "weekly.EX.Q7b.rg.mat.r4.col0.label.0": {
     "en": "Other medical services",
-    "ru": "TODO"
+    "ru": "Другие медицинские услуги"
   },
   "weekly.EX.Q7b.rg.mat.r4.col1.option.0": {
     "en": "Same day",
-    "ru": "TODO"
+    "ru": "В тот же день"
   },
   "weekly.EX.Q7b.rg.mat.r4.col1.option.1": {
     "en": "1 day",
-    "ru": "TODO"
+    "ru": "1 день"
   },
   "weekly.EX.Q7b.rg.mat.r4.col1.option.2": {
     "en": "2 days",
-    "ru": "TODO"
+    "ru": "2 дня"
   },
   "weekly.EX.Q7b.rg.mat.r4.col1.option.3": {
     "en": "3 days",
-    "ru": "TODO"
+    "ru": "3 дня"
   },
   "weekly.EX.Q7b.rg.mat.r4.col1.option.4": {
     "en": "4 days",
-    "ru": "TODO"
+    "ru": "4 дня"
   },
   "weekly.EX.Q7b.rg.mat.r4.col1.option.5": {
     "en": "5 - 7 days",
-    "ru": "TODO"
+    "ru": "5–7 дней"
   },
   "weekly.EX.Q7b.rg.mat.r4.col1.option.6": {
     "en": "More than 7 days",
-    "ru": "TODO"
+    "ru": "Более 7 дней"
   },
   "weekly.EX.Q7b.rg.mat.r4.col1.option.7": {
     "en": "I don't know/can't remember",
-    "ru": "TODO"
+    "ru": "Не знаю/Не помню"
   },
   "weekly.EX.Qcov18.title.0": {
     "en": "What is the main reason for which you did not consult any health professional for the symptoms you declared today?",
-    "ru": "TODO"
+    "ru": "Какова основная причина, по которой вы не обратились ни к одному медицинскому работнику по поводу заявленных вами сегодня симптомов?"
   },
   "weekly.EX.Qcov18.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "ru": "TODO"
+    "en": "Why are we asking this question?",
+    "ru": "Почему мы задаем этот вопрос?"
   },
   "weekly.EX.Qcov18.helpGroup.text.1": {
     "en": "To understand why some people do not consult a doctor.",
-    "ru": "TODO"
-  },
-  "weekly.EX.Qcov18.helpGroup.text.2": {
-    "en": "How should I answer this question?",
-    "ru": "TODO"
-  },
-  "weekly.EX.Qcov18.helpGroup.text.3": {
-    "en": "Multiple answers are possible.",
-    "ru": "TODO"
-  },
-  "weekly.EX.Qcov18.rg.4opV.text.0": {
-    "en": "Select all options that apply",
-    "ru": "TODO"
+    "ru": "Чтобы понять, почему некоторые люди не обращаются к врачу."
   },
   "weekly.EX.Qcov18.rg.scg.option.0": {
     "en": "My symptoms appeared very recently",
-    "ru": "TODO"
+    "ru": "Мои симптомы появились совсем недавно"
   },
   "weekly.EX.Qcov18.rg.scg.option.1": {
     "en": "My symptoms are mild",
-    "ru": "TODO"
+    "ru": "Мои симптомы легкие"
   },
   "weekly.EX.Qcov18.rg.scg.option.2": {
     "en": "I have these symptoms often",
-    "ru": "TODO"
+    "ru": "У меня часто бывают такие симптомы"
   },
   "weekly.EX.Qcov18.rg.scg.option.3": {
     "en": "I think I know what I have and I self-medicate",
-    "ru": "TODO"
+    "ru": "Думаю, я знаю, чем болею, и занимаюсь самолечением"
   },
   "weekly.EX.Qcov18.rg.scg.option.4": {
     "en": "I think there is no effective treatment for the disease I have",
-    "ru": "TODO"
+    "ru": "Я думаю, что не существует эффективного лечения моего заболевания"
   },
   "weekly.EX.Qcov18.rg.scg.option.5": {
     "en": "It is too hard to get an appointment quickly",
-    "ru": "TODO"
+    "ru": "Слишком сложно быстро записаться на прием"
   },
   "weekly.EX.Qcov18.rg.scg.option.6": {
     "en": "I do not have time",
-    "ru": "TODO"
+    "ru": "У меня нет времени"
   },
   "weekly.EX.Qcov18.rg.scg.option.7": {
     "en": "For financial reasons",
-    "ru": "TODO"
+    "ru": "По финансовым причинам"
   },
   "weekly.EX.Qcov18.rg.scg.option.8": {
     "en": "For fear of consequences if the doctor thinks I have COVID-19",
-    "ru": "TODO"
+    "ru": "Из опасения последствий, если врач решит, что у меня COVID-19"
   },
   "weekly.EX.Qcov18.rg.scg.option.9": {
     "en": "Because I am vaccinated against COVID-19",
-    "ru": "TODO"
+    "ru": "Потому что я привит(а) от COVID-19"
   },
   "weekly.EX.Qcov18.rg.scg.input.10": {
     "en": "For another reason",
-    "ru": "TODO"
+    "ru": "По другой причине"
   },
   "weekly.EX.Qcov18.rg.scg.description.input.10": {
     "en": "Describe here (optional)",
-    "ru": "TODO"
+    "ru": "Опишите здесь (необязательно)"
   },
   "weekly.EX.Qcov18.rg.scg.option.11": {
     "en": "I don't know / I don't want to answer",
-    "ru": "TODO"
+    "ru": "Не знаю/Не хочу отвечать"
   },
   "weekly.EX.Qcov16h.title.0": {
     "en": "Because of your symptoms, did you undergo a test/analyses to know if you have COVID-19?",
-    "ru": "TODO"
+    "ru": "В связи с вашими симптомами проходили ли вы тест/анализы на предмет наличия у вас COVID-19?"
   },
   "weekly.EX.Qcov16h.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "ru": "TODO"
+    "en": "Why are we asking this question?",
+    "ru": "Почему мы задаем этот вопрос?"
   },
   "weekly.EX.Qcov16h.helpGroup.text.1": {
     "en": "We want to know which complaints lead people to get tested for the coronavirus.",
-    "ru": "TODO"
+    "ru": "Мы хотим знать, какие жалобы заставляют людей проходить тестирование на коронавирус."
   },
   "weekly.EX.Qcov16h.rg.scg.option.0": {
     "en": "Yes",
-    "ru": "TODO"
+    "ru": "Да"
   },
   "weekly.EX.Qcov16h.rg.scg.option.1": {
     "en": "Not yet, I plan to shortly undergo a test",
-    "ru": "TODO"
+    "ru": "Пока нет, планирую в ближайшее время пройти обследование"
   },
   "weekly.EX.Qcov16h.rg.scg.option.2": {
     "en": "No, I have a prescription but will not undergo a test",
-    "ru": "TODO"
+    "ru": "Нет, у меня есть направление, но я не буду проходить обследование"
   },
   "weekly.EX.Qcov16h.rg.scg.option.3": {
     "en": "No",
-    "ru": "TODO"
+    "ru": "Нет"
   },
   "weekly.EX.Qcov16i.title.0": {
     "en": "Which analyse(s) was it?",
-    "ru": "TODO"
+    "ru": "Какой анализ (какие анализы) это был(и)?"
   },
   "weekly.EX.Qcov16i.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "ru": "TODO"
+    "en": "Why are we asking this question?",
+    "ru": "Почему мы задаем этот вопрос?"
   },
   "weekly.EX.Qcov16i.helpGroup.text.1": {
     "en": "We are interested in knowing how many people with symptoms have udergone a test",
-    "ru": "TODO"
+    "ru": "Нам интересно знать, сколько людей с симптомами прошли тест"
   },
   "weekly.EX.Qcov16i.rg.tyZC.text.0": {
-    "en": "Select all options that apply",
-    "ru": "TODO"
+    "en": "Multiple answers possible",
+    "ru": "Возможно несколько ответов"
   },
   "weekly.EX.Qcov16i.rg.mcg.option.0": {
     "en": "A PCR test (virus search, on a swab in nose or mouth, or a sputum or saliva sample)",
-    "ru": "TODO"
+    "ru": "ПЦР-тест (поиск вируса на мазке из носа или рта, на образце мокроты или слюны)"
   },
   "weekly.EX.Qcov16i.rg.mcg.option.1": {
     "en": "A serological analysis (screening for antibodies against this virus, from a drop of blood at fingertip or a blood sample)",
-    "ru": "TODO"
+    "ru": "Серологический анализ (скрининг на антитела к этому вирусу из капли крови с кончика пальца или из образца крови)"
   },
   "weekly.EX.Qcov16i.rg.mcg.option.2": {
     "en": "A rapid antigen detection test on a sample realized in the back of the nose (nasopharyngeal sampling, done by a health professional or a trained person, with a swab inserted to 15 cm into the nose, result obtained in less than one hour)",
-    "ru": "TODO"
+    "ru": "Быстрый тест на выявление антигена в образце, взятом в задней части носа (взятие проб из носоглотки, выполняемое медицинским работником или обученным лицом, с введением тампона в нос на глубину 15 см, результат получается менее чем за один час)"
   },
   "weekly.EX.Qcov16i.rg.mcg.option.3": {
     "en": "A rapid antigen detection test or autotest done on a nasal sample (a swab inserted to 1 - 4 cm into the nostril, sampling that can be done by oneself, result obtained in a few minutes)",
-    "ru": "TODO"
+    "ru": "Быстрый тест на выявление антигена или автотест, проводимый на образце из носа (мазок, вставленный в ноздрю на глубину 1–4 см, образец можно сделать самостоятельно, результат получается через несколько минут)"
   },
   "weekly.EX.Qcov16b.title.0": {
     "en": "Do you know the result of your PCR test? (if several were performed and at least one was positive, chose the “Positive” answer)",
-    "ru": "TODO"
+    "ru": "Знаете ли вы результат вашего ПЦР-теста? (если было проведено несколько тестов и хотя бы один оказался положительным, выберите ответ «Положительный»)"
   },
   "weekly.EX.Qcov16b.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "ru": "TODO"
+    "en": "Why are we asking this question?",
+    "ru": "Почему мы задаем этот вопрос?"
   },
   "weekly.EX.Qcov16b.helpGroup.text.1": {
     "en": "We want to understand how the coronavirus is spreading within the population.",
-    "ru": "TODO"
+    "ru": "Мы хотим понять, как коронавирус распространяется среди населения."
   },
   "weekly.EX.Qcov16b.rg.scg.option.0": {
     "en": "Yes, positive for COVID-19",
-    "ru": "TODO"
+    "ru": "Да, положительный на COVID-19"
   },
   "weekly.EX.Qcov16b.rg.scg.option.1": {
     "en": "Yes, negative for COVID-19",
-    "ru": "TODO"
+    "ru": "Да, отрицательный на COVID-19"
   },
   "weekly.EX.Qcov16b.rg.scg.option.2": {
     "en": "Yes, the results are inconclusive",
-    "ru": "TODO"
+    "ru": "Да, результаты неубедительны"
   },
   "weekly.EX.Qcov16b.rg.scg.option.3": {
     "en": "No, I have not yet received the test results",
-    "ru": "TODO"
+    "ru": "Нет, я еще не получил(а) результаты теста"
   },
   "weekly.EX.Qcov16f.title.0": {
     "en": "Do you know the result of this rapid antigen detection test on nasopharyngeal sample? (if several were performed and at least one was positive, chose the “Positive” answer)",
-    "ru": "TODO"
+    "ru": "Знаете ли вы результат этого экспресс-теста на выявление антигена в образце из носоглотки? (Если было проведено несколько тестов и хотя бы один был положительным, выберите ответ «Положительный»)"
   },
   "weekly.EX.Qcov16f.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "ru": "TODO"
+    "en": "Why are we asking this question?",
+    "ru": "Почему мы задаем этот вопрос?"
   },
   "weekly.EX.Qcov16f.helpGroup.text.1": {
     "en": "We want to understand how the coronavirus is spreading within the population.",
-    "ru": "TODO"
+    "ru": "Мы хотим понять, как коронавирус распространяется среди населения."
   },
   "weekly.EX.Qcov16f.rg.scg.option.0": {
     "en": "Yes, positive for COVID-19",
-    "ru": "TODO"
+    "ru": "Да, положительный на COVID-19"
   },
   "weekly.EX.Qcov16f.rg.scg.option.1": {
     "en": "Yes, negative for COVID-19",
-    "ru": "TODO"
+    "ru": "Да, отрицательный на COVID-19"
   },
   "weekly.EX.Qcov16f.rg.scg.option.2": {
     "en": "Yes, the results are inconclusive",
-    "ru": "TODO"
+    "ru": "Да, результаты неубедительны"
   },
   "weekly.EX.Qcov16f.rg.scg.option.3": {
-    "en": "I don't know/can't remember",
-    "ru": "TODO"
+    "en": "I don't know / I don't want to answer",
+    "ru": "Не знаю/Не хочу отвечать"
   },
   "weekly.EX.Qcov16k.title.0": {
     "en": "Do you know the result of this antigenic test or self-test on nasal sample? (if several were performed and at least one was positive, chose the “Positive” answer)",
-    "ru": "TODO"
+    "ru": "Знаете ли вы результат этого антигенного теста или самотестирования на образце из носа? (Если было проведено несколько тестов и хотя бы один был положительным, выберите ответ «Положительный»)"
   },
   "weekly.EX.Qcov16k.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "ru": "TODO"
+    "en": "Why are we asking this question?",
+    "ru": "Почему мы задаем этот вопрос?"
   },
   "weekly.EX.Qcov16k.helpGroup.text.1": {
     "en": "We want to understand how the coronavirus is spreading within the population.",
-    "ru": "TODO"
+    "ru": "Мы хотим понять, как коронавирус распространяется среди населения."
   },
   "weekly.EX.Qcov16k.rg.scg.option.0": {
     "en": "Yes, positive for COVID-19",
-    "ru": "TODO"
+    "ru": "Да, положительный на COVID-19"
   },
   "weekly.EX.Qcov16k.rg.scg.option.1": {
     "en": "Yes, negative for COVID-19",
-    "ru": "TODO"
+    "ru": "Да, отрицательный на COVID-19"
   },
   "weekly.EX.Qcov16k.rg.scg.option.2": {
     "en": "Yes, the results are inconclusive",
-    "ru": "TODO"
+    "ru": "Да, результаты неубедительны"
   },
   "weekly.EX.Qcov16k.rg.scg.option.3": {
-    "en": "I don't know/can't remember",
-    "ru": "TODO"
+    "en": "I don't know / I don't want to answer",
+    "ru": "Не знаю/Не хочу отвечать"
   },
   "weekly.EX.Qcov19.title.0": {
     "en": "Because of your symptoms, did you undergo a test/analyses to know if you have the Flu?",
-    "ru": "TODO"
+    "ru": "В связи с вашими симптомами проходили ли вы анализы/тесты на предмет наличия у вас гриппа?"
   },
   "weekly.EX.Qcov19.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "ru": "TODO"
+    "en": "Why are we asking this question?",
+    "ru": "Почему мы задаем этот вопрос?"
   },
   "weekly.EX.Qcov19.helpGroup.text.1": {
     "en": "We want to know which complaints lead people to get tested for the flu.",
-    "ru": "TODO"
+    "ru": "Мы хотим знать, какие жалобы заставляют людей проходить тестирование на грипп."
   },
   "weekly.EX.Qcov19.rg.scg.option.0": {
     "en": "Yes, a PCR test based on a swab in nose or mouth, or a sputum or saliva sample",
-    "ru": "TODO"
+    "ru": "Да, ПЦР-тест на основе мазка из носа или рта либо образца мокроты или слюны"
   },
   "weekly.EX.Qcov19.rg.scg.option.1": {
     "en": "Yes, a rapid detection test (result available in less than an hour)",
-    "ru": "TODO"
+    "ru": "Да, экспресс-тест (результат доступен менее чем через час)"
   },
   "weekly.EX.Qcov19.rg.scg.option.2": {
     "en": "Not yet, I have a prescription and plan to shortly undergo a test",
-    "ru": "TODO"
+    "ru": "Пока нет, у меня есть направление, и я планирую в ближайшее время пройти обследование"
   },
   "weekly.EX.Qcov19.rg.scg.option.3": {
     "en": "No, I have a prescription but will not undergo a test",
-    "ru": "TODO"
+    "ru": "Нет, у меня есть направление, но я не буду проходить обследование"
   },
   "weekly.EX.Qcov19.rg.scg.option.4": {
     "en": "No",
-    "ru": "TODO"
+    "ru": "Нет"
   },
   "weekly.EX.Qcov19b.title.0": {
     "en": "Have you received the results of your Flu test?",
-    "ru": "TODO"
+    "ru": "Вы получили результаты теста на грипп?"
   },
   "weekly.EX.Qcov19b.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "ru": "TODO"
+    "en": "Why are we asking this question?",
+    "ru": "Почему мы задаем этот вопрос?"
   },
   "weekly.EX.Qcov19b.helpGroup.text.1": {
     "en": "We want to understand how the flu is spreading within the population.",
-    "ru": "TODO"
+    "ru": "Мы хотим понять, как грипп распространяется среди населения."
   },
   "weekly.EX.Qcov19b.rg.scg.option.0": {
     "en": "Yes, the test is positive for influenza",
-    "ru": "TODO"
+    "ru": "Да, тест на грипп положительный"
   },
   "weekly.EX.Qcov19b.rg.scg.option.1": {
     "en": "Yes, the test is negative for influenza",
-    "ru": "TODO"
+    "ru": "Да, тест на грипп отрицательный"
   },
   "weekly.EX.Qcov19b.rg.scg.option.2": {
     "en": "Yes, the results are inconclusive",
-    "ru": "TODO"
+    "ru": "Да, результаты неубедительны"
   },
   "weekly.EX.Qcov19b.rg.scg.option.3": {
     "en": "No, I have not yet received the test results",
-    "ru": "TODO"
+    "ru": "Нет, я еще не получил(а) результаты теста"
   },
   "weekly.EX.Q9.title.0": {
     "en": "Did you take medication for these symptoms?",
-    "ru": "TODO"
+    "ru": "Вы принимали лекарства от этих симптомов?"
   },
   "weekly.EX.Q9.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.EX.Q9.helpGroup.text.1": {
     "en": "To find out who gets treated, and how effective treatment is.",
-    "ru": "TODO"
+    "ru": "Чтобы узнать, кого лечат, и насколько эффективно лечение."
   },
   "weekly.EX.Q9.helpGroup.text.2": {
-    "en": "How should I answer this question?",
-    "ru": "TODO"
+    "en": "How should I answer it?",
+    "ru": "Как мне на это ответить?"
   },
   "weekly.EX.Q9.helpGroup.text.3": {
     "en": "Only record those medications that you used because of this illness. If you are on other medications because of a pre-existing illness then do not record these.",
-    "ru": "TODO"
+    "ru": "Напишите только те лекарства, которые вы использовали из-за этого заболевания. Если вы принимаете другие лекарства из-за уже имеющегося заболевания, не пишите их."
   },
   "weekly.EX.Q9.rg.vMc3.text.0": {
     "en": "Select all options that apply",
-    "ru": "TODO"
+    "ru": "Выберите все подходящие варианты"
   },
   "weekly.EX.Q9.rg.mcg.option.0": {
     "en": "No medication",
-    "ru": "TODO"
+    "ru": "Никаких лекарств"
   },
   "weekly.EX.Q9.rg.mcg.option.1": {
     "en": "Pain killers (e.g. paracetamol, lemsip, ibuprofen, aspirin, calpol, etc)",
-    "ru": "TODO"
+    "ru": "Обезболивающие (например, парацетамол, лемсип, ибупрофен, аспирин, кальпол и т. д.)"
   },
   "weekly.EX.Q9.rg.mcg.option.2": {
     "en": "Cough medication (e.g. expectorants)",
-    "ru": "TODO"
+    "ru": "Лекарства от кашля (например, отхаркивающие средства)"
   },
   "weekly.EX.Q9.rg.mcg.option.3": {
     "en": "Antivirals against influenza (eg: Tamiflu)",
-    "ru": "TODO"
+    "ru": "Противовирусные средства против гриппа (например: «Тамифлю»"
   },
   "weekly.EX.Q9.rg.mcg.option.4": {
     "en": "Antibiotics",
-    "ru": "TODO"
+    "ru": "Антибиотики"
   },
   "weekly.EX.Q9.rg.mcg.option.5": {
     "en": "Homeopathy",
-    "ru": "TODO"
+    "ru": "Гомеопатия"
   },
   "weekly.EX.Q9.rg.mcg.option.6": {
     "en": "Alternative medicine (essential oil, phytotherapy, etc.)",
-    "ru": "TODO"
+    "ru": "Нетрадиционная медицина (эфирные масла, фитотерапия и т. д.)"
   },
   "weekly.EX.Q9.rg.mcg.option.7": {
     "en": "Other",
-    "ru": "TODO"
+    "ru": "Другое"
   },
   "weekly.EX.Q9.rg.mcg.option.8": {
     "en": "I don't know/can't remember",
-    "ru": "TODO"
+    "ru": "Не знаю/Не помню"
   },
   "weekly.EX.Q14.title.0": {
     "en": "Because of your symptoms, were you hospitalized?",
-    "ru": "TODO"
+    "ru": "Из-за ваших симптомов вы были госпитализированы?"
   },
   "weekly.EX.Q14.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "ru": "TODO"
+    "en": "Why are we asking this question?",
+    "ru": "Почему мы задаем этот вопрос?"
   },
   "weekly.EX.Q14.helpGroup.text.1": {
     "en": "We want to understand the rates of hospitalization due to symptoms",
-    "ru": "TODO"
-  },
-  "weekly.Q14.helGroup.how_answer": {
-    "en": "How should I answer this question?",
-    "ru": "TODO"
-  },
-  "weekly.EX.Q14.helpGroup.text.2": {
-    "en": "Answer yes only if the hospitalization is related to your current symptoms and not if it was planned before or related to an accident.",
-    "ru": "TODO"
+    "ru": "Мы хотим понять уровень госпитализации из-за симптомов"
   },
   "weekly.EX.Q14.rg.scg.option.0": {
     "en": "Yes",
-    "ru": "TODO"
+    "ru": "Да"
   },
   "weekly.EX.Q14.rg.scg.option.1": {
     "en": "No",
-    "ru": "TODO"
+    "ru": "Нет"
   },
   "weekly.EX.Q10.title.0": {
     "en": "Did you change your daily routine because of your illness?",
-    "ru": "TODO"
+    "ru": "Изменили ли вы свой распорядок дня из-за болезни?"
   },
   "weekly.EX.Q10.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "ru": "TODO"
+    "en": "Why are we asking this question?",
+    "ru": "Почему мы задаем этот вопрос?"
   },
   "weekly.EX.Q10.helpGroup.text.1": {
     "en": "To determine how the symptoms are impacting your daily life.",
-    "ru": "TODO"
+    "ru": "Чтобы определить, как симптомы влияют на вашу повседневную жизнь."
   },
   "weekly.EX.Q10.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "weekly.EX.Q10.helpGroup.text.3": {
     "en": "We want to know if you have missed work or school due to your symptoms, or if you have modified your daily routine in any way (for example, if you were unable to engage in sport activities). If you are a student, and were unable to attend online classes due to your symptoms, you should also select option 2. We are interested in changes due to your symptoms/complaints and not due to any quarantine.",
-    "ru": "TODO"
+    "ru": "Мы хотим знать, пропускали ли вы работу или учебу из-за симптомов или изменяли ли вы каким-либо образом свой распорядок дня (например, если вы не могли заниматься спортом). Если вы учащийся и не смогли посещать онлайн-занятия из-за симптомов, вам также следует выбрать вариант 2. Мы заинтересованы в изменениях из-за ваших симптомов/жалоб, а не вследствие карантина"
   },
   "weekly.EX.Q10.rg.scg.option.0": {
     "en": "No, I was able to go about my daily activities as usual",
-    "ru": "TODO"
+    "ru": "Нет, я мог(ла) заниматься своими повседневными делами как обычно"
   },
   "weekly.EX.Q10.rg.scg.option.1": {
     "en": "Yes, but I did not take time off work/school",
-    "ru": "TODO"
+    "ru": "Да, но я не брал(а) больничный на работе/учебе"
   },
   "weekly.EX.Q10.rg.scg.option.2": {
     "en": "Yes, I took time off school or work",
-    "ru": "TODO"
+    "ru": "Да, я брал(а) больничный на работе/учебе"
   },
   "weekly.EX.Q10b.title.0": {
     "en": "Are you currently still unable to work or attend school due to your symptoms/complaints?",
-    "ru": "TODO"
+    "ru": "Вы в настоящее время все еще не можете работать или посещать учебу из-за ваших симптомов/жалоб?"
   },
   "weekly.EX.Q10b.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "ru": "TODO"
+    "en": "Why are we asking this question?",
+    "ru": "Почему мы задаем этот вопрос?"
   },
   "weekly.EX.Q10b.helpGroup.text.1": {
     "en": "To determine how the symptoms are impacting your daily life.",
-    "ru": "TODO"
+    "ru": "Чтобы определить, как симптомы влияют на вашу повседневную жизнь."
   },
   "weekly.EX.Q10b.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "weekly.EX.Q10b.helpGroup.text.3": {
     "en": "Answer 'yes' if you missed work or school today due to certain symptoms.",
-    "ru": "TODO"
+    "ru": "Ответьте «да», если вы пропустили сегодня работу или учебу из-за определенных симптомов."
   },
   "weekly.EX.Q10b.rg.scg.option.0": {
     "en": "Yes",
-    "ru": "TODO"
+    "ru": "Да"
   },
   "weekly.EX.Q10b.rg.scg.option.1": {
     "en": "No",
-    "ru": "TODO"
+    "ru": "Нет"
   },
   "weekly.EX.Q10b.rg.scg.option.2": {
     "en": "Other (I did not have to work or go to school today in any case)",
-    "ru": "TODO"
+    "ru": "Другое (мне в любом случае сегодня не нужно было ни работать, ни ходить на учебу)"
   },
   "weekly.EX.Q10c.title.0": {
     "en": "For how many days have you been unable to work normally/go to school (when you otherwise would have)?",
-    "ru": "TODO"
+    "ru": "Сколько дней вы не могли нормально работать/ходить на учебу (когда в противном случае вы бы это делали)?"
   },
   "weekly.EX.Q10c.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "ru": "TODO"
+    "en": "Why are we asking this question?",
+    "ru": "Почему мы задаем этот вопрос?"
   },
   "weekly.EX.Q10c.helpGroup.text.1": {
     "en": "To calculate the number of days a person misses work or school due to certain symptoms.",
-    "ru": "TODO"
+    "ru": "Чтобы подсчитать количество дней, в течение которых человек пропускает работу или учебу из-за определенных симптомов."
   },
   "weekly.EX.Q10c.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "weekly.EX.Q10c.helpGroup.text.3": {
     "en": "Only count the days that you would otherwise have gone to work or school. Provide as precise an estimate as possible.",
-    "ru": "TODO"
+    "ru": "Считайте только те дни, когда в противном случае вы пошли бы на работу или в школу. Дайте как можно более точную приблизительную оценку."
   },
   "weekly.EX.Q10c.rg.ddg.option.0": {
     "en": "1 day",
-    "ru": "TODO"
+    "ru": "1 день"
   },
   "weekly.EX.Q10c.rg.ddg.option.1": {
     "en": "2 days",
-    "ru": "TODO"
+    "ru": "2 дня"
   },
   "weekly.EX.Q10c.rg.ddg.option.2": {
     "en": "3 days",
-    "ru": "TODO"
+    "ru": "3 дня"
   },
   "weekly.EX.Q10c.rg.ddg.option.3": {
     "en": "4 days",
-    "ru": "TODO"
+    "ru": "4 дня"
   },
   "weekly.EX.Q10c.rg.ddg.option.4": {
     "en": "5 days",
-    "ru": "TODO"
+    "ru": "5 дней"
   },
   "weekly.EX.Q10c.rg.ddg.option.5": {
     "en": "6 to 10 days",
-    "ru": "TODO"
+    "ru": "От 6 до 10 дней"
   },
   "weekly.EX.Q10c.rg.ddg.option.6": {
     "en": "11 to 15 days",
-    "ru": "TODO"
+    "ru": "От 11 до 15 дней"
   },
   "weekly.EX.Q10c.rg.ddg.option.7": {
     "en": "More than 15 days",
-    "ru": "TODO"
+    "ru": "Более 15 дней"
   },
   "weekly.EX.Qcov7.title.0": {
     "en": "Did you begin to follow or increase any of the measures below, due to your symptoms (compared to the period before your symptoms began)?",
-    "ru": "TODO"
+    "ru": "Начали ли вы соблюдать какие-либо из приведенных ниже мер или ужесточать их из-за ваших симптомов (по сравнению с периодом до появления симптомов)?"
   },
   "weekly.EX.Qcov7.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "ru": "TODO"
+    "en": "Why are we asking this question?",
+    "ru": "Почему мы задаем этот вопрос?"
   },
   "weekly.EX.Qcov7.helpGroup.text.1": {
     "en": "To examine how different measures are being followed.",
-    "ru": "TODO"
+    "ru": "Чтобы изучить, как соблюдаются различные меры."
   },
   "weekly.EX.Qcov7.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "weekly.EX.Qcov7.helpGroup.text.3": {
     "en": "For example, 'Avoid shaking hands': Answer 'yes' if you shake hands less or not at all due to your symptoms; Answer 'No, I am not following this measure' if you continue to shake hands despite your symptoms; Answer 'No, I was already following this measure' if you had already stopped shaking hands before the onset of your symptoms and you did not change this behaviour.",
-    "ru": "TODO"
+    "ru": "Например, «Избегать рукопожатия»: ответьте «Да», если вы меньше пожимаете руки или не пожимаете их вообще из-за симптомов; ответьте «Нет, я не соблюдаю эту меру», если вы продолжаете пожимать руки, несмотря на симптомы; ответьте «Нет, я уже соблюдал(а) эту меру», если вы прекратили рукопожатия еще до появления симптомов и не изменили своего поведения."
   },
   "weekly.EX.Qcov7.rg.gU4U.text.0": {
     "en": "To be completed optionally",
-    "ru": "TODO"
+    "ru": "Заполняется по желанию"
   },
   "weekly.EX.Qcov7.rg.v1C0.text.1": {
     "en": "Regularly wash or disinfect hands",
-    "ru": "TODO"
+    "ru": "Регулярно мыть или дезинфицировать руки"
   },
   "weekly.EX.Qcov7.rg.likert_1.option.0": {
-    "en": "Yes, I am following this measure now for the first time, or in a stricter way",
-    "ru": "TODO"
+    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
+    "ru": ""
   },
   "weekly.EX.Qcov7.rg.likert_1.option.1": {
     "en": "No, I was already following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я уже соблюдал(а) эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_1.option.2": {
     "en": "No, I am not following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я не соблюдаю эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_1.option.3": {
     "en": "Not applicable",
-    "ru": "TODO"
+    "ru": "Неприменимо"
   },
   "weekly.EX.Qcov7.rg.nEMR.text.3": {
     "en": "Cough or sneeze into your elbow",
-    "ru": "TODO"
+    "ru": "Кашлять или чихать в сгиб локтя"
   },
   "weekly.EX.Qcov7.rg.likert_2.option.0": {
     "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "ru": "TODO"
+    "ru": ""
   },
   "weekly.EX.Qcov7.rg.likert_2.option.1": {
     "en": "No, I was already following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я уже соблюдал(а) эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_2.option.2": {
     "en": "No, I am not following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я не соблюдаю эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_2.option.3": {
     "en": "Not applicable",
-    "ru": "TODO"
+    "ru": "Неприменимо"
   },
   "weekly.EX.Qcov7.rg.oTIp.text.5": {
     "en": "Use a disposable tissue",
-    "ru": "TODO"
+    "ru": "Использовать одноразовую салфетку"
   },
   "weekly.EX.Qcov7.rg.likert_3.option.0": {
     "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "ru": "TODO"
+    "ru": ""
   },
   "weekly.EX.Qcov7.rg.likert_3.option.1": {
     "en": "No, I was already following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я уже соблюдал(а) эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_3.option.2": {
     "en": "No, I am not following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я не соблюдаю эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_3.option.3": {
     "en": "Not applicable",
-    "ru": "TODO"
+    "ru": "Неприменимо"
   },
   "weekly.EX.Qcov7.rg.7w6F.text.7": {
     "en": "Wear a face mask indoors",
-    "ru": "TODO"
+    "ru": "Надевать маску в помещении"
   },
   "weekly.EX.Qcov7.rg.likert_4a.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "ru": "TODO"
+    "en": "Yes, I am following this measure now for the first time, or in a stricter way",
+    "ru": "Да, я сейчас впервые соблюдаю эту меру или ужесточаю ее"
   },
   "weekly.EX.Qcov7.rg.likert_4a.option.1": {
     "en": "No, I was already following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я уже соблюдал(а) эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_4a.option.2": {
     "en": "No, I am not following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я не соблюдаю эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_4a.option.3": {
     "en": "Not applicable",
-    "ru": "TODO"
+    "ru": "Неприменимо"
   },
   "weekly.EX.Qcov7.rg.vHvi.text.9": {
     "en": "Wear a face mask outdoors",
-    "ru": "TODO"
+    "ru": "Носить маску на открытом воздухе"
   },
   "weekly.EX.Qcov7.rg.likert_4b.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "ru": "TODO"
+    "en": "Yes, I am following this measure now for the first time, or in a stricter way",
+    "ru": "Да, я сейчас впервые соблюдаю эту меру или ужесточаю ее"
   },
   "weekly.EX.Qcov7.rg.likert_4b.option.1": {
     "en": "No, I was already following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я уже соблюдал(а) эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_4b.option.2": {
     "en": "No, I am not following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я не соблюдаю эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_4b.option.3": {
     "en": "Not applicable",
-    "ru": "TODO"
+    "ru": "Неприменимо"
   },
   "weekly.EX.Qcov7.rg.ocTu.text.11": {
     "en": "Avoid shaking hands",
-    "ru": "TODO"
+    "ru": "Избегать рукопожатий"
   },
   "weekly.EX.Qcov7.rg.likert_5.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "ru": "TODO"
+    "en": "Yes, I am following this measure now for the first time, or in a stricter way",
+    "ru": "Да, я сейчас впервые соблюдаю эту меру или ужесточаю ее"
   },
   "weekly.EX.Qcov7.rg.likert_5.option.1": {
     "en": "No, I was already following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я уже соблюдал(а) эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_5.option.2": {
     "en": "No, I am not following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я не соблюдаю эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_5.option.3": {
     "en": "Not applicable",
-    "ru": "TODO"
+    "ru": "Неприменимо"
   },
   "weekly.EX.Qcov7.rg.ioJs.text.13": {
     "en": "Stop greeting by hugging and/or kissing on both cheeks",
-    "ru": "TODO"
+    "ru": "Перестать здороваться, обнимая и/или целуя в обе щеки"
   },
   "weekly.EX.Qcov7.rg.likert_11.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "ru": "TODO"
+    "en": "Yes, I am following this measure now for the first time, or in a stricter way",
+    "ru": "Да, я сейчас впервые соблюдаю эту меру или ужесточаю ее"
   },
   "weekly.EX.Qcov7.rg.likert_11.option.1": {
     "en": "No, I was already following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я уже соблюдал(а) эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_11.option.2": {
     "en": "No, I am not following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я не соблюдаю эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_11.option.3": {
     "en": "Not applicable",
-    "ru": "TODO"
+    "ru": "Неприменимо"
   },
   "weekly.EX.Qcov7.rg.ujsK.text.15": {
     "en": "Limit your use of public transport",
-    "ru": "TODO"
+    "ru": "Ограничить пользование общественным транспортом"
   },
   "weekly.EX.Qcov7.rg.likert_6.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "ru": "TODO"
+    "en": "Yes, I am following this measure now for the first time, or in a stricter way",
+    "ru": "Да, я сейчас впервые соблюдаю эту меру или ужесточаю ее"
   },
   "weekly.EX.Qcov7.rg.likert_6.option.1": {
     "en": "No, I was already following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я уже соблюдал(а) эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_6.option.2": {
     "en": "No, I am not following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я не соблюдаю эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_6.option.3": {
     "en": "Not applicable",
-    "ru": "TODO"
+    "ru": "Неприменимо"
   },
   "weekly.EX.Qcov7.rg.Ijdr.text.17": {
     "en": "Avoid busy places and gatherings (supermarket, cinema, stadium)",
-    "ru": "TODO"
+    "ru": "Избегать оживленных мест и скоплений людей (супермаркет, кинотеатр, стадион)"
   },
   "weekly.EX.Qcov7.rg.likert_7.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "ru": "TODO"
+    "en": "Yes, I am following this measure now for the first time, or in a stricter way",
+    "ru": "Да, я сейчас впервые соблюдаю эту меру или ужесточаю ее"
   },
   "weekly.EX.Qcov7.rg.likert_7.option.1": {
     "en": "No, I was already following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я уже соблюдал(а) эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_7.option.2": {
     "en": "No, I am not following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я не соблюдаю эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_7.option.3": {
     "en": "Not applicable",
-    "ru": "TODO"
+    "ru": "Неприменимо"
   },
   "weekly.EX.Qcov7.rg.t8MS.text.19": {
     "en": "Stay at home",
-    "ru": "TODO"
+    "ru": "Оставаться дома"
   },
   "weekly.EX.Qcov7.rg.likert_8.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "ru": "TODO"
+    "en": "Yes, I am following this measure now for the first time, or in a stricter way",
+    "ru": "Да, я сейчас впервые соблюдаю эту меру или ужесточаю ее"
   },
   "weekly.EX.Qcov7.rg.likert_8.option.1": {
     "en": "No, I was already following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я уже соблюдал(а) эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_8.option.2": {
     "en": "No, I am not following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я не соблюдаю эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_8.option.3": {
     "en": "Not applicable",
-    "ru": "TODO"
+    "ru": "Неприменимо"
   },
   "weekly.EX.Qcov7.rg.z4bE.text.21": {
     "en": "Telework or increase your number of telework days",
-    "ru": "TODO"
+    "ru": "Работать удаленно или увеличить количество дней удаленной работы"
   },
   "weekly.EX.Qcov7.rg.likert_9.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "ru": "TODO"
+    "en": "Yes, I am following this measure now for the first time, or in a stricter way",
+    "ru": "Да, я сейчас впервые соблюдаю эту меру или ужесточаю ее"
   },
   "weekly.EX.Qcov7.rg.likert_9.option.1": {
     "en": "No, I was already following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я уже соблюдал(а) эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_9.option.2": {
     "en": "No, I am not following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я не соблюдаю эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_9.option.3": {
     "en": "Not applicable",
-    "ru": "TODO"
+    "ru": "Неприменимо"
   },
   "weekly.EX.Qcov7.rg.Koue.text.23": {
     "en": "Avoid travel outside your own country or region",
-    "ru": "TODO"
+    "ru": "Избегать поездок за пределы своей страны или региона"
   },
   "weekly.EX.Qcov7.rg.likert_10.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "ru": "TODO"
+    "en": "Yes, I am following this measure now for the first time, or in a stricter way",
+    "ru": "Да, я сейчас впервые соблюдаю эту меру или ужесточаю ее"
   },
   "weekly.EX.Qcov7.rg.likert_10.option.1": {
     "en": "No, I was already following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я уже соблюдал(а) эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_10.option.2": {
     "en": "No, I am not following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я не соблюдаю эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_10.option.3": {
     "en": "Not applicable",
-    "ru": "TODO"
+    "ru": "Неприменимо"
   },
   "weekly.EX.Qcov7.rg.zuDa.text.25": {
     "en": "Have your food/shopping delivered by a store or a friend/family member",
-    "ru": "TODO"
+    "ru": "Поручить доставку еды/покупок магазину или другу/члену семьи"
   },
   "weekly.EX.Qcov7.rg.likert_13.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "ru": "TODO"
+    "en": "Yes, I am following this measure now for the first time, or in a stricter way",
+    "ru": "Да, я сейчас впервые соблюдаю эту меру или ужесточаю ее"
   },
   "weekly.EX.Qcov7.rg.likert_13.option.1": {
     "en": "No, I was already following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я уже соблюдал(а) эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_13.option.2": {
     "en": "No, I am not following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я не соблюдаю эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_13.option.3": {
     "en": "Not applicable",
-    "ru": "TODO"
+    "ru": "Неприменимо"
   },
   "weekly.EX.Qcov7.rg.QSBP.text.27": {
     "en": "Avoid seeing friends and family",
-    "ru": "TODO"
+    "ru": "Избегать встреч с друзьями и семьей"
   },
   "weekly.EX.Qcov7.rg.likert_14.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "ru": "TODO"
+    "en": "Yes, I am following this measure now for the first time, or in a stricter way",
+    "ru": "Да, я сейчас впервые соблюдаю эту меру или ужесточаю ее"
   },
   "weekly.EX.Qcov7.rg.likert_14.option.1": {
     "en": "No, I was already following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я уже соблюдал(а) эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_14.option.2": {
     "en": "No, I am not following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я не соблюдаю эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_14.option.3": {
     "en": "Not applicable",
-    "ru": "TODO"
+    "ru": "Неприменимо"
   },
   "weekly.EX.Qcov7.rg.fRla.text.29": {
     "en": "Avoid being in contact with people over 65 years old or with a chronic disease",
-    "ru": "TODO"
+    "ru": "Избегать контактов с людьми старше 65 лет или имеющими хронические заболевания"
   },
   "weekly.EX.Qcov7.rg.likert_15.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "ru": "TODO"
+    "en": "Yes, I am following this measure now for the first time, or in a stricter way",
+    "ru": "Да, я сейчас впервые соблюдаю эту меру или ужесточаю ее"
   },
   "weekly.EX.Qcov7.rg.likert_15.option.1": {
     "en": "No, I was already following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я уже соблюдал(а) эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_15.option.2": {
     "en": "No, I am not following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я не соблюдаю эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_15.option.3": {
     "en": "Not applicable",
-    "ru": "TODO"
+    "ru": "Неприменимо"
   },
   "weekly.EX.Qcov7.rg.h3fK.text.31": {
     "en": "Avoid being in contact with children",
-    "ru": "TODO"
+    "ru": "Избегать контакта с детьми"
   },
   "weekly.EX.Qcov7.rg.likert_16.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "ru": "TODO"
+    "en": "Yes, I am following this measure now for the first time, or in a stricter way",
+    "ru": "Да, я сейчас впервые соблюдаю эту меру или ужесточаю ее"
   },
   "weekly.EX.Qcov7.rg.likert_16.option.1": {
     "en": "No, I was already following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я уже соблюдал(а) эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_16.option.2": {
     "en": "No, I am not following this measure",
-    "ru": "TODO"
+    "ru": "Нет, я не соблюдаю эту меру"
   },
   "weekly.EX.Qcov7.rg.likert_16.option.3": {
     "en": "Not applicable",
-    "ru": "TODO"
+    "ru": "Неприменимо"
   },
   "weekly.EX.Q11.title.0": {
     "en": "What do you think is causing your symptoms?",
-    "ru": "TODO"
+    "ru": "Как вы думаете, что вызывает ваши симптомы?"
   },
   "weekly.EX.Q11.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "ru": "TODO"
+    "en": "Why are we asking this question?",
+    "ru": "Почему мы задаем этот вопрос?"
   },
   "weekly.EX.Q11.helpGroup.text.1": {
     "en": "To see if our assessment of your illness, based on your symptoms, matches what you believe to be the cause. You may have a better idea of the cause of your illness than our computer algorithms.",
-    "ru": "TODO"
+    "ru": "Чтобы проверить, соответствует ли наша оценка вашего заболевания, основанная на ваших симптомах, тому, что, по вашему мнению, является причиной. Возможно, вы лучше представляете себе причину своей болезни, чем наши компьютерные алгоритмы."
   },
   "weekly.EX.Q11.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "weekly.EX.Q11.helpGroup.text.3": {
     "en": "If you are reasonably sure of the cause of your symptoms, select the appropriate box. Otherwise, select 'No, I Don’t know'.",
-    "ru": "TODO"
+    "ru": "Возможно, вы лучше представляете причину своей болезни, чем наши компьютерные алгоритмы. В противном случае выберите «Нет, я не знаю»."
   },
   "weekly.EX.Q11.rg.scg.option.0": {
     "en": "Flu or flu-like illness",
-    "ru": "TODO"
+    "ru": "Грипп или гриппоподобное заболевание"
   },
   "weekly.EX.Q11.rg.scg.option.1": {
     "en": "New coronavirus (COVID-19)",
-    "ru": "TODO"
+    "ru": "Новый коронавирус (COVID-19)"
   },
   "weekly.EX.Q11.rg.scg.option.2": {
     "en": "Common cold",
-    "ru": "TODO"
+    "ru": "Простуда"
   },
   "weekly.EX.Q11.rg.scg.option.3": {
     "en": "Allergy/hay fever",
-    "ru": "TODO"
+    "ru": "Аллергия/сенная лихорадка"
   },
   "weekly.EX.Q11.rg.scg.option.4": {
     "en": "Ashtma",
-    "ru": "TODO"
+    "ru": "Астма"
   },
   "weekly.EX.Q11.rg.scg.option.5": {
     "en": "Gastroenteritis complaints or gastric flu",
-    "ru": "TODO"
+    "ru": "Жалобы на гастроэнтерит или желудочный грипп"
   },
   "weekly.EX.Q11.rg.scg.option.6": {
     "en": "Other",
-    "ru": "TODO"
+    "ru": "Другое"
   },
   "weekly.EX.Q11.rg.scg.option.7": {
     "en": "I don't know",
-    "ru": "TODO"
+    "ru": "Я не знаю"
   },
   "weekly.surveyEnd.title.0": {
     "en": "Thank you! This was all for now, please submit (push « send ») your responses. We will ask you again next week.",
-    "ru": "TODO"
+    "ru": "Спасибо! На этом пока все, пожалуйста, отправьте свои ответы (нажмите «отправить»). Мы спросим вас снова на следующей неделе."
   }
 }
