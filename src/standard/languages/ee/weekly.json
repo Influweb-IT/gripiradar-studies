@@ -707,6 +707,18 @@
     "en": "To understand why some people do not consult a doctor.",
     "ee": "Selleks, et mõista, miks mõned inimesed ei pöördu arsti poole."
   },
+  "weekly.EX.Qcov18.helpGroup.text.2": {
+    "en": "How should I answer this question?",
+    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+  },
+  "weekly.EX.Qcov18.helpGroup.text.3": {
+    "en": "Multiple answers are possible.",
+    "ee": "Võimalik mitu vastust."
+  },
+  "weekly.EX.Qcov18.rg.4opV.text.0": {
+    "en": "Select all options that apply",
+    "ee": "Märkige kõik sobivad valikud"
+  },
   "weekly.EX.Qcov18.rg.scg.option.0": {
     "en": "My symptoms appeared very recently",
     "ee": "Minu sümptomid ilmnesid hiljuti"
@@ -1035,6 +1047,14 @@
     "en": "We want to understand the rates of hospitalization due to symptoms",
     "ee": "Tahame mõista, kui tihti määrati sümptomite tõttu haiglaravi"
   },
+  "weekly.Q14.helGroup.how_answer": {
+    "en": "How should I answer this question?",
+    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+  },
+  "weekly.EX.Q14.helpGroup.text.2": {
+    "en": "Answer yes only if the hospitalization is related to your current symptoms and not if it was planned before or related to an accident.",
+    "ee": "TODO"
+  },
   "weekly.EX.Q14.rg.scg.option.0": {
     "en": "Yes",
     "ee": "Jah"
@@ -1188,8 +1208,8 @@
     "ee": "Peske käsi või kasutage antiseptikat kätel regulaarselt"
   },
   "weekly.EX.Qcov7.rg.likert_1.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "ee": ""
+    "en": "Yes, I am following this measure now for the first time, or in a stricter way",
+    "ee": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
   },
   "weekly.EX.Qcov7.rg.likert_1.option.1": {
     "en": "No, I was already following this measure",
@@ -1208,8 +1228,8 @@
     "ee": "Kata suu köhimise või aevastamis ajal küünarnukiga"
   },
   "weekly.EX.Qcov7.rg.likert_2.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "ee": ""
+    "en": "Yes, I am following this measure now for the first time, or in a stricter way",
+    "ee": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
   },
   "weekly.EX.Qcov7.rg.likert_2.option.1": {
     "en": "No, I was already following this measure",
@@ -1228,8 +1248,8 @@
     "ee": "Kasutage ühekordset salvrätikut"
   },
   "weekly.EX.Qcov7.rg.likert_3.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "ee": ""
+    "en": "Yes, I am following this measure now for the first time, or in a stricter way",
+    "ee": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
   },
   "weekly.EX.Qcov7.rg.likert_3.option.1": {
     "en": "No, I was already following this measure",

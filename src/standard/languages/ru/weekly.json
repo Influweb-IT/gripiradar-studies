@@ -707,6 +707,19 @@
     "en": "To understand why some people do not consult a doctor.",
     "ru": "Чтобы понять, почему некоторые люди не обращаются к врачу."
   },
+  "weekly.EX.Qcov18.helpGroup.text.2": {
+    "en": "How should I answer this question?",
+    "ru": "Как мне ответить на этот вопрос?"
+  },
+  "weekly.EX.Qcov18.helpGroup.text.3": {
+    "en": "Multiple answers are possible.",
+    "ru": "Возможно несколько ответов"
+  },
+  "weekly.EX.Qcov18.rg.4opV.text.0": {
+    "en": "Select all options that apply",
+    "ru": "Выберите все подходящие варианты"
+  },
+
   "weekly.EX.Qcov18.rg.scg.option.0": {
     "en": "My symptoms appeared very recently",
     "ru": "Мои симптомы появились совсем недавно"
@@ -1035,6 +1048,15 @@
     "en": "We want to understand the rates of hospitalization due to symptoms",
     "ru": "Мы хотим понять уровень госпитализации из-за симптомов"
   },
+  "weekly.Q14.helGroup.how_answer": {
+    "en": "How should I answer this question?",
+    "ru": "Как мне ответить на этот вопрос?"
+  },
+  "weekly.EX.Q14.helpGroup.text.2": {
+    "en": "Answer yes only if the hospitalization is related to your current symptoms and not if it was planned before or related to an accident.",
+    "ru": "TODO"
+  },
+
   "weekly.EX.Q14.rg.scg.option.0": {
     "en": "Yes",
     "ru": "Да"
@@ -1188,8 +1210,8 @@
     "ru": "Регулярно мыть или дезинфицировать руки"
   },
   "weekly.EX.Qcov7.rg.likert_1.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "ru": ""
+    "en": "Yes, I am following this measure now for the first time, or in a stricter way",
+    "ru": "Да, я сейчас впервые соблюдаю эту меру или ужесточаю ее"
   },
   "weekly.EX.Qcov7.rg.likert_1.option.1": {
     "en": "No, I was already following this measure",
@@ -1208,8 +1230,8 @@
     "ru": "Кашлять или чихать в сгиб локтя"
   },
   "weekly.EX.Qcov7.rg.likert_2.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "ru": ""
+    "en": "Yes, I am following this measure now for the first time, or in a stricter way",
+    "ru": "Да, я сейчас впервые соблюдаю эту меру или ужесточаю ее"
   },
   "weekly.EX.Qcov7.rg.likert_2.option.1": {
     "en": "No, I was already following this measure",
@@ -1228,8 +1250,8 @@
     "ru": "Использовать одноразовую салфетку"
   },
   "weekly.EX.Qcov7.rg.likert_3.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "ru": ""
+    "en": "Yes, I am following this measure now for the first time, or in a stricter way",
+    "ru": "Да, я сейчас впервые соблюдаю эту меру или ужесточаю ее"
   },
   "weekly.EX.Qcov7.rg.likert_3.option.1": {
     "en": "No, I was already following this measure",
