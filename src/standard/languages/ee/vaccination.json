@@ -1,690 +1,682 @@
 {
   "vaccination.name.0": {
     "en": "Vaccination questionnaire",
-    "ee": "TODO"
+    "ee": "Vaktsineerimise küsimustik"
   },
   "vaccination.description.0": {
     "en": "The purpose of the vaccination questionnaire is to find out more about protection given by the vaccine and monitor vaccination uptake in Italy.",
-    "ee": "TODO"
+    "ee": "Vaktsineerimise küsimustiku eesmärk on saada rohkem teavet vaktsiini pakutava kaitse kohta ja jälgida vaktsineerimise populaarsust Eestis."
   },
   "vaccination.typicalDuration.0": {
     "en": "Duration 5-10 minutes",
-    "ee": "TODO"
+    "ee": "Kestus 5-10 minutit"
   },
   "vaccination.Q0.title.0": {
     "en": "Four weeks ago you received a questionnaire about your vaccination status.  This new questionnaire is to monitor any further changes. Select the option that applies to you.",
-    "ee": "TODO"
+    "ee": "Neli nädalat tagasi saite küsimustiku oma vaktsineerimisoleku kohta.  See uus küsimustik on mõeldud edasiste muudatuste jälgimiseks. Märkige teie jaoks sobiv valik."
   },
   "vaccination.Q0.rg.scg.option.0": {
     "en": "In the meantime I received a new vaccine dose, or a new invitation to be vaccinated.",
-    "ee": "TODO"
+    "ee": "Sain vahepeal uue vaktsiinidoosi või uue vaktsineerimiskutse."
   },
   "vaccination.Q0.rg.scg.option.1": {
     "en": "In the meantime nothing has changed in terms of vaccination for me.",
-    "ee": "TODO"
+    "ee": "Minu jaoks pole vahepeal vaktsineerimise osas midagi muutunud."
   },
   "vaccination.Q0.rg.scg.option.2": {
     "en": "I'm not sure, and would like to take these questions to make sure my information on vaccination is up to date.",
-    "ee": "TODO"
+    "ee": "”Ma ei ole kindel oma vaktsineerimise staatuses, et oma vaktsineerimise andmeid  esitada  ja seetõttu ma ei soovi küsimusele vastata”"
   },
   "vaccination.Q0.privacy.note": {
     "en": "(**) By selecting one of these options you give your consent to use your historical data to prefill this survey's responses.",
-    "ee": "TODO"
+    "ee": "(**) Valides ühe neist valikutest, annate nõusoleku kasutada oma ajaloolisi andmeid selle küsitluse vastuste eeltäitmiseks."
   },
   "vaccination.HV.Q9.title.0": {
-    "en": "Did you receive a flu vaccine during the previous flu season ?",
-    "ee": "TODO"
+    "en": "Did you receive a flu vaccine during the previous flu season (2022-2023)",
+    "ee": "Kas saite eelmisel gripihooajal (2022-2023) gripivaktsiini?"
   },
   "vaccination.HV.Q9.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "TODO"
+    "ee": "Miks me seda küsime?"
   },
   "vaccination.HV.Q9.helpGroup.text.1": {
     "en": "We would like to study what level of protection the vaccine provides. We would also like to know if there is any protection from vaccines received in previous years.",
-    "ee": "TODO"
+    "ee": "Soovime uurida, millise kaitsetaseme vaktsiin annab. Samuti soovime teada, kas varasematel aastatel saadud vaktsiinid pakuvad mingit kaitset."
   },
   "vaccination.HV.Q9.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "TODO"
+    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "vaccination.HV.Q9.helpGroup.text.3": {
-    "en": "Answer 'yes' if you were vaccinated in the previous autumn/winter season",
-    "ee": "TODO"
+    "en": "Answer 'yes' if you were vaccinated in autumn/winter 2022-2023.",
+    "ee": "Vastake 'jah', kui olete vaktsineeritud sügisel/talvel 2022-2023."
   },
   "vaccination.HV.Q9.rg.scg.option.0": {
     "en": "Yes",
-    "ee": "TODO"
+    "ee": "Jah"
   },
   "vaccination.HV.Q9.rg.scg.option.1": {
     "en": "No",
-    "ee": "TODO"
+    "ee": "Ei"
   },
   "vaccination.HV.Q9.rg.scg.option.2": {
     "en": "I don't know/can't remember",
-    "ee": "TODO"
+    "ee": "Ma ei tea/ei mäleta"
   },
   "vaccination.HV.Q10.title.0": {
-    "en": "Have you received a flu vaccine this autumn/winter season?",
-    "ee": "TODO"
+    "en": "Have you received a flu vaccine this autumn/winter season? (2023-2024)",
+    "ee": "Kas olete sel sügis-talvisel hooajal gripivaktsiini saanud? (2023-2024)"
   },
   "vaccination.HV.Q10.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "TODO"
+    "ee": "Miks me seda küsime?"
   },
   "vaccination.HV.Q10.helpGroup.text.1": {
     "en": "We would like to be able to work out how much protection the vaccine gives.",
-    "ee": "TODO"
+    "ee": "Soovime välja selgitada, kui palju kaitset vaktsiin annab."
   },
   "vaccination.HV.Q10.helpGroup.text.2": {
-    "en": "How should I answer this question?",
-    "ee": "TODO"
+    "en": "How should I answer it?",
+    "ee": "Kuidas ma peaksin sellele vastama?"
   },
   "vaccination.HV.Q10.helpGroup.text.3": {
     "en": "Report yes, if you received the vaccine this season, usually in the autumn. If you get vaccinated after filling in this questionnaire, please return to this and update your answer.",
-    "ee": "TODO"
+    "ee": "Vastake „jah“, kui saite vaktsiini sel hooajal, tavaliselt sügisel. Kui teid vaktsineeritakse pärast selle küsimustiku täitmist, naaske selle juurde ja värskendage oma vastust."
   },
   "vaccination.HV.Q10.rg.scg.option.0": {
     "en": "Yes",
-    "ee": "TODO"
+    "ee": "Jah"
   },
   "vaccination.HV.Q10.rg.scg.option.1": {
     "en": "No",
-    "ee": "TODO"
+    "ee": "Ei"
   },
   "vaccination.HV.Q10.rg.scg.option.2": {
     "en": "I don't know/can't remember",
-    "ee": "TODO"
+    "ee": "Ma ei tea/ei mäleta"
   },
   "vaccination.HV.Q10b.title.0": {
-    "en": "When were you vaccinated against flu this season ?",
-    "ee": "TODO"
+    "en": "When were you vaccinated against flu this season (2023-2024)?",
+    "ee": "Millal teid sel hooajal (2023-2024) gripi vastu vaktsineeriti?"
   },
   "vaccination.HV.Q10b.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "TODO"
+    "ee": "Miks me seda küsime?"
   },
   "vaccination.HV.Q10b.helpGroup.text.1": {
     "en": "Knowing when people get vaccinated tells us how the vaccination program is being followed, as well as the effectiveness of the vaccine.",
-    "ee": "TODO"
+    "ee": "Teadmine, millal inimesi vaktsineeritakse, annab meile teada, kuidas vaktsineerimisprogrammi järgitakse, ja ka kui efektiivne vaktsiin on."
   },
   "vaccination.HV.Q10b.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "TODO"
+    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "vaccination.HV.Q10b.helpGroup.text.3": {
     "en": "Try to answer as precisely as possible. If you do not know the exact date, provide as close an estimate as possible. For example, if you remember the month, try to recall if it was in the beginning or end of the month. Did any important events take place (such as holidays or birthdays) that may help you to refresh your memory?",
-    "ee": "TODO"
+    "ee": "Püüdke vastata võimalikult täpselt. Kui te ei tea täpset kuupäeva, esitage võimalikult lähedane hinnanguline aeg. Näiteks kui mäletate kuud, proovige meenutada, kas see oli kuu alguses või lõpus. Kas sel ajal toimusid olulised sündmused (nt pühad või sünnipäevad), mis võivad aidata teil mälu värskendada?"
   },
   "vaccination.HV.Q10b.rg.scg.description.dateInput.0": {
     "en": "Choose date",
-    "ee": "TODO"
+    "ee": "Valige kuupäev"
   },
   "vaccination.HV.Q10b.rg.scg.option.1": {
     "en": "I don't know (anymore)",
-    "ee": "TODO"
+    "ee": "Ma ei tea (enam)"
   },
   "vaccination.HV.Q10c.title.0": {
     "en": "What were your reasons for getting a seasonal influenza vaccination this year?",
-    "ee": "TODO"
+    "ee": "Mis olid teie põhjused, miks te sel aastal hooajalise gripi vastu end vaktsineerida lasite?"
   },
   "vaccination.HV.Q10c.rg.LlBq.text.0": {
-    "en": "Select all options that apply",
-    "ee": "TODO"
+    "en": "Select the options that are most applicable",
+    "ee": "Valige kõige sobivamad valikud"
   },
   "vaccination.HV.Q10c.rg.mcg.option.0": {
     "en": "I belong to a risk group (e.g, pregnant, over 65, underlying health condition, etc)",
-    "ee": "TODO"
+    "ee": "Kuulun riskirühma (nt rase, üle 65-aastane, üldine tervislik seisund jne)"
   },
   "vaccination.HV.Q10c.rg.mcg.option.1": {
     "en": "Vaccination decreases my risk of getting influenza",
-    "ee": "TODO"
+    "ee": "Vaktsineerimine vähendab minu riski haigestuda grippi."
   },
   "vaccination.HV.Q10c.rg.mcg.option.2": {
     "en": "Vaccination decreases the risk of spreading influenza to others",
-    "ee": "TODO"
+    "ee": "Vaktsineerimine vähendab gripi levitamise ohtu teistele."
   },
   "vaccination.HV.Q10c.rg.mcg.option.3": {
     "en": "My doctor recommended it",
-    "ee": "TODO"
+    "ee": "Minu arst soovitas seda"
   },
   "vaccination.HV.Q10c.rg.mcg.option.4": {
     "en": "It was recommended in my workplace/school",
-    "ee": "TODO"
+    "ee": "Seda soovitati minu töökohas/koolis"
   },
   "vaccination.HV.Q10c.rg.mcg.option.5": {
     "en": "The vaccine was readily available and vaccine administration was convenient",
-    "ee": "TODO"
+    "ee": "Vaktsiin oli kergesti kättesaadav ja vaktsiini manustamine oli mugav"
   },
   "vaccination.HV.Q10c.rg.mcg.option.6": {
     "en": "The vaccine was free (no cost)",
-    "ee": "TODO"
+    "ee": "Vaktsiin oli tasuta"
   },
   "vaccination.HV.Q10c.rg.mcg.option.7": {
     "en": "I don't want to miss work/school",
-    "ee": "TODO"
+    "ee": "Ma ei taha töölt/koolist puududa"
   },
   "vaccination.HV.Q10c.rg.mcg.option.8": {
     "en": "I always get the vaccine",
-    "ee": "TODO"
+    "ee": "Ma lasen end alati vaktsineerida"
   },
   "vaccination.HV.Q10c.rg.mcg.option.9": {
     "en": "I try to protect myself against infections, because of the circulation of the pandemic coronavirus",
-    "ee": "TODO"
+    "ee": "Püüan end kaitsta nakkuste eest pandeemilise koroonaviiruse leviku tõttu"
   },
   "vaccination.HV.Q10c.rg.mcg.input.10": {
     "en": "Other reason(s)",
-    "ee": "TODO"
+    "ee": "Muud põhjused"
   },
   "vaccination.HV.Q10c.rg.mcg.description.input.10": {
     "en": "Describe here (optional)",
-    "ee": "TODO"
+    "ee": "Kirjeldage siin (valikuline)"
   },
   "vaccination.HV.Q10d.title.0": {
-    "en": "What were your reasons for NOT getting a seasonal influenza vaccination for this current season ?",
-    "ee": "TODO"
+    "en": "What were your reasons for NOT getting a seasonal influenza vaccination in seaseon 2022/2023?",
+    "ee": "Mis olid teie põhjused, miks te EI lasknud end hooajalise gripi vastu vaktsineerida hooajal 2022/2023?"
   },
   "vaccination.HV.Q10d.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "TODO"
+    "ee": "Miks me seda küsime?"
   },
   "vaccination.HV.Q10d.helpGroup.text.1": {
     "en": "We would like to know why some people get vaccinated and others do not.",
-    "ee": "TODO"
+    "ee": "Tahaksime teada, miks mõned inimesed lasevad end vaktsineerida ja teised mitte."
   },
   "vaccination.HV.Q10d.helpGroup.text.2": {
-    "en": "How should I answer this question?",
-    "ee": "TODO"
+    "en": "How should I answer it?",
+    "ee": "Kuidas ma peaksin sellele vastama?"
   },
   "vaccination.HV.Q10d.helpGroup.text.3": {
     "en": "Tick all those reasons that were important in your decision.",
-    "ee": "TODO"
+    "ee": "Märkige kõik need põhjused, mis teie otsuse tegemisel olulised olid."
   },
   "vaccination.HV.Q10d.rg.t2y2.text.0": {
-    "en": "Select all options that apply",
-    "ee": "TODO"
+    "en": "Select the options that are most applicable",
+    "ee": "Valige kõige sobivamad valikud"
   },
   "vaccination.HV.Q10d.rg.mcg.option.0": {
     "en": "I am planning to be vaccinated, but haven't been yet",
-    "ee": "TODO"
+    "ee": "Ma plaanin end vaktsineerida, kuid pole veel jõudnud"
   },
   "vaccination.HV.Q10d.rg.mcg.option.1": {
     "en": "I haven't been offered the vaccine",
-    "ee": "TODO"
+    "ee": "Mulle pole vaktsiini pakutud"
   },
   "vaccination.HV.Q10d.rg.mcg.option.2": {
     "en": "I don't belong to a risk group",
-    "ee": "TODO"
+    "ee": "Ma ei kuulu riskirühma"
   },
   "vaccination.HV.Q10d.rg.mcg.option.3": {
     "en": "It is better to build your own natural immunity against influenza",
-    "ee": "TODO"
+    "ee": "Parem on luua oma loomulik immuunsus gripi vastu"
   },
   "vaccination.HV.Q10d.rg.mcg.option.4": {
     "en": "I doubt that the influenza vaccine is effective",
-    "ee": "TODO"
+    "ee": "Ma kahtlen, kas gripivaktsiin on efektiivne"
   },
   "vaccination.HV.Q10d.rg.mcg.option.5": {
     "en": "Influenza is a minor illness",
-    "ee": "TODO"
+    "ee": "Gripp on kerge haigus"
   },
   "vaccination.HV.Q10d.rg.mcg.option.6": {
     "en": "I don't think I am likely to get influenza",
-    "ee": "TODO"
+    "ee": "Ma ei usu, et mul on tõenäosus grippi haigestuda"
   },
   "vaccination.HV.Q10d.rg.mcg.option.7": {
     "en": "I believe that influenza vaccine can cause influenza",
-    "ee": "TODO"
+    "ee": "Ma usun, et gripivaktsiin võib põhjustada grippi"
   },
   "vaccination.HV.Q10d.rg.mcg.option.8": {
     "en": "I am worried that the vaccine is not safe or will cause illness or other adverse events",
-    "ee": "TODO"
+    "ee": "Olen mures, et vaktsiin ei ole ohutu või põhjustab haigusi või muid kõrvaltoimeid,"
   },
   "vaccination.HV.Q10d.rg.mcg.option.9": {
     "en": "I don't like having vaccinations",
-    "ee": "TODO"
+    "ee": "Mulle ei meeldi vaktsineerimine"
   },
   "vaccination.HV.Q10d.rg.mcg.option.10": {
     "en": "The vaccine is not readily available to me",
-    "ee": "TODO"
+    "ee": "Vaktsiin ei ole mulle kergesti kättesaadav"
   },
   "vaccination.HV.Q10d.rg.mcg.option.11": {
     "en": "The vaccine is not free of charge",
-    "ee": "TODO"
+    "ee": "Vaktsiin ei ole tasuta"
   },
   "vaccination.HV.Q10d.rg.mcg.option.12": {
     "en": "No particular reason",
-    "ee": "TODO"
+    "ee": "Pole ühtegi erilist põhjust"
   },
   "vaccination.HV.Q10d.rg.mcg.option.13": {
     "en": "Although my doctor recommend a vaccine, I do not get one",
-    "ee": "TODO"
+    "ee": "Mu arst küll soovitab vaktsineerida, aga ma ei tee seda"
   },
   "vaccination.HV.Q10d.rg.mcg.input.14": {
     "en": "Other reason(s)",
-    "ee": "TODO"
+    "ee": "Muud põhjused"
   },
   "vaccination.HV.Q10d.rg.mcg.description.input.14": {
     "en": "Describe here (optional)",
-    "ee": "TODO"
+    "ee": "Kirjeldage siin (valikuline)"
   },
   "vaccination.HV.Q35.title.0": {
     "en": "Have you received a COVID-19 vaccine?",
-    "ee": "TODO"
+    "ee": "Kas olete saanud COVID-19 vaktsiini?"
   },
   "vaccination.HV.Q35.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "TODO"
+    "ee": "Miks me seda küsime?"
   },
   "vaccination.HV.Q35.helpGroup.text.1": {
     "en": "We would like to be able to work out how much protection the vaccine gives.",
-    "ee": "TODO"
+    "ee": "Soovime välja selgitada, kui palju kaitset vaktsiin annab."
   },
   "vaccination.HV.Q35.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "TODO"
+    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "vaccination.HV.Q35.helpGroup.text.3": {
     "en": "Report yes, if you received a COVID-19 vaccine (since December 2020).",
-    "ee": "TODO"
+    "ee": "Märkige „jah“, kui olete saanud COVID-19 vaktsiini (alates detsembrist 2020)."
   },
   "vaccination.HV.Q35.rg.scg.option.0": {
     "en": "Yes, I received at least one COVID-19 vaccine",
-    "ee": "TODO"
+    "ee": "Jah, ma sain vähemalt ühe COVID-19 vaktsiini doosi"
   },
   "vaccination.HV.Q35.rg.scg.option.1": {
     "en": "No, I did not receive the COVID-19 vaccine",
-    "ee": "TODO"
+    "ee": "Ei, ma ei saanud COVID-19 vaktsiini"
   },
   "vaccination.HV.Q35.rg.scg.option.2": {
     "en": "I don't know/can't remember.",
-    "ee": "TODO"
+    "ee": "Ma ei tea/ei mäleta"
   },
   "vaccination.HV.Q35i.title.0": {
     "en": "Which COVID-19 vaccine(s) did you receive?",
-    "ee": "TODO"
+    "ee": "Millist COVID-19 vaktsiini te saite?"
   },
   "vaccination.HV.Q35i.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "TODO"
+    "ee": "Miks me seda küsime?"
   },
   "vaccination.HV.Q35i.helpGroup.text.1": {
     "en": "We want to know how many people got vaccinated with what brand",
-    "ee": "TODO"
+    "ee": "Tahame teada, kui palju inimesi millise kaubamärgi vaktsiiniga vaktsineeriti"
   },
   "vaccination.HV.Q35i.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "TODO"
+    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "vaccination.HV.Q35i.helpGroup.text.3": {
     "en": "Specify which brand (or brands if you hade more than one type) you got vaccinated with",
-    "ee": "TODO"
+    "ee": "Täpsustage, millise kaubamärgi (või kaubamärkide, kui te saite rohkem kui üht tüüpi) vaktsiiniga teid vaktsineeriti"
   },
   "vaccination.HV.Q35i.rg.LMsj.text.0": {
-    "en": "Select all options that apply",
-    "ee": "TODO"
+    "en": "Select more than one option if you received different brands",
+    "ee": "Kui saite erinevaid kaubamärke, märkige rohkem kui üks valik"
   },
   "vaccination.HV.Q35i.rg.mcg.option.0": {
     "en": "Pfizer/BioNTech",
-    "ee": "TODO"
+    "ee": "Pfizer/BioNTech"
   },
   "vaccination.HV.Q35i.rg.mcg.option.1": {
     "en": "Moderna",
-    "ee": "TODO"
+    "ee": "Moderna"
   },
   "vaccination.HV.Q35i.rg.mcg.option.2": {
     "en": "AstraZeneca",
-    "ee": "TODO"
+    "ee": "AstraZeneca"
   },
   "vaccination.HV.Q35i.rg.mcg.option.3": {
     "en": "Janssen Pharmaceutica (Johnson & Johnson)",
-    "ee": "TODO"
+    "ee": "Janssen Pharmaceutica (Johnson & Johnson)"
   },
   "vaccination.HV.Q35i.rg.mcg.option.4": {
-    "en": "CureVac",
-    "ee": "TODO"
-  },
-  "vaccination.HV.Q35i.rg.mcg.option.5": {
     "en": "I Don't know/Can't remember",
-    "ee": "TODO"
+    "ee": "Ma ei tea/ei mäleta"
   },
   "vaccination.HV.Q35c.title.0": {
     "en": "How many doses of the vaccine did you receive?",
-    "ee": "TODO"
+    "ee": "Mitu annust te vaktsiini saite?"
   },
   "vaccination.HV.Q35c.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "TODO"
+    "ee": "Miks me seda küsime?"
   },
   "vaccination.HV.Q35c.helpGroup.text.1": {
     "en": "We would like to be able to work out how much protection a complete vaccination scheme gives.",
-    "ee": "TODO"
+    "ee": "Soovime välja selgitada, kui palju kaitset täielik vaktsineerimisskeem annab."
   },
   "vaccination.HV.Q35c.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "TODO"
+    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "vaccination.HV.Q35c.helpGroup.text.3": {
     "en": "Report the number of doses you received (which corresponds to the number of time you were vaccinated against COVID-19 ).",
-    "ee": "TODO"
+    "ee": "Märkige saadud annuste arv (mis vastab sellele, mitu korda teid COVID-19 vastu vaktsineeriti)."
   },
   "vaccination.HV.Q35c.rg.scg.option.0": {
     "en": "One",
-    "ee": "TODO"
+    "ee": "Üks"
   },
   "vaccination.HV.Q35c.rg.scg.option.1": {
     "en": "Two",
-    "ee": "TODO"
+    "ee": "Kaks"
   },
   "vaccination.HV.Q35c.rg.scg.option.2": {
     "en": "Three",
-    "ee": "TODO"
+    "ee": "Kolm"
   },
   "vaccination.HV.Q35c.rg.scg.option.3": {
     "en": "More than three",
-    "ee": "TODO"
+    "ee": "Rohkem kui kolm"
   },
   "vaccination.HV.Q35c.rg.scg.option.4": {
     "en": "I Don't know/Can't remember",
-    "ee": "TODO"
+    "ee": "Ma ei tea/ei mäleta"
   },
   "vaccination.HV.Q35j.title.0": {
     "en": "When did you receive your last injection of a vaccine against COVID-19? If you do not know the exact date, provide an estimate.",
-    "ee": "TODO"
+    "ee": "Millal saite viimase COVID-19 vastase vaktsiinisüsti? Kui te ei tea täpset kuupäeva, esitage hinnanguline aeg."
   },
   "vaccination.HV.Q35j.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "TODO"
+    "ee": "Miks me seda küsime?"
   },
   "vaccination.HV.Q35j.helpGroup.text.1": {
     "en": "Knowing when people are vaccinated tells us how well the vaccination program is being carried out.",
-    "ee": "TODO"
+    "ee": "Teadmine, millal inimesi vaktsineeritakse, näitab meile, kui hästi vaktsineerimisprogrammi läbi viiakse."
   },
   "vaccination.HV.Q35j.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "TODO"
+    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "vaccination.HV.Q35j.helpGroup.text.3": {
     "en": "Please try and answer as accurately as possible. If you do not know the precise date, please give your best estimate of the month and year of vaccination.",
-    "ee": "TODO"
+    "ee": "Palun püüdke vastata võimalikult täpselt. Kui te ei tea täpset kuupäeva, esitage hinnanguline vaktsineerimiskuu ja -aasta."
   },
   "vaccination.HV.Q35j.rg.scg.dateInput.0": {
     "en": "Choose date",
-    "ee": "TODO"
+    "ee": "Valige kuupäev"
   },
   "vaccination.HV.Q35j.rg.scg.option.1": {
     "en": "I don’t know/can’t remember",
-    "ee": "TODO"
+    "ee": "Ma ei tea/ei mäleta"
   },
   "vaccination.HV.Q35k.title.0": {
     "en": "Do you plan to receive a second injection in the upcoming weeks?",
-    "ee": "TODO"
+    "ee": "Kas plaanite lähinädalatel teha teise süsti?"
   },
   "vaccination.HV.Q35k.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "TODO"
+    "ee": "Miks me seda küsime?"
   },
   "vaccination.HV.Q35k.helpGroup.text.1": {
     "en": "We want to study how long it takes for people to get the second dose after having received the first",
-    "ee": "TODO"
+    "ee": "Tahame uurida, kui kaua aega läheb inimestel pärast esimese annuse saamist enne, kui nad saavad teise annuse"
   },
   "vaccination.HV.Q35k.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "TODO"
+    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "vaccination.HV.Q35k.helpGroup.text.3": {
     "en": "Select the option that is most appropriate for your situation",
-    "ee": "TODO"
+    "ee": "Valige oma olukorrale kõige sobivam variant"
   },
   "vaccination.HV.Q35k.rg.scg.option.0": {
     "en": "Yes",
-    "ee": "TODO"
+    "ee": "Jah"
   },
   "vaccination.HV.Q35k.rg.scg.option.1": {
     "en": "No",
-    "ee": "TODO"
+    "ee": "Ei"
   },
   "vaccination.HV.Q35k.rg.scg.option.2": {
     "en": "I don't know",
-    "ee": "TODO"
+    "ee": "Ma ei tea"
   },
   "vaccination.HV.Q35l.title.0": {
     "en": "Why receiving a single injection?",
-    "ee": "TODO"
+    "ee": "Miks lasite teha ainult ühe süsti?"
   },
   "vaccination.HV.Q35l.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "TODO"
+    "ee": "Miks me seda küsime?"
   },
   "vaccination.HV.Q35l.helpGroup.text.1": {
     "en": "We would like to know the reasons behind the selected option of receiving just one dose",
-    "ee": "TODO"
+    "ee": "Soovime teada põhjuseid, miks inimesed valivad ainult ühe annuse"
   },
   "vaccination.HV.Q35l.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "TODO"
+    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "vaccination.HV.Q35l.helpGroup.text.3": {
     "en": "Select the option that is most appropriate for your situation",
-    "ee": "TODO"
+    "ee": "Valige oma olukorrale kõige sobivam variant"
   },
   "vaccination.HV.Q35l.rg.scg.option.0": {
     "en": "I had COVID-19 before my first injection.",
-    "ee": "TODO"
+    "ee": "Mul oli COVID-19 enne esimest süsti."
   },
   "vaccination.HV.Q35l.rg.scg.option.1": {
     "en": "I had COVID-19 shortly after my first injection, and have to wait several months to receive the second injection.",
-    "ee": "TODO"
+    "ee": "Mul oli COVID-19 vahetult pärast esimest süsti ja pean mitu kuud ootama enne, kui saan teha teise süsti."
   },
   "vaccination.HV.Q35l.rg.scg.option.2": {
     "en": " I received Janssen vaccine, which requires only one injection.",
-    "ee": "TODO"
+    "ee": ""
   },
   "vaccination.HV.Q35l.rg.scg.option.3": {
     "en": "A second injection was contraindicated for me by a doctor (I had a severe allergic reaction, or a severe adverse effect after the first injection, or I have a temporary contraindication due to a treatment or a disease).",
-    "ee": "TODO"
+    "ee": "Teine süst oli mulle arsti poolt vastunäidustatud (mul oli raske allergiline reaktsioon või tõsine kõrvaltoime pärast esimest süsti või mul on ajutine vastunäidustus ravi või haiguse tõttu)."
   },
   "vaccination.HV.Q35l.rg.scg.option.4": {
     "en": "I changed my mind and don’t want to be vaccinated anymore.",
-    "ee": "TODO"
+    "ee": "Muutsin meelt ja ei taha enam vaktsineerida."
   },
   "vaccination.HV.Q35l.rg.scg.input.5": {
     "en": "Other",
-    "ee": "TODO"
+    "ee": "Muu"
   },
   "vaccination.HV.Q35l.rg.scg.description.input.5": {
     "en": "Describe here (optional)",
-    "ee": "TODO"
+    "ee": "Kirjeldage siin (valikuline)"
   },
   "vaccination.HV.Q35l.rg.scg.option.6": {
     "en": "I don't know",
-    "ee": "TODO"
+    "ee": "Ma ei tea"
   },
   "vaccination.HV.Q35f.title.0": {
     "en": "What are your reason(s) for getting a COVID-19 vaccination?",
-    "ee": "TODO"
+    "ee": "Mis on teie COVID-19 vastu vaktsineerimise põhjus(ed)?"
   },
   "vaccination.HV.Q35f.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "TODO"
+    "ee": "Miks me seda küsime?"
   },
   "vaccination.HV.Q35f.helpGroup.text.1": {
     "en": "We would like to know the main reasons why people get the vaccine.",
-    "ee": "TODO"
+    "ee": "Soovime teada peamisi põhjuseid, miks inimesed lasevad end vaktsineerida."
   },
   "vaccination.HV.Q35f.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "TODO"
+    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "vaccination.HV.Q35f.helpGroup.text.3": {
     "en": "Please select the options that mattered to take your decision.",
-    "ee": "TODO"
+    "ee": "Palun märkige valikud, mis olid teie otsuse tegemiseks olulised."
   },
   "vaccination.HV.Q35f.rg.T5UL.text.0": {
-    "en": "Select all options that apply",
-    "ee": "TODO"
+    "en": "Select the options that are most applicable",
+    "ee": "Valige kõige sobivamad valikud"
   },
   "vaccination.HV.Q35f.rg.mcg.option.0": {
     "en": "The vaccination is recommended by public health authorities.",
-    "ee": "TODO"
+    "ee": "Vaktsineerimist soovitavad tervishoiuasutused."
   },
   "vaccination.HV.Q35f.rg.mcg.option.1": {
     "en": "I belong to a group who is at risk of complications in case of COVID-19 (over 65 of age, underlying health condition, obesity, etc.).",
-    "ee": "TODO"
+    "ee": "Kuulun gruppi, kellel on COVID-19 puhul tüsistuste risk (üle 65-aastane, üldine tervislik seisund, rasvumine jne)."
   },
   "vaccination.HV.Q35f.rg.mcg.option.2": {
     "en": "I work in close contact with people at risk of complications in case of COVID-19 (working in a nursing home, health staff…).",
-    "ee": "TODO"
+    "ee": "Töötan tihedas kontaktis inimestega, kellel on COVID-19 tüsistuste oht (töö hooldekodus, tervishoiutöötajad...)."
   },
   "vaccination.HV.Q35f.rg.mcg.option.3": {
     "en": "Vaccination decreases my risk of getting COVID-19.",
-    "ee": "TODO"
+    "ee": "Vaktsineerimine vähendab minu riski haigestuda COVID-19-sse."
   },
   "vaccination.HV.Q35f.rg.mcg.option.4": {
     "en": "Vaccination decreases the risk of spreading COVID-19 to others.",
-    "ee": "TODO"
+    "ee": "Vaktsineerimine vähendab COVID-19 levitamise ohtu teistele."
   },
   "vaccination.HV.Q35f.rg.mcg.option.5": {
     "en": "My doctor recommended it.",
-    "ee": "TODO"
+    "ee": "Minu arst soovitas seda."
   },
   "vaccination.HV.Q35f.rg.mcg.option.6": {
     "en": "It was recommended in my workplace/school.",
-    "ee": "TODO"
+    "ee": "Seda soovitati minu töökohas/koolis."
   },
   "vaccination.HV.Q35f.rg.mcg.option.7": {
     "en": "The vaccine was readily available and vaccine administration was convenient.",
-    "ee": "TODO"
+    "ee": "Vaktsiin oli kergesti kättesaadav ja vaktsiini manustamine oli mugav."
   },
   "vaccination.HV.Q35f.rg.mcg.option.8": {
     "en": "The vaccine was free (no cost).",
-    "ee": "TODO"
+    "ee": "Vaktsiin oli tasuta."
   },
   "vaccination.HV.Q35f.rg.mcg.option.9": {
     "en": "I don’t want to miss work/school.",
-    "ee": "TODO"
+    "ee": "Ma ei taha töölt/koolist puududa."
   },
   "vaccination.HV.Q35f.rg.mcg.option.10": {
     "en": "I always accept vaccination when it is offered to me.",
-    "ee": "TODO"
+    "ee": "Ma nõustun alati vaktsineerimisega, kui mulle seda pakutakse."
   },
   "vaccination.HV.Q35f.rg.mcg.option.11": {
     "en": "I have to be vaccinated to work.",
-    "ee": "TODO"
+    "ee": "Ma pean olema vaktsineeritud, et töötada."
   },
   "vaccination.HV.Q35f.rg.mcg.option.12": {
     "en": "To obtain a valid vaccination passport.",
-    "ee": "TODO"
+    "ee": "Kehtiva vaktsineerimispassi saamiseks."
   },
   "vaccination.HV.Q35f.rg.mcg.input.13": {
     "en": "Other",
-    "ee": "TODO"
+    "ee": "Muu"
   },
   "vaccination.HV.Q35f.rg.mcg.description.input.13": {
     "en": "Describe here (optional)",
-    "ee": "TODO"
+    "ee": "Kirjeldage siin (valikuline)"
   },
   "vaccination.HV.Q35m.title.0": {
     "en": "What were your reasons for NOT getting a COVID-19 vaccination? Select the options that are most applicable.",
-    "ee": "TODO"
+    "ee": "Mis olid teie põhjused, miks te EI lasknud end COVID-19 vastu vaktsineerida?"
   },
   "vaccination.HV.Q35m.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "TODO"
+    "ee": "Miks me seda küsime?"
   },
   "vaccination.HV.Q35m.helpGroup.text.1": {
     "en": "We would like to know the main reasons why people are declining COVID-19 vaccination.",
-    "ee": "TODO"
+    "ee": "Soovime teada peamisi põhjuseid, miks inimesed COVID-19 vastu vaktsineerimisest loobuvad."
   },
   "vaccination.HV.Q35m.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "TODO"
+    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "vaccination.HV.Q35m.helpGroup.text.3": {
     "en": "Please select the options that mattered to take your decision.",
-    "ee": "TODO"
+    "ee": "Palun märkige valikud, mis olid teie otsuse tegemiseks olulised."
   },
   "vaccination.HV.Q35m.rg.nm76.text.0": {
-    "en": "Select all options that apply",
-    "ee": "TODO"
+    "en": "Select the options that are most applicable",
+    "ee": "Valige kõige sobivamad valikud"
   },
   "vaccination.HV.Q35m.rg.mcg.option.0": {
     "en": "I am planning to be vaccinated but haven’t been yet",
-    "ee": "TODO"
+    "ee": "Ma plaanin end vaktsineerida, kuid pole veel jõudnud."
   },
   "vaccination.HV.Q35m.rg.mcg.option.1": {
     "en": "I haven't been offered the vaccine",
-    "ee": "TODO"
+    "ee": "Mulle pole vaktsiini pakutud"
   },
   "vaccination.HV.Q35m.rg.mcg.option.2": {
     "en": "I have been discouraged from being vaccinated because I am pregnant",
-    "ee": "TODO"
+    "ee": "Mulle on soovitatud mitte vaktsineerida, sest olen rase."
   },
   "vaccination.HV.Q35m.rg.mcg.option.3": {
     "en": "I am pregnant and I fear the vaccine could be dangerous for my baby",
-    "ee": "TODO"
+    "ee": "Olen rase ja kardan, et vaktsiin võib olla mu lapsele ohtlik."
   },
   "vaccination.HV.Q35m.rg.mcg.option.4": {
     "en": "I don’t belong to a risk group",
-    "ee": "TODO"
+    "ee": "Ma ei kuulu riskirühma."
   },
   "vaccination.HV.Q35m.rg.mcg.option.5": {
     "en": "It is better to build your own natural immunity against COVID-19",
-    "ee": "TODO"
+    "ee": "Parem on luua oma loomulik immuunsus COVID-19 vastu."
   },
   "vaccination.HV.Q35m.rg.mcg.option.6": {
     "en": "I doubt that the COVID-19 vaccine is effective",
-    "ee": "TODO"
+    "ee": "Ma kahtlen, kas COVID-19 vaktsiin on efektiivne."
   },
   "vaccination.HV.Q35m.rg.mcg.option.7": {
     "en": "COVID-19 is a minor illness",
-    "ee": "TODO"
+    "ee": "COVID-19 on kerge haigus."
   },
   "vaccination.HV.Q35m.rg.mcg.option.8": {
     "en": "Because of COVID-19 pandemic, I avoid seeing doctors or going to the pharmacy",
-    "ee": "TODO"
+    "ee": "Väldin COVID-19 pandeemia tõttu arstide ja apteegi külastamist."
   },
   "vaccination.HV.Q35m.rg.mcg.option.9": {
     "en": "I don't think I am likely to get the COVID-19",
-    "ee": "TODO"
+    "ee": "Ma ei usu, et mul on tõenäosus COVID-19-sse haigestuda"
   },
   "vaccination.HV.Q35m.rg.mcg.option.10": {
     "en": "I believe that the COVID-19 vaccine can cause COVID-19",
-    "ee": "TODO"
+    "ee": "Ma usun, et COVID-19 vaktsiin võib põhjustada COVID-19-sse haigestumist."
   },
   "vaccination.HV.Q35m.rg.mcg.option.11": {
     "en": "I am worried that the vaccine is not safe or will cause illness or other adverse events",
-    "ee": "TODO"
+    "ee": "Olen mures, et vaktsiin ei ole ohutu või põhjustab haigusi või muid kõrvaltoimeid,"
   },
   "vaccination.HV.Q35m.rg.mcg.option.12": {
     "en": "I don't like having vaccinations",
-    "ee": "TODO"
+    "ee": "Mulle ei meeldi vaktsineerimine"
   },
   "vaccination.HV.Q35m.rg.mcg.option.13": {
     "en": "The vaccine is not readily available to me",
-    "ee": "TODO"
+    "ee": "Vaktsiin ei ole mulle kergesti kättesaadav"
   },
   "vaccination.HV.Q35m.rg.mcg.option.14": {
     "en": "I disagree with the current vaccine policy",
-    "ee": "TODO"
+    "ee": "Ma ei nõustu praeguse vaktsineerimispoliitikaga"
   },
   "vaccination.HV.Q35m.rg.mcg.option.15": {
     "en": "The vaccine is not free of charge",
-    "ee": "TODO"
+    "ee": "Vaktsiin ei ole tasuta"
   },
   "vaccination.HV.Q35m.rg.mcg.option.16": {
     "en": "I don't know",
-    "ee": "TODO"
+    "ee": "Ma ei tea"
   },
   "vaccination.HV.Q35m.rg.mcg.input.17": {
     "en": "Other reason(s)",
-    "ee": "TODO"
+    "ee": "Muud põhjused"
   },
   "vaccination.HV.Q35m.rg.mcg.description.input.17": {
     "en": "Describe here (optional)",
-    "ee": "TODO"
-  },
-  "vaccination.surveyEnd.title.0": {
-    "en": "Thank you! This was all for now, please submit (push « send ») your responses.",
-    "ee": "TODO"
+    "ee": "Kirjeldage siin (valikuline)"
   }
 }

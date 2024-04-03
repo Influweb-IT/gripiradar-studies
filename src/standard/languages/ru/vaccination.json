@@ -1,690 +1,682 @@
 {
   "vaccination.name.0": {
     "en": "Vaccination questionnaire",
-    "ru": "TODO"
+    "ru": "Анкета по вакцинации"
   },
   "vaccination.description.0": {
     "en": "The purpose of the vaccination questionnaire is to find out more about protection given by the vaccine and monitor vaccination uptake in Italy.",
-    "ru": "TODO"
+    "ru": "Цель анкеты о вакцинации – узнать больше о защите, обеспечиваемой вакциной, и отслеживать уровень вакцинации в Эстонии."
   },
   "vaccination.typicalDuration.0": {
     "en": "Duration 5-10 minutes",
-    "ru": "TODO"
+    "ru": "Продолжительность 5–10 минут"
   },
   "vaccination.Q0.title.0": {
     "en": "Four weeks ago you received a questionnaire about your vaccination status.  This new questionnaire is to monitor any further changes. Select the option that applies to you.",
-    "ru": "TODO"
+    "ru": "Четыре недели назад вы получили анкету о вашем статусе вакцинации. Эта новая анкета предназначена для отслеживания любых дальнейших изменений. Выберите вариант, который подходит вам."
   },
   "vaccination.Q0.rg.scg.option.0": {
     "en": "In the meantime I received a new vaccine dose, or a new invitation to be vaccinated.",
-    "ru": "TODO"
+    "ru": "За это время я получил(а) новую дозу вакцины или новое приглашение пройти вакцинацию."
   },
   "vaccination.Q0.rg.scg.option.1": {
     "en": "In the meantime nothing has changed in terms of vaccination for me.",
-    "ru": "TODO"
+    "ru": "За это время с точки зрения вакцинации для меня ничего не изменилось."
   },
   "vaccination.Q0.rg.scg.option.2": {
     "en": "I'm not sure, and would like to take these questions to make sure my information on vaccination is up to date.",
-    "ru": "TODO"
+    "ru": "Я не уверен(а) и хотел(а) бы ответить на эти вопросы, чтобы убедиться, что моя информация о вакцинации актуальна."
   },
   "vaccination.Q0.privacy.note": {
     "en": "(**) By selecting one of these options you give your consent to use your historical data to prefill this survey's responses.",
-    "ru": "TODO"
+    "ru": "(**) Выбирая один из этих вариантов, вы даете свое согласие на использование ваших данных за прошедшие периоды для предварительного заполнения ответов в этом опросе."
   },
   "vaccination.HV.Q9.title.0": {
-    "en": "Did you receive a flu vaccine during the previous flu season ?",
-    "ru": "TODO"
+    "en": "Did you receive a flu vaccine during the previous flu season (2022-2023)",
+    "ru": "Получали ли вы прививку от гриппа в предыдущем сезоне гриппа (2022–2023 гг.)?"
   },
   "vaccination.HV.Q9.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "vaccination.HV.Q9.helpGroup.text.1": {
     "en": "We would like to study what level of protection the vaccine provides. We would also like to know if there is any protection from vaccines received in previous years.",
-    "ru": "TODO"
+    "ru": "Мы хотели бы изучить, какой уровень защиты обеспечивает вакцина. Мы также хотели бы знать, есть ли какая-либо защита от вакцин, полученных в предыдущие годы."
   },
   "vaccination.HV.Q9.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "vaccination.HV.Q9.helpGroup.text.3": {
-    "en": "Answer 'yes' if you were vaccinated in the previous autumn/winter season",
-    "ru": "TODO"
+    "en": "Answer 'yes' if you were vaccinated in autumn/winter 2022-2023.",
+    "ru": "Ответьте 'да', если вы были вакцинированы осенью/зимой 2022–2023 гг."
   },
   "vaccination.HV.Q9.rg.scg.option.0": {
     "en": "Yes",
-    "ru": "TODO"
+    "ru": "Да"
   },
   "vaccination.HV.Q9.rg.scg.option.1": {
     "en": "No",
-    "ru": "TODO"
+    "ru": "Нет"
   },
   "vaccination.HV.Q9.rg.scg.option.2": {
     "en": "I don't know/can't remember",
-    "ru": "TODO"
+    "ru": "Не знаю/Не помню"
   },
   "vaccination.HV.Q10.title.0": {
-    "en": "Have you received a flu vaccine this autumn/winter season?",
-    "ru": "TODO"
+    "en": "Have you received a flu vaccine this autumn/winter season? (2023-2024)",
+    "ru": "Получали ли вы прививку от гриппа в этом осенне-зимнем сезоне? (2023–2024)"
   },
   "vaccination.HV.Q10.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "vaccination.HV.Q10.helpGroup.text.1": {
     "en": "We would like to be able to work out how much protection the vaccine gives.",
-    "ru": "TODO"
+    "ru": "Мы хотели бы иметь возможность определить, какую защиту дает вакцина."
   },
   "vaccination.HV.Q10.helpGroup.text.2": {
-    "en": "How should I answer this question?",
-    "ru": "TODO"
+    "en": "How should I answer it?",
+    "ru": "Как мне на это ответить?"
   },
   "vaccination.HV.Q10.helpGroup.text.3": {
     "en": "Report yes, if you received the vaccine this season, usually in the autumn. If you get vaccinated after filling in this questionnaire, please return to this and update your answer.",
-    "ru": "TODO"
+    "ru": "Ответьте «да», если вы получили вакцину в этом сезоне, обычно осенью. Если вы пройдете вакцинацию после заполнения этой анкеты, пожалуйста, вернитесь к анкете и обновите свой ответ."
   },
   "vaccination.HV.Q10.rg.scg.option.0": {
     "en": "Yes",
-    "ru": "TODO"
+    "ru": "Да"
   },
   "vaccination.HV.Q10.rg.scg.option.1": {
     "en": "No",
-    "ru": "TODO"
+    "ru": "Нет"
   },
   "vaccination.HV.Q10.rg.scg.option.2": {
     "en": "I don't know/can't remember",
-    "ru": "TODO"
+    "ru": "Не знаю/Не помню"
   },
   "vaccination.HV.Q10b.title.0": {
-    "en": "When were you vaccinated against flu this season ?",
-    "ru": "TODO"
+    "en": "When were you vaccinated against flu this season (2023-2024)?",
+    "ru": "Когда вы были привиты от гриппа в этом сезоне (2023–2024 гг.)?"
   },
   "vaccination.HV.Q10b.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "vaccination.HV.Q10b.helpGroup.text.1": {
     "en": "Knowing when people get vaccinated tells us how the vaccination program is being followed, as well as the effectiveness of the vaccine.",
-    "ru": "TODO"
+    "ru": "Знание того, когда люди делают прививку, говорит нам о том, как соблюдается программа вакцинации, а также об эффективности вакцины."
   },
   "vaccination.HV.Q10b.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "vaccination.HV.Q10b.helpGroup.text.3": {
     "en": "Try to answer as precisely as possible. If you do not know the exact date, provide as close an estimate as possible. For example, if you remember the month, try to recall if it was in the beginning or end of the month. Did any important events take place (such as holidays or birthdays) that may help you to refresh your memory?",
-    "ru": "TODO"
+    "ru": "Постарайтесь ответить как можно точнее. Если вы не знаете точную дату, предоставьте как можно более приблизительную оценку. Например, если вы помните месяц, попробуйте вспомнить, было ли это в начале или в конце месяца. Происходили ли какие-нибудь важные события (например, праздники или дни рождения), которые могут помочь вам освежить память?"
   },
   "vaccination.HV.Q10b.rg.scg.description.dateInput.0": {
     "en": "Choose date",
-    "ru": "TODO"
+    "ru": "Выберите дату"
   },
   "vaccination.HV.Q10b.rg.scg.option.1": {
     "en": "I don't know (anymore)",
-    "ru": "TODO"
+    "ru": "Я не знаю (больше)"
   },
   "vaccination.HV.Q10c.title.0": {
     "en": "What were your reasons for getting a seasonal influenza vaccination this year?",
-    "ru": "TODO"
+    "ru": "Какие у вас были причины сделать прививку от сезонного гриппа в этом году?"
   },
   "vaccination.HV.Q10c.rg.LlBq.text.0": {
-    "en": "Select all options that apply",
-    "ru": "TODO"
+    "en": "Select the options that are most applicable",
+    "ru": "Выберите наиболее подходящие варианты"
   },
   "vaccination.HV.Q10c.rg.mcg.option.0": {
     "en": "I belong to a risk group (e.g, pregnant, over 65, underlying health condition, etc)",
-    "ru": "TODO"
+    "ru": "Я отношусь к группе риска (например, беременна, старше 65 лет, имею сопутствующее хроническое заболевание и т. д.)"
   },
   "vaccination.HV.Q10c.rg.mcg.option.1": {
     "en": "Vaccination decreases my risk of getting influenza",
-    "ru": "TODO"
+    "ru": "Вакцинация снижает мой риск заболеть гриппом"
   },
   "vaccination.HV.Q10c.rg.mcg.option.2": {
     "en": "Vaccination decreases the risk of spreading influenza to others",
-    "ru": "TODO"
+    "ru": "Вакцинация снижает риск распространения гриппа среди других"
   },
   "vaccination.HV.Q10c.rg.mcg.option.3": {
     "en": "My doctor recommended it",
-    "ru": "TODO"
+    "ru": "Мой врач рекомендовал это"
   },
   "vaccination.HV.Q10c.rg.mcg.option.4": {
     "en": "It was recommended in my workplace/school",
-    "ru": "TODO"
+    "ru": "Это рекомендовали на моем месте работы/учебы"
   },
   "vaccination.HV.Q10c.rg.mcg.option.5": {
     "en": "The vaccine was readily available and vaccine administration was convenient",
-    "ru": "TODO"
+    "ru": "Вакцина была легкодоступна, а введение вакцины было удобным"
   },
   "vaccination.HV.Q10c.rg.mcg.option.6": {
     "en": "The vaccine was free (no cost)",
-    "ru": "TODO"
+    "ru": "Вакцина была бесплатной (ничего не стоила мне)"
   },
   "vaccination.HV.Q10c.rg.mcg.option.7": {
     "en": "I don't want to miss work/school",
-    "ru": "TODO"
+    "ru": "Я не хочу пропускать работу/учебу"
   },
   "vaccination.HV.Q10c.rg.mcg.option.8": {
     "en": "I always get the vaccine",
-    "ru": "TODO"
+    "ru": "Я всегда делаю прививку"
   },
   "vaccination.HV.Q10c.rg.mcg.option.9": {
     "en": "I try to protect myself against infections, because of the circulation of the pandemic coronavirus",
-    "ru": "TODO"
+    "ru": "Я стараюсь защититься от инфекций из-за распространения пандемического коронавируса"
   },
   "vaccination.HV.Q10c.rg.mcg.input.10": {
     "en": "Other reason(s)",
-    "ru": "TODO"
+    "ru": "Другая причина (другие причины)"
   },
   "vaccination.HV.Q10c.rg.mcg.description.input.10": {
     "en": "Describe here (optional)",
-    "ru": "TODO"
+    "ru": "Опишите здесь (необязательно)"
   },
   "vaccination.HV.Q10d.title.0": {
-    "en": "What were your reasons for NOT getting a seasonal influenza vaccination for this current season ?",
-    "ru": "TODO"
+    "en": "What were your reasons for NOT getting a seasonal influenza vaccination in seaseon 2022/2023?",
+    "ru": "Какие у вас были причины НЕ делать прививку от сезонного гриппа в сезоне 2022/2023 гг.?"
   },
   "vaccination.HV.Q10d.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "vaccination.HV.Q10d.helpGroup.text.1": {
     "en": "We would like to know why some people get vaccinated and others do not.",
-    "ru": "TODO"
+    "ru": "Мы хотели бы знать, почему одни люди делают прививки, а другие нет."
   },
   "vaccination.HV.Q10d.helpGroup.text.2": {
-    "en": "How should I answer this question?",
-    "ru": "TODO"
+    "en": "How should I answer it?",
+    "ru": "Как мне на это ответить?"
   },
   "vaccination.HV.Q10d.helpGroup.text.3": {
     "en": "Tick all those reasons that were important in your decision.",
-    "ru": "TODO"
+    "ru": "Отметьте все причины, которые сыграли важную роль в вашем решении."
   },
   "vaccination.HV.Q10d.rg.t2y2.text.0": {
-    "en": "Select all options that apply",
-    "ru": "TODO"
+    "en": "Select the options that are most applicable",
+    "ru": "Выберите наиболее подходящие варианты"
   },
   "vaccination.HV.Q10d.rg.mcg.option.0": {
     "en": "I am planning to be vaccinated, but haven't been yet",
-    "ru": "TODO"
+    "ru": "Я планирую сделать прививку, но еще не сделал(а)"
   },
   "vaccination.HV.Q10d.rg.mcg.option.1": {
     "en": "I haven't been offered the vaccine",
-    "ru": "TODO"
+    "ru": "Мне не предлагали вакцину"
   },
   "vaccination.HV.Q10d.rg.mcg.option.2": {
     "en": "I don't belong to a risk group",
-    "ru": "TODO"
+    "ru": "Я не отношусь к группе риска"
   },
   "vaccination.HV.Q10d.rg.mcg.option.3": {
     "en": "It is better to build your own natural immunity against influenza",
-    "ru": "TODO"
+    "ru": "Лучше выработать собственный естественный иммунитет против гриппа"
   },
   "vaccination.HV.Q10d.rg.mcg.option.4": {
     "en": "I doubt that the influenza vaccine is effective",
-    "ru": "TODO"
+    "ru": "Я сомневаюсь, что вакцина против гриппа эффективна"
   },
   "vaccination.HV.Q10d.rg.mcg.option.5": {
     "en": "Influenza is a minor illness",
-    "ru": "TODO"
+    "ru": "Грипп – легкая болезнь"
   },
   "vaccination.HV.Q10d.rg.mcg.option.6": {
     "en": "I don't think I am likely to get influenza",
-    "ru": "TODO"
+    "ru": "Я не думаю, что могу заболеть гриппом"
   },
   "vaccination.HV.Q10d.rg.mcg.option.7": {
     "en": "I believe that influenza vaccine can cause influenza",
-    "ru": "TODO"
+    "ru": "Я считаю, что вакцина против гриппа может вызвать грипп"
   },
   "vaccination.HV.Q10d.rg.mcg.option.8": {
     "en": "I am worried that the vaccine is not safe or will cause illness or other adverse events",
-    "ru": "TODO"
+    "ru": "Меня беспокоит то, что вакцина небезопасна или может вызвать заболевание или другие побочные эффекты"
   },
   "vaccination.HV.Q10d.rg.mcg.option.9": {
     "en": "I don't like having vaccinations",
-    "ru": "TODO"
+    "ru": "Я не люблю делать прививки"
   },
   "vaccination.HV.Q10d.rg.mcg.option.10": {
     "en": "The vaccine is not readily available to me",
-    "ru": "TODO"
+    "ru": "Вакцина мне недоступна"
   },
   "vaccination.HV.Q10d.rg.mcg.option.11": {
     "en": "The vaccine is not free of charge",
-    "ru": "TODO"
+    "ru": "Вакцина не бесплатна"
   },
   "vaccination.HV.Q10d.rg.mcg.option.12": {
     "en": "No particular reason",
-    "ru": "TODO"
+    "ru": "Нет особой причины"
   },
   "vaccination.HV.Q10d.rg.mcg.option.13": {
     "en": "Although my doctor recommend a vaccine, I do not get one",
-    "ru": "TODO"
+    "ru": "Хотя мой врач рекомендует прививку, я ее не делаю"
   },
   "vaccination.HV.Q10d.rg.mcg.input.14": {
     "en": "Other reason(s)",
-    "ru": "TODO"
+    "ru": "Другая причина (другие причины)"
   },
   "vaccination.HV.Q10d.rg.mcg.description.input.14": {
     "en": "Describe here (optional)",
-    "ru": "TODO"
+    "ru": "Опишите здесь (необязательно)"
   },
   "vaccination.HV.Q35.title.0": {
     "en": "Have you received a COVID-19 vaccine?",
-    "ru": "TODO"
+    "ru": "Вы получили вакцину от COVID-19?"
   },
   "vaccination.HV.Q35.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "vaccination.HV.Q35.helpGroup.text.1": {
     "en": "We would like to be able to work out how much protection the vaccine gives.",
-    "ru": "TODO"
+    "ru": "Мы хотели бы иметь возможность определить, какую защиту дает вакцина."
   },
   "vaccination.HV.Q35.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "vaccination.HV.Q35.helpGroup.text.3": {
     "en": "Report yes, if you received a COVID-19 vaccine (since December 2020).",
-    "ru": "TODO"
+    "ru": "Ответьте «да», если вы получали вакцину от COVID-19 (с декабря 2020 г.)."
   },
   "vaccination.HV.Q35.rg.scg.option.0": {
     "en": "Yes, I received at least one COVID-19 vaccine",
-    "ru": "TODO"
+    "ru": "Да, я получал(а) хотя бы одну вакцину от COVID-19"
   },
   "vaccination.HV.Q35.rg.scg.option.1": {
     "en": "No, I did not receive the COVID-19 vaccine",
-    "ru": "TODO"
+    "ru": "Нет, я не получал(а) вакцину от COVID-19"
   },
   "vaccination.HV.Q35.rg.scg.option.2": {
     "en": "I don't know/can't remember.",
-    "ru": "TODO"
+    "ru": "Не знаю/Не помню."
   },
   "vaccination.HV.Q35i.title.0": {
     "en": "Which COVID-19 vaccine(s) did you receive?",
-    "ru": "TODO"
+    "ru": "Какую вакцину (какие вакцины) от COVID-19 вы получали?"
   },
   "vaccination.HV.Q35i.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "vaccination.HV.Q35i.helpGroup.text.1": {
     "en": "We want to know how many people got vaccinated with what brand",
-    "ru": "TODO"
+    "ru": "Мы хотим знать, сколько людей было вакцинировано и какими именно брендами"
   },
   "vaccination.HV.Q35i.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "vaccination.HV.Q35i.helpGroup.text.3": {
     "en": "Specify which brand (or brands if you hade more than one type) you got vaccinated with",
-    "ru": "TODO"
+    "ru": "Укажите, каким брендом (или какими брендами, если у вас было более одного вида вакцины) вы были вакцинированы"
   },
   "vaccination.HV.Q35i.rg.LMsj.text.0": {
-    "en": "Select all options that apply",
-    "ru": "TODO"
+    "en": "Select more than one option if you received different brands",
+    "ru": "Выберите несколько вариантов, если вы получали вакцины разных брендов"
   },
   "vaccination.HV.Q35i.rg.mcg.option.0": {
     "en": "Pfizer/BioNTech",
-    "ru": "TODO"
+    "ru": "Pfizer/BioNTech"
   },
   "vaccination.HV.Q35i.rg.mcg.option.1": {
     "en": "Moderna",
-    "ru": "TODO"
+    "ru": "Moderna"
   },
   "vaccination.HV.Q35i.rg.mcg.option.2": {
     "en": "AstraZeneca",
-    "ru": "TODO"
+    "ru": "AstraZeneca"
   },
   "vaccination.HV.Q35i.rg.mcg.option.3": {
     "en": "Janssen Pharmaceutica (Johnson & Johnson)",
-    "ru": "TODO"
+    "ru": "Janssen Pharmaceutica (Johnson & Johnson)"
   },
   "vaccination.HV.Q35i.rg.mcg.option.4": {
-    "en": "CureVac",
-    "ru": "TODO"
-  },
-  "vaccination.HV.Q35i.rg.mcg.option.5": {
     "en": "I Don't know/Can't remember",
-    "ru": "TODO"
+    "ru": "Не знаю/Не помню"
   },
   "vaccination.HV.Q35c.title.0": {
     "en": "How many doses of the vaccine did you receive?",
-    "ru": "TODO"
+    "ru": "Сколько доз вакцины вы получили?"
   },
   "vaccination.HV.Q35c.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "vaccination.HV.Q35c.helpGroup.text.1": {
     "en": "We would like to be able to work out how much protection a complete vaccination scheme gives.",
-    "ru": "TODO"
+    "ru": "Мы хотели бы иметь возможность определить, какую защиту дает полная схема вакцинации."
   },
   "vaccination.HV.Q35c.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "vaccination.HV.Q35c.helpGroup.text.3": {
     "en": "Report the number of doses you received (which corresponds to the number of time you were vaccinated against COVID-19 ).",
-    "ru": "TODO"
+    "ru": "Сообщите количество полученных вами доз (что соответствует количеству раз, когда вы были вакцинированы против COVID-19)."
   },
   "vaccination.HV.Q35c.rg.scg.option.0": {
     "en": "One",
-    "ru": "TODO"
+    "ru": "Один"
   },
   "vaccination.HV.Q35c.rg.scg.option.1": {
     "en": "Two",
-    "ru": "TODO"
+    "ru": "Два"
   },
   "vaccination.HV.Q35c.rg.scg.option.2": {
     "en": "Three",
-    "ru": "TODO"
+    "ru": "Три"
   },
   "vaccination.HV.Q35c.rg.scg.option.3": {
     "en": "More than three",
-    "ru": "TODO"
+    "ru": "Больше трех"
   },
   "vaccination.HV.Q35c.rg.scg.option.4": {
     "en": "I Don't know/Can't remember",
-    "ru": "TODO"
+    "ru": "Не знаю/Не помню"
   },
   "vaccination.HV.Q35j.title.0": {
     "en": "When did you receive your last injection of a vaccine against COVID-19? If you do not know the exact date, provide an estimate.",
-    "ru": "TODO"
+    "ru": "Когда вы получили последнюю инъекцию вакцины против COVID-19? Если вы не знаете точную дату, укажите приблизительную."
   },
   "vaccination.HV.Q35j.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "vaccination.HV.Q35j.helpGroup.text.1": {
     "en": "Knowing when people are vaccinated tells us how well the vaccination program is being carried out.",
-    "ru": "TODO"
+    "ru": "Знание того, когда люди вакцинируются, говорит нам о том, насколько хорошо осуществляется программа вакцинации."
   },
   "vaccination.HV.Q35j.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "vaccination.HV.Q35j.helpGroup.text.3": {
     "en": "Please try and answer as accurately as possible. If you do not know the precise date, please give your best estimate of the month and year of vaccination.",
-    "ru": "TODO"
+    "ru": "Пожалуйста, постарайтесь ответить как можно точнее. Если вы не знаете точную дату, пожалуйста, укажите как можно более приблизительно месяц и год вакцинации."
   },
   "vaccination.HV.Q35j.rg.scg.dateInput.0": {
     "en": "Choose date",
-    "ru": "TODO"
+    "ru": "Выберите дату"
   },
   "vaccination.HV.Q35j.rg.scg.option.1": {
     "en": "I don’t know/can’t remember",
-    "ru": "TODO"
+    "ru": "Не знаю/Не помню"
   },
   "vaccination.HV.Q35k.title.0": {
     "en": "Do you plan to receive a second injection in the upcoming weeks?",
-    "ru": "TODO"
+    "ru": "Планируете ли вы сделать вторую инъекцию в ближайшие недели?"
   },
   "vaccination.HV.Q35k.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "vaccination.HV.Q35k.helpGroup.text.1": {
     "en": "We want to study how long it takes for people to get the second dose after having received the first",
-    "ru": "TODO"
+    "ru": "Мы хотим изучить, сколько времени требуется людям, чтобы получить вторую дозу после получения первой"
   },
   "vaccination.HV.Q35k.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "vaccination.HV.Q35k.helpGroup.text.3": {
     "en": "Select the option that is most appropriate for your situation",
-    "ru": "TODO"
+    "ru": "Выберите вариант, наиболее подходящий для вашей ситуации"
   },
   "vaccination.HV.Q35k.rg.scg.option.0": {
     "en": "Yes",
-    "ru": "TODO"
+    "ru": "Да"
   },
   "vaccination.HV.Q35k.rg.scg.option.1": {
     "en": "No",
-    "ru": "TODO"
+    "ru": "Нет"
   },
   "vaccination.HV.Q35k.rg.scg.option.2": {
     "en": "I don't know",
-    "ru": "TODO"
+    "ru": "Я не знаю"
   },
   "vaccination.HV.Q35l.title.0": {
     "en": "Why receiving a single injection?",
-    "ru": "TODO"
+    "ru": "Зачем получать одну инъекцию?"
   },
   "vaccination.HV.Q35l.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "vaccination.HV.Q35l.helpGroup.text.1": {
     "en": "We would like to know the reasons behind the selected option of receiving just one dose",
-    "ru": "TODO"
+    "ru": "Мы хотели бы знать причины выбранного варианта получения только одной дозы"
   },
   "vaccination.HV.Q35l.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "vaccination.HV.Q35l.helpGroup.text.3": {
     "en": "Select the option that is most appropriate for your situation",
-    "ru": "TODO"
+    "ru": "Выберите вариант, наиболее подходящий для вашей ситуации"
   },
   "vaccination.HV.Q35l.rg.scg.option.0": {
     "en": "I had COVID-19 before my first injection.",
-    "ru": "TODO"
+    "ru": "У меня был COVID-19 еще до первой инъекции."
   },
   "vaccination.HV.Q35l.rg.scg.option.1": {
     "en": "I had COVID-19 shortly after my first injection, and have to wait several months to receive the second injection.",
-    "ru": "TODO"
+    "ru": "Я перенес(ла) COVID-19 вскоре после первой инъекции, и мне пришлось ждать несколько месяцев, чтобы получить вторую инъекцию."
   },
   "vaccination.HV.Q35l.rg.scg.option.2": {
     "en": " I received Janssen vaccine, which requires only one injection.",
-    "ru": "TODO"
+    "ru": ""
   },
   "vaccination.HV.Q35l.rg.scg.option.3": {
     "en": "A second injection was contraindicated for me by a doctor (I had a severe allergic reaction, or a severe adverse effect after the first injection, or I have a temporary contraindication due to a treatment or a disease).",
-    "ru": "TODO"
+    "ru": "Вторая инъекция мне была противопоказана врачом (у меня возникла сильная аллергическая реакция или был сильный побочный эффект после первой инъекции, либо у меня есть временное противопоказание в связи с лечением или заболеванием)."
   },
   "vaccination.HV.Q35l.rg.scg.option.4": {
     "en": "I changed my mind and don’t want to be vaccinated anymore.",
-    "ru": "TODO"
+    "ru": "Я передумал(а) и больше не хочу делать прививки."
   },
   "vaccination.HV.Q35l.rg.scg.input.5": {
     "en": "Other",
-    "ru": "TODO"
+    "ru": "Другое"
   },
   "vaccination.HV.Q35l.rg.scg.description.input.5": {
     "en": "Describe here (optional)",
-    "ru": "TODO"
+    "ru": "Опишите здесь (необязательно)"
   },
   "vaccination.HV.Q35l.rg.scg.option.6": {
     "en": "I don't know",
-    "ru": "TODO"
+    "ru": "Я не знаю"
   },
   "vaccination.HV.Q35f.title.0": {
     "en": "What are your reason(s) for getting a COVID-19 vaccination?",
-    "ru": "TODO"
+    "ru": "Какова ваша причина (каковы ваши причины) сделать прививку от COVID-19?"
   },
   "vaccination.HV.Q35f.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "vaccination.HV.Q35f.helpGroup.text.1": {
     "en": "We would like to know the main reasons why people get the vaccine.",
-    "ru": "TODO"
+    "ru": "Мы хотели бы знать основные причины, по которым люди получают вакцину."
   },
   "vaccination.HV.Q35f.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "vaccination.HV.Q35f.helpGroup.text.3": {
     "en": "Please select the options that mattered to take your decision.",
-    "ru": "TODO"
+    "ru": "Пожалуйста, выберите варианты, которые имели значение для принятия вашего решения."
   },
   "vaccination.HV.Q35f.rg.T5UL.text.0": {
-    "en": "Select all options that apply",
-    "ru": "TODO"
+    "en": "Select the options that are most applicable",
+    "ru": "Выберите наиболее подходящие варианты"
   },
   "vaccination.HV.Q35f.rg.mcg.option.0": {
     "en": "The vaccination is recommended by public health authorities.",
-    "ru": "TODO"
+    "ru": "Вакцинация рекомендована органами общественного здравоохранения."
   },
   "vaccination.HV.Q35f.rg.mcg.option.1": {
     "en": "I belong to a group who is at risk of complications in case of COVID-19 (over 65 of age, underlying health condition, obesity, etc.).",
-    "ru": "TODO"
+    "ru": "Я принадлежу к группе, которая подвержена риску осложнений в случае COVID-19 (возраст старше 65 лет, сопутствующее хроническое заболевание, ожирение и т. д.)."
   },
   "vaccination.HV.Q35f.rg.mcg.option.2": {
     "en": "I work in close contact with people at risk of complications in case of COVID-19 (working in a nursing home, health staff…).",
-    "ru": "TODO"
+    "ru": "Я работаю в тесном контакте с людьми, подверженными риску осложнений в случае COVID-19 (в попечительском доме, медперсоналом…)."
   },
   "vaccination.HV.Q35f.rg.mcg.option.3": {
     "en": "Vaccination decreases my risk of getting COVID-19.",
-    "ru": "TODO"
+    "ru": "Вакцинация снижает мой риск заражения COVID-19."
   },
   "vaccination.HV.Q35f.rg.mcg.option.4": {
     "en": "Vaccination decreases the risk of spreading COVID-19 to others.",
-    "ru": "TODO"
+    "ru": "Вакцинация снижает риск распространения COVID-19 среди других."
   },
   "vaccination.HV.Q35f.rg.mcg.option.5": {
     "en": "My doctor recommended it.",
-    "ru": "TODO"
+    "ru": "Мой врач рекомендовал это."
   },
   "vaccination.HV.Q35f.rg.mcg.option.6": {
     "en": "It was recommended in my workplace/school.",
-    "ru": "TODO"
+    "ru": "Это рекомендовали на моем месте работы/учебы."
   },
   "vaccination.HV.Q35f.rg.mcg.option.7": {
     "en": "The vaccine was readily available and vaccine administration was convenient.",
-    "ru": "TODO"
+    "ru": "Вакцина была легкодоступна, а введение вакцины было удобным."
   },
   "vaccination.HV.Q35f.rg.mcg.option.8": {
     "en": "The vaccine was free (no cost).",
-    "ru": "TODO"
+    "ru": "Вакцина была бесплатной (ничего не стоила мне)."
   },
   "vaccination.HV.Q35f.rg.mcg.option.9": {
     "en": "I don’t want to miss work/school.",
-    "ru": "TODO"
+    "ru": "Я не хочу пропускать работу/учебу."
   },
   "vaccination.HV.Q35f.rg.mcg.option.10": {
     "en": "I always accept vaccination when it is offered to me.",
-    "ru": "TODO"
+    "ru": "Я всегда соглашаюсь на вакцинацию, когда мне ее предлагают."
   },
   "vaccination.HV.Q35f.rg.mcg.option.11": {
     "en": "I have to be vaccinated to work.",
-    "ru": "TODO"
+    "ru": "Для работы у меня должна быть сделана прививка."
   },
   "vaccination.HV.Q35f.rg.mcg.option.12": {
     "en": "To obtain a valid vaccination passport.",
-    "ru": "TODO"
+    "ru": "Для получения действующего паспорта иммунизации."
   },
   "vaccination.HV.Q35f.rg.mcg.input.13": {
     "en": "Other",
-    "ru": "TODO"
+    "ru": "Другое"
   },
   "vaccination.HV.Q35f.rg.mcg.description.input.13": {
     "en": "Describe here (optional)",
-    "ru": "TODO"
+    "ru": "Опишите здесь (необязательно)"
   },
   "vaccination.HV.Q35m.title.0": {
     "en": "What were your reasons for NOT getting a COVID-19 vaccination? Select the options that are most applicable.",
-    "ru": "TODO"
+    "ru": "Какие у вас были причины НЕ делать прививку от COVID-19? Выберите наиболее подходящие варианты."
   },
   "vaccination.HV.Q35m.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ru": "TODO"
+    "ru": "Почему мы это спрашиваем?"
   },
   "vaccination.HV.Q35m.helpGroup.text.1": {
     "en": "We would like to know the main reasons why people are declining COVID-19 vaccination.",
-    "ru": "TODO"
+    "ru": "Мы хотели бы знать основные причины, по которым люди отказываются от вакцинации против COVID-19."
   },
   "vaccination.HV.Q35m.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ru": "TODO"
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "vaccination.HV.Q35m.helpGroup.text.3": {
     "en": "Please select the options that mattered to take your decision.",
-    "ru": "TODO"
+    "ru": "Пожалуйста, выберите варианты, которые имели значение для принятия вашего решения."
   },
   "vaccination.HV.Q35m.rg.nm76.text.0": {
-    "en": "Select all options that apply",
-    "ru": "TODO"
+    "en": "Select the options that are most applicable",
+    "ru": "Выберите наиболее подходящие варианты"
   },
   "vaccination.HV.Q35m.rg.mcg.option.0": {
     "en": "I am planning to be vaccinated but haven’t been yet",
-    "ru": "TODO"
+    "ru": "Я планирую сделать прививку, но еще не сделал(а)"
   },
   "vaccination.HV.Q35m.rg.mcg.option.1": {
     "en": "I haven't been offered the vaccine",
-    "ru": "TODO"
+    "ru": "Мне не предлагали вакцину"
   },
   "vaccination.HV.Q35m.rg.mcg.option.2": {
     "en": "I have been discouraged from being vaccinated because I am pregnant",
-    "ru": "TODO"
+    "ru": "Меня отговорили делать прививку, потому что я беременна"
   },
   "vaccination.HV.Q35m.rg.mcg.option.3": {
     "en": "I am pregnant and I fear the vaccine could be dangerous for my baby",
-    "ru": "TODO"
+    "ru": "Я беременна и боюсь, что вакцина может быть опасна для моего ребенка"
   },
   "vaccination.HV.Q35m.rg.mcg.option.4": {
     "en": "I don’t belong to a risk group",
-    "ru": "TODO"
+    "ru": "Я не отношусь к группе риска"
   },
   "vaccination.HV.Q35m.rg.mcg.option.5": {
     "en": "It is better to build your own natural immunity against COVID-19",
-    "ru": "TODO"
+    "ru": "Лучше выработать собственный естественный иммунитет против COVID-19"
   },
   "vaccination.HV.Q35m.rg.mcg.option.6": {
     "en": "I doubt that the COVID-19 vaccine is effective",
-    "ru": "TODO"
+    "ru": "Я сомневаюсь, что вакцина от COVID-19 эффективна"
   },
   "vaccination.HV.Q35m.rg.mcg.option.7": {
     "en": "COVID-19 is a minor illness",
-    "ru": "TODO"
+    "ru": "COVID-19 – это легкое заболевание"
   },
   "vaccination.HV.Q35m.rg.mcg.option.8": {
     "en": "Because of COVID-19 pandemic, I avoid seeing doctors or going to the pharmacy",
-    "ru": "TODO"
+    "ru": "Из-за пандемии COVID-19 я избегаю посещения врачей и походов в аптеку"
   },
   "vaccination.HV.Q35m.rg.mcg.option.9": {
     "en": "I don't think I am likely to get the COVID-19",
-    "ru": "TODO"
+    "ru": "Я не думаю, что у меня есть шанс заразиться COVID-19"
   },
   "vaccination.HV.Q35m.rg.mcg.option.10": {
     "en": "I believe that the COVID-19 vaccine can cause COVID-19",
-    "ru": "TODO"
+    "ru": "Я считаю, что вакцина от COVID-19 может вызвать COVID-19"
   },
   "vaccination.HV.Q35m.rg.mcg.option.11": {
     "en": "I am worried that the vaccine is not safe or will cause illness or other adverse events",
-    "ru": "TODO"
+    "ru": "Меня беспокоит то, что вакцина небезопасна или может вызвать заболевание или другие побочные эффекты"
   },
   "vaccination.HV.Q35m.rg.mcg.option.12": {
     "en": "I don't like having vaccinations",
-    "ru": "TODO"
+    "ru": "Я не люблю делать прививки"
   },
   "vaccination.HV.Q35m.rg.mcg.option.13": {
     "en": "The vaccine is not readily available to me",
-    "ru": "TODO"
+    "ru": "Вакцина мне недоступна"
   },
   "vaccination.HV.Q35m.rg.mcg.option.14": {
     "en": "I disagree with the current vaccine policy",
-    "ru": "TODO"
+    "ru": "Я не соглашаюсь с нынешней политикой вакцинации"
   },
   "vaccination.HV.Q35m.rg.mcg.option.15": {
     "en": "The vaccine is not free of charge",
-    "ru": "TODO"
+    "ru": "Вакцина не бесплатна"
   },
   "vaccination.HV.Q35m.rg.mcg.option.16": {
     "en": "I don't know",
-    "ru": "TODO"
+    "ru": "Я не знаю"
   },
   "vaccination.HV.Q35m.rg.mcg.input.17": {
     "en": "Other reason(s)",
-    "ru": "TODO"
+    "ru": "Другая причина (другие причины)"
   },
   "vaccination.HV.Q35m.rg.mcg.description.input.17": {
     "en": "Describe here (optional)",
-    "ru": "TODO"
-  },
-  "vaccination.surveyEnd.title.0": {
-    "en": "Thank you! This was all for now, please submit (push « send ») your responses.",
-    "ru": "TODO"
+    "ru": "Опишите здесь (необязательно)"
   }
 }
