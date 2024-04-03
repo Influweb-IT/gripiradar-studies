@@ -104,8 +104,8 @@
     "ru": "Чтобы проверить, насколько репрезентативна наша выборка по сравнению с населением в целом, и выяснить, различна ли вероятность заболеть гриппом у людей разного рода занятий."
   },
   "intake.Q4.helpGroup.text.2": {
-    "en": "How should I answer it?",
-    "ru": "Как мне на это ответить?"
+    "en": "How should I answer this question?",
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "intake.Q4.helpGroup.text.3": {
     "en": "Please, tick the box that most closely resembles your main occupation. For pre-school children who don't go to daycare tick the \"other\" box.",
@@ -168,8 +168,8 @@
     "ru": "Почтовый индекс"
   },
   "intake.Q4b.rg.scg.option.1": {
-    "en": "I don’t know",
-    "ru": "Я не знаю"
+    "en": "I don’t know/can’t remember",
+    "ru": "Не знаю/Не помню"
   },
   "intake.Q4b.rg.scg.option.2": {
     "en": "Not applicable (e.g. don’t have a fixed workplace)",
@@ -264,8 +264,8 @@
     "ru": "Чтобы проверить, насколько репрезентативна наша выборка по сравнению с населением Великобритании (Италии, Бельгии...) в целом."
   },
   "intake.Q4d.helpGroup.text.2": {
-    "en": "How should I answer it?",
-    "ru": "Как мне на это ответить?"
+    "en": "How should I answer this question?",
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "intake.Q4d.helpGroup.text.3": {
     "en": "Please choose the box that represents your HIGHEST level of educational achievements. The different option rougly equate to: 1 - no qualifications, 2 - school-leaving exams at around 16 years of age, 3 - school-leaving exams at around 18 years of age, 4 - University degree or equivalent professional qualification, 5 - Higher degree or advanced professional qualification. If you are an adult who is currently undergoing part - time training(e.g.night school) then tick the box that represents your current highest level of education.",
@@ -312,8 +312,8 @@
     "ru": "Чтобы выяснить, подвергаетесь ли вы большему риску заражения, чем средний человек (например, работая с детьми или пациентами)."
   },
   "intake.Q5.helpGroup.text.2": {
-    "en": "Hint:",
-    "ru": "Подсказка:"
+    "en": "Why are we asking this?",
+    "ru": "Почему мы это спрашиваем?"
   },
   "intake.Q5.helpGroup.text.3": {
     "en": "Groups of people could include any setting where you come into contact with large numbers of people at once, e.g. a teacher who may contact many children in a day.",
@@ -532,8 +532,8 @@
     "ru": "Этот вопрос позволяет нам выяснить, есть ли у вас другие заболевания, которые могут увеличить риск более тяжелого протекания заболевания в случае заражения."
   },
   "intake.Q11.helpGroup.text.2": {
-    "en": "How should I answer it?",
-    "ru": "Как мне на это ответить?"
+    "en": "How should I answer this question?",
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "intake.Q11.helpGroup.text.3": {
     "en": "Only answer \"yes\" if you take regular medication for your medical problem. If, for instance, you only occasionally take an asthma inhaler, then do not answer \"yes\" for asthma.",
@@ -640,8 +640,8 @@
     "ru": "Курение может повысить вероятность получения более тяжелой дозы вирусного заболевания. Мы хотели бы это проверить."
   },
   "intake.Q13.helpGroup.text.2": {
-    "en": "How should I answer it?",
-    "ru": "Как мне на это ответить?"
+    "en": "How should I answer this question?",
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "intake.Q13.helpGroup.text.3": {
     "en": "Please, answer as accurately as possible.",
@@ -662,10 +662,6 @@
   "intake.Q13.rg.scg.option.3": {
     "en": "Yes, daily, 10 or more times a day",
     "ru": "Да, ежедневно, 10 и более раз в день"
-  },
-  "intake.Q13.rg.scg.option.4": {
-    "en": "Yes, only e-cigarettes",
-    "ru": "TODO"
   },
   "intake.Q13.rg.scg.option.5": {
     "en": "Dont know/would rather not answer",
