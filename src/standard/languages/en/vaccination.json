@@ -1,0 +1,17 @@
+{
+  "vaccination.HV.Q9.title.0": {
+    "en": "Did you receive a flu vaccine during the previous flu season (2022-2023)"
+  },
+  "vaccination.HV.Q9.helpGroup.text.3": {
+    "en": "Answer 'yes' if you were vaccinated in autumn/winter 2022-2023.",
+  },
+  "vaccination.HV.Q10.title.0": {
+    "en": "Have you received a flu vaccine this autumn/winter season? (2023-2024)"
+  },
+  "vaccination.HV.Q10b.title.0": {
+    "en": "When were you vaccinated against flu this season (2023-2024)?"
+  },
+  "vaccination.HV.Q10d.title.0": {
+    "en": "What were your reasons for NOT getting a seasonal influenza vaccination in season 2022/2023?"
+  },
+}

@@ -7,6 +7,7 @@ import { StudyRulesBuilder } from "./studyRules";
 
 import "./languages/ee";
 import "./languages/ru";
+import "./languages/en";
 
 export interface SurveysDefs {
   intake: IntakeDef;
