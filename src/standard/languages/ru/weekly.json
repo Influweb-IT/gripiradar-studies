@@ -16,8 +16,8 @@
     "ru": "Были ли у вас какие-либо из следующих симптомов после заполнения последней анкеты (или на прошлой неделе, если вы впервые заполняете эту анкету)?"
   },
   "weekly.Q1.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "ru": "Почему мы задаем этот вопрос?"
+    "en": "Why are we asking this?",
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.Q1.helpGroup.text.1": {
     "en": "The most important part of this study is about following up on the symptoms you have reported.",
@@ -136,8 +136,8 @@
     "ru": "Когда вы заполняли предыдущую анкету, вы указали, что всё еще болеете. Симптомы, о которых вы сообщаете сейчас, относятся к тому же периоду времени, что и симптомы, о которых вы сообщали в прошлый раз?"
   },
   "weekly.HS.Q2.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "ru": "Почему мы задаем этот вопрос?"
+    "en": "Why are we asking this?",
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.HS.Q2.helpGroup.text.1": {
     "en": "To speed up the completion of the rest of the questionnaire.",
@@ -172,8 +172,8 @@
     "ru": "В течение 14 дней до появления у вас симптомов были ли вы в тесном контакте с кем-то, у кого антигенный или ПЦР-тест подтвердил наличие COVID-19?"
   },
   "weekly.HS.Qcov3.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "ru": "Почему мы задаем этот вопрос?"
+    "en": "Why are we asking this?",
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.HS.Qcov3.helpGroup.text.1": {
     "en": "In  order to study how the coronavirus spreads within the general population.",
@@ -196,8 +196,8 @@
     "ru": "Был ли этот человек или одно из этих лиц членом вашего домохозяйства?"
   },
   "weekly.HS.Qcov3b.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "ru": "Почему мы задаем этот вопрос?"
+    "en": "Why are we asking this?",
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.HS.Qcov3b.helpGroup.text.1": {
     "en": "The coronavirus and influenza spread quickly indoors.",
@@ -228,8 +228,8 @@
     "ru": "В какой день вы почувствовали первые симптомы? Если вы не помните точную дату, укажите приблизительную."
   },
   "weekly.HS.Q3.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "ru": "Почему мы задаем этот вопрос?"
+    "en": "Why are we asking this?",
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.HS.Q3.helpGroup.text.1": {
     "en": "This question will help us to determine how many people are experiencing symptoms per day/week.",
@@ -256,8 +256,8 @@
     "ru": "Когда у вас закончились симптомы?"
   },
   "weekly.HS.Q4.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "ru": "Почему мы задаем этот вопрос?"
+    "en": "Why are we asking this?",
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.HS.Q4.helpGroup.text.1": {
     "en": "We can use the first and last dates of the complaints to calculate how long your complaints lasted.",
@@ -288,8 +288,8 @@
     "ru": "Ваши симптомы развились внезапно в течение нескольких часов?"
   },
   "weekly.HS.Q5.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "ru": "Почему мы задаем этот вопрос?"
+    "en": "Why are we asking this?",
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.HS.Q5.helpGroup.text.1": {
     "en": "The sudden onset of symptoms (within a few hours) is linked to the coronavirus and influenza.",
@@ -320,8 +320,8 @@
     "ru": "В какой день у вас началась температура? Если вы не помните точную дату, укажите приблизительную."
   },
   "weekly.HS.Q6.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "ru": "Почему мы задаем этот вопрос?"
+    "en": "Why are we asking this?",
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.HS.Q6.helpGroup.text.1": {
     "en": "Fever is an important diagnostic symptom, so we would like to know when the fever appeared.",
@@ -348,8 +348,8 @@
     "ru": "У вас возникла высокая температура внезапно в течение нескольких часов?"
   },
   "weekly.HS.Q6b.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "ru": "Почему мы задаем этот вопрос?"
+    "en": "Why are we asking this?",
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.HS.Q6b.helpGroup.text.1": {
     "en": "The sudden onset of symptoms (within a few hours) is linked to the coronavirus and influenza.",
@@ -380,16 +380,16 @@
     "ru": "Вы измеряли температуру?"
   },
   "weekly.HS.Q6c.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "ru": "Почему мы задаем этот вопрос?"
+    "en": "Why are we asking this?",
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.HS.Q6c.helpGroup.text.1": {
     "en": "If you have taken your temperature, we would like to know the highest body temperature you have measured.",
     "ru": "Если вы измеряли температуру, мы хотели бы знать самую высокую температуру тела, которую вы измерили."
   },
   "weekly.HS.Q6c.helpGroup.text.2": {
-    "en": "How should I answer it?",
-    "ru": "Как мне на это ответить?"
+    "en": "How should I answer this question?",
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "weekly.HS.Q6c.helpGroup.text.3": {
     "en": "Answer yes, if you took your temperature using a thermometer.",
@@ -412,8 +412,8 @@
     "ru": "Какая у вас была измерена самая высокая температура?"
   },
   "weekly.HS.Q6d.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "ru": "Почему мы задаем этот вопрос?"
+    "en": "Why are we asking this?",
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.HS.Q6d.helpGroup.text.1": {
     "en": "Certain infectious diseases cause a raised temperature.",
@@ -460,8 +460,8 @@
     "ru": "Спасибо за всю эту информацию. Она поможет нам оценить частоту симптомов среди населения в целом. На этом вы можете остановиться. Если у вас есть немного больше времени, мы предлагаем вам ответить на дополнительные вопросы о ваших симптомах и лечении. Вы согласны ответить на эти дополнительные вопросы?"
   },
   "weekly.HS.Q36.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "ru": "Почему мы задаем этот вопрос?"
+    "en": "Why are we asking this?",
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.HS.Q36.helpGroup.text.1": {
     "en": "We want to know if you are willing to answer the follow-up questions. Your answers to the follow-up questions may assist our research.",
@@ -488,16 +488,16 @@
     "ru": "Чтобы выяснить, обращаются ли люди в службы здравоохранения из-за симптомов."
   },
   "weekly.EX.Q7.helpGroup.text.2": {
-    "en": "How should I answer it?",
-    "ru": "Как мне на это ответить?"
+    "en": "How should I answer this question?",
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "weekly.EX.Q7.helpGroup.text.3": {
     "en": "Tick all of those that apply. If you are due to see attend, then tick the final option.",
     "ru": "Отметьте все подходящие. Если у вас назначено посещение, отметьте последний вариант."
   },
   "weekly.EX.Q7.rg.DTpM.text.0": {
-    "en": "Multiple answers possible",
-    "ru": "Возможно несколько ответов"
+    "en": "Select all options that apply",
+    "ru": "Выберите все подходящие варианты"
   },
   "weekly.EX.Q7.rg.mcg.option.0": {
     "en": "No",
@@ -536,8 +536,8 @@
     "ru": "Чтобы узнать, как быстро службы здравоохранения принимают людей с симптомами."
   },
   "weekly.EX.Q7b.helpGroup.text.2": {
-    "en": "How should I answer it?",
-    "ru": "Как мне на это ответить?"
+    "en": "How should I answer this question?",
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "weekly.EX.Q7b.helpGroup.text.3": {
     "en": "Only record the time until your FIRST contact with the health services.",
@@ -700,8 +700,8 @@
     "ru": "Какова основная причина, по которой вы не обратились ни к одному медицинскому работнику по поводу заявленных вами сегодня симптомов?"
   },
   "weekly.EX.Qcov18.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "ru": "Почему мы задаем этот вопрос?"
+    "en": "Why are we asking this?",
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.EX.Qcov18.helpGroup.text.1": {
     "en": "To understand why some people do not consult a doctor.",
@@ -777,8 +777,8 @@
     "ru": "В связи с вашими симптомами проходили ли вы тест/анализы на предмет наличия у вас COVID-19?"
   },
   "weekly.EX.Qcov16h.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "ru": "Почему мы задаем этот вопрос?"
+    "en": "Why are we asking this?",
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.EX.Qcov16h.helpGroup.text.1": {
     "en": "We want to know which complaints lead people to get tested for the coronavirus.",
@@ -805,16 +805,16 @@
     "ru": "Какой анализ (какие анализы) это был(и)?"
   },
   "weekly.EX.Qcov16i.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "ru": "Почему мы задаем этот вопрос?"
+    "en": "Why are we asking this?",
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.EX.Qcov16i.helpGroup.text.1": {
     "en": "We are interested in knowing how many people with symptoms have udergone a test",
     "ru": "Нам интересно знать, сколько людей с симптомами прошли тест"
   },
   "weekly.EX.Qcov16i.rg.tyZC.text.0": {
-    "en": "Multiple answers possible",
-    "ru": "Возможно несколько ответов"
+    "en": "Select all options that apply",
+    "ru": "Выберите все подходящие варианты"
   },
   "weekly.EX.Qcov16i.rg.mcg.option.0": {
     "en": "A PCR test (virus search, on a swab in nose or mouth, or a sputum or saliva sample)",
@@ -837,8 +837,8 @@
     "ru": "Знаете ли вы результат вашего ПЦР-теста? (если было проведено несколько тестов и хотя бы один оказался положительным, выберите ответ «Положительный»)"
   },
   "weekly.EX.Qcov16b.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "ru": "Почему мы задаем этот вопрос?"
+    "en": "Why are we asking this?",
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.EX.Qcov16b.helpGroup.text.1": {
     "en": "We want to understand how the coronavirus is spreading within the population.",
@@ -865,8 +865,8 @@
     "ru": "Знаете ли вы результат этого экспресс-теста на выявление антигена в образце из носоглотки? (Если было проведено несколько тестов и хотя бы один был положительным, выберите ответ «Положительный»)"
   },
   "weekly.EX.Qcov16f.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "ru": "Почему мы задаем этот вопрос?"
+    "en": "Why are we asking this?",
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.EX.Qcov16f.helpGroup.text.1": {
     "en": "We want to understand how the coronavirus is spreading within the population.",
@@ -885,16 +885,16 @@
     "ru": "Да, результаты неубедительны"
   },
   "weekly.EX.Qcov16f.rg.scg.option.3": {
-    "en": "I don't know / I don't want to answer",
-    "ru": "Не знаю/Не хочу отвечать"
+    "en": "I don't know/can't remember",
+    "ru": "Не знаю/Не помню"
   },
   "weekly.EX.Qcov16k.title.0": {
     "en": "Do you know the result of this antigenic test or self-test on nasal sample? (if several were performed and at least one was positive, chose the “Positive” answer)",
     "ru": "Знаете ли вы результат этого антигенного теста или самотестирования на образце из носа? (Если было проведено несколько тестов и хотя бы один был положительным, выберите ответ «Положительный»)"
   },
   "weekly.EX.Qcov16k.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "ru": "Почему мы задаем этот вопрос?"
+    "en": "Why are we asking this?",
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.EX.Qcov16k.helpGroup.text.1": {
     "en": "We want to understand how the coronavirus is spreading within the population.",
@@ -913,16 +913,16 @@
     "ru": "Да, результаты неубедительны"
   },
   "weekly.EX.Qcov16k.rg.scg.option.3": {
-    "en": "I don't know / I don't want to answer",
-    "ru": "Не знаю/Не хочу отвечать"
+    "en": "I don't know/can't remember",
+    "ru": "Не знаю/Не помню"
   },
   "weekly.EX.Qcov19.title.0": {
     "en": "Because of your symptoms, did you undergo a test/analyses to know if you have the Flu?",
     "ru": "В связи с вашими симптомами проходили ли вы анализы/тесты на предмет наличия у вас гриппа?"
   },
   "weekly.EX.Qcov19.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "ru": "Почему мы задаем этот вопрос?"
+    "en": "Why are we asking this?",
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.EX.Qcov19.helpGroup.text.1": {
     "en": "We want to know which complaints lead people to get tested for the flu.",
@@ -953,8 +953,8 @@
     "ru": "Вы получили результаты теста на грипп?"
   },
   "weekly.EX.Qcov19b.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "ru": "Почему мы задаем этот вопрос?"
+    "en": "Why are we asking this?",
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.EX.Qcov19b.helpGroup.text.1": {
     "en": "We want to understand how the flu is spreading within the population.",
@@ -989,8 +989,8 @@
     "ru": "Чтобы узнать, кого лечат, и насколько эффективно лечение."
   },
   "weekly.EX.Q9.helpGroup.text.2": {
-    "en": "How should I answer it?",
-    "ru": "Как мне на это ответить?"
+    "en": "How should I answer this question?",
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "weekly.EX.Q9.helpGroup.text.3": {
     "en": "Only record those medications that you used because of this illness. If you are on other medications because of a pre-existing illness then do not record these.",
@@ -1041,8 +1041,8 @@
     "ru": "Из-за ваших симптомов вы были госпитализированы?"
   },
   "weekly.EX.Q14.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "ru": "Почему мы задаем этот вопрос?"
+    "en": "Why are we asking this?",
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.EX.Q14.helpGroup.text.1": {
     "en": "We want to understand the rates of hospitalization due to symptoms",
@@ -1070,8 +1070,8 @@
     "ru": "Изменили ли вы свой распорядок дня из-за болезни?"
   },
   "weekly.EX.Q10.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "ru": "Почему мы задаем этот вопрос?"
+    "en": "Why are we asking this?",
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.EX.Q10.helpGroup.text.1": {
     "en": "To determine how the symptoms are impacting your daily life.",
@@ -1102,8 +1102,8 @@
     "ru": "Вы в настоящее время все еще не можете работать или посещать учебу из-за ваших симптомов/жалоб?"
   },
   "weekly.EX.Q10b.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "ru": "Почему мы задаем этот вопрос?"
+    "en": "Why are we asking this?",
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.EX.Q10b.helpGroup.text.1": {
     "en": "To determine how the symptoms are impacting your daily life.",
@@ -1134,8 +1134,8 @@
     "ru": "Сколько дней вы не могли нормально работать/ходить на учебу (когда в противном случае вы бы это делали)?"
   },
   "weekly.EX.Q10c.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "ru": "Почему мы задаем этот вопрос?"
+    "en": "Why are we asking this?",
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.EX.Q10c.helpGroup.text.1": {
     "en": "To calculate the number of days a person misses work or school due to certain symptoms.",
@@ -1186,8 +1186,8 @@
     "ru": "Начали ли вы соблюдать какие-либо из приведенных ниже мер или ужесточать их из-за ваших симптомов (по сравнению с периодом до появления симптомов)?"
   },
   "weekly.EX.Qcov7.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "ru": "Почему мы задаем этот вопрос?"
+    "en": "Why are we asking this?",
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.EX.Qcov7.helpGroup.text.1": {
     "en": "To examine how different measures are being followed.",
@@ -1530,8 +1530,8 @@
     "ru": "Как вы думаете, что вызывает ваши симптомы?"
   },
   "weekly.EX.Q11.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "ru": "Почему мы задаем этот вопрос?"
+    "en": "Why are we asking this?",
+    "ru": "Почему мы это спрашиваем?"
   },
   "weekly.EX.Q11.helpGroup.text.1": {
     "en": "To see if our assessment of your illness, based on your symptoms, matches what you believe to be the cause. You may have a better idea of the cause of your illness than our computer algorithms.",
