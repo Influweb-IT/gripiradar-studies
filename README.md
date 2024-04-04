@@ -8,18 +8,23 @@ This repository uses submodules, init them first:
 git submodule update --init --recursive
 ```
 
-Then install the other dependencies:
+and build them, eg:
+
+```bash
+cd packages/common-study-definition
+yarn install
+yarn build
+```
+
+Then install all the dependencies:
 
 ```bash
 yarn install
 ```
 
-Then link each submodule package, eg:
+You may want to link a submodule when developing, using `yarn link` os simply:
 
 ```bash
-cd packages/common-study-definition
-yarn install
-cd -
 ln -s ../packages/common-study-definition node_modules/influenzanet-common-study
 ```
 
