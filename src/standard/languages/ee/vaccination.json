@@ -76,8 +76,8 @@
     "ee": "Soovime välja selgitada, kui palju kaitset vaktsiin annab."
   },
   "vaccination.HV.Q10.helpGroup.text.2": {
-    "en": "How should I answer it?",
-    "ee": "Kuidas ma peaksin sellele vastama?"
+    "en": "How should I answer this question?",
+    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "vaccination.HV.Q10.helpGroup.text.3": {
     "en": "Report yes, if you received the vaccine this season, usually in the autumn. If you get vaccinated after filling in this questionnaire, please return to this and update your answer.",
@@ -128,8 +128,8 @@
     "ee": "Mis olid teie põhjused, miks te sel aastal hooajalise gripi vastu end vaktsineerida lasite?"
   },
   "vaccination.HV.Q10c.rg.LlBq.text.0": {
-    "en": "Select the options that are most applicable",
-    "ee": "Valige kõige sobivamad valikud"
+    "en": "Select all options that apply",
+    "ee": "Märkige kõik sobivad valikud"
   },
   "vaccination.HV.Q10c.rg.mcg.option.0": {
     "en": "I belong to a risk group (e.g, pregnant, over 65, underlying health condition, etc)",
@@ -192,16 +192,16 @@
     "ee": "Tahaksime teada, miks mõned inimesed lasevad end vaktsineerida ja teised mitte."
   },
   "vaccination.HV.Q10d.helpGroup.text.2": {
-    "en": "How should I answer it?",
-    "ee": "Kuidas ma peaksin sellele vastama?"
+    "en": "How should I answer this question?",
+    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "vaccination.HV.Q10d.helpGroup.text.3": {
     "en": "Tick all those reasons that were important in your decision.",
     "ee": "Märkige kõik need põhjused, mis teie otsuse tegemisel olulised olid."
   },
   "vaccination.HV.Q10d.rg.t2y2.text.0": {
-    "en": "Select the options that are most applicable",
-    "ee": "Valige kõige sobivamad valikud"
+    "en": "Select all options that apply",
+    "ee": "Märkige kõik sobivad valikud"
   },
   "vaccination.HV.Q10d.rg.mcg.option.0": {
     "en": "I am planning to be vaccinated, but haven't been yet",
@@ -320,8 +320,8 @@
     "ee": "Täpsustage, millise kaubamärgi (või kaubamärkide, kui te saite rohkem kui üht tüüpi) vaktsiiniga teid vaktsineeriti"
   },
   "vaccination.HV.Q35i.rg.LMsj.text.0": {
-    "en": "Select more than one option if you received different brands",
-    "ee": "Kui saite erinevaid kaubamärke, märkige rohkem kui üks valik"
+    "en": "Select all options that apply",
+    "ee": "Märkige kõik sobivad valikud"
   },
   "vaccination.HV.Q35i.rg.mcg.option.0": {
     "en": "Pfizer/BioNTech",
@@ -516,8 +516,8 @@
     "ee": "Palun märkige valikud, mis olid teie otsuse tegemiseks olulised."
   },
   "vaccination.HV.Q35f.rg.T5UL.text.0": {
-    "en": "Select the options that are most applicable",
-    "ee": "Valige kõige sobivamad valikud"
+    "en": "Select all options that apply",
+    "ee": "Märkige kõik sobivad valikud"
   },
   "vaccination.HV.Q35f.rg.mcg.option.0": {
     "en": "The vaccination is recommended by public health authorities.",
@@ -600,8 +600,8 @@
     "ee": "Palun märkige valikud, mis olid teie otsuse tegemiseks olulised."
   },
   "vaccination.HV.Q35m.rg.nm76.text.0": {
-    "en": "Select the options that are most applicable",
-    "ee": "Valige kõige sobivamad valikud"
+    "en": "Select all options that apply",
+    "ee": "Märkige kõik sobivad valikud"
   },
   "vaccination.HV.Q35m.rg.mcg.option.0": {
     "en": "I am planning to be vaccinated but haven’t been yet",

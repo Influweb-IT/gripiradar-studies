@@ -76,8 +76,8 @@
     "ru": "Мы хотели бы иметь возможность определить, какую защиту дает вакцина."
   },
   "vaccination.HV.Q10.helpGroup.text.2": {
-    "en": "How should I answer it?",
-    "ru": "Как мне на это ответить?"
+    "en": "How should I answer this question?",
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "vaccination.HV.Q10.helpGroup.text.3": {
     "en": "Report yes, if you received the vaccine this season, usually in the autumn. If you get vaccinated after filling in this questionnaire, please return to this and update your answer.",
@@ -128,8 +128,8 @@
     "ru": "Какие у вас были причины сделать прививку от сезонного гриппа в этом году?"
   },
   "vaccination.HV.Q10c.rg.LlBq.text.0": {
-    "en": "Select the options that are most applicable",
-    "ru": "Выберите наиболее подходящие варианты"
+    "en": "Select all options that apply",
+    "ru": "Выберите все подходящие варианты"
   },
   "vaccination.HV.Q10c.rg.mcg.option.0": {
     "en": "I belong to a risk group (e.g, pregnant, over 65, underlying health condition, etc)",
@@ -192,16 +192,16 @@
     "ru": "Мы хотели бы знать, почему одни люди делают прививки, а другие нет."
   },
   "vaccination.HV.Q10d.helpGroup.text.2": {
-    "en": "How should I answer it?",
-    "ru": "Как мне на это ответить?"
+    "en": "How should I answer this question?",
+    "ru": "Как мне ответить на этот вопрос?"
   },
   "vaccination.HV.Q10d.helpGroup.text.3": {
     "en": "Tick all those reasons that were important in your decision.",
     "ru": "Отметьте все причины, которые сыграли важную роль в вашем решении."
   },
   "vaccination.HV.Q10d.rg.t2y2.text.0": {
-    "en": "Select the options that are most applicable",
-    "ru": "Выберите наиболее подходящие варианты"
+    "en": "Select all options that apply",
+    "ru": "Выберите все подходящие варианты"
   },
   "vaccination.HV.Q10d.rg.mcg.option.0": {
     "en": "I am planning to be vaccinated, but haven't been yet",
@@ -320,8 +320,8 @@
     "ru": "Укажите, каким брендом (или какими брендами, если у вас было более одного вида вакцины) вы были вакцинированы"
   },
   "vaccination.HV.Q35i.rg.LMsj.text.0": {
-    "en": "Select more than one option if you received different brands",
-    "ru": "Выберите несколько вариантов, если вы получали вакцины разных брендов"
+    "en": "Select all options that apply",
+    "ru": "Выберите все подходящие варианты"
   },
   "vaccination.HV.Q35i.rg.mcg.option.0": {
     "en": "Pfizer/BioNTech",
@@ -516,8 +516,8 @@
     "ru": "Пожалуйста, выберите варианты, которые имели значение для принятия вашего решения."
   },
   "vaccination.HV.Q35f.rg.T5UL.text.0": {
-    "en": "Select the options that are most applicable",
-    "ru": "Выберите наиболее подходящие варианты"
+    "en": "Select all options that apply",
+    "ru": "Выберите все подходящие варианты"
   },
   "vaccination.HV.Q35f.rg.mcg.option.0": {
     "en": "The vaccination is recommended by public health authorities.",
@@ -600,8 +600,8 @@
     "ru": "Пожалуйста, выберите варианты, которые имели значение для принятия вашего решения."
   },
   "vaccination.HV.Q35m.rg.nm76.text.0": {
-    "en": "Select the options that are most applicable",
-    "ru": "Выберите наиболее подходящие варианты"
+    "en": "Select all options that apply",
+    "ru": "Выберите все подходящие варианты"
   },
   "vaccination.HV.Q35m.rg.mcg.option.0": {
     "en": "I am planning to be vaccinated but haven’t been yet",
