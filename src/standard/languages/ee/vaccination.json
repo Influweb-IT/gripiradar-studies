@@ -32,7 +32,7 @@
     "ee": "(**) Valides ühe neist valikutest, annate nõusoleku kasutada oma ajaloolisi andmeid selle küsitluse vastuste eeltäitmiseks."
   },
   "vaccination.HV.Q9.title.0": {
-    "en": "Did you receive a flu vaccine during the previous flu season (2022-2023)",
+    "en": "Did you receive a flu vaccine during the previous flu season ?",
     "ee": "Kas saite eelmisel gripihooajal (2022-2023) gripivaktsiini?"
   },
   "vaccination.HV.Q9.helpGroup.text.0": {
@@ -48,7 +48,7 @@
     "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "vaccination.HV.Q9.helpGroup.text.3": {
-    "en": "Answer 'yes' if you were vaccinated in autumn/winter 2022-2023.",
+    "en": "Answer 'yes' if you were vaccinated in the previous autumn/winter season",
     "ee": "Vastake 'jah', kui olete vaktsineeritud sügisel/talvel 2022-2023."
   },
   "vaccination.HV.Q9.rg.scg.option.0": {
@@ -64,7 +64,7 @@
     "ee": "Ma ei tea/ei mäleta"
   },
   "vaccination.HV.Q10.title.0": {
-    "en": "Have you received a flu vaccine this autumn/winter season? (2023-2024)",
+    "en": "Have you received a flu vaccine this autumn/winter season?",
     "ee": "Kas olete sel sügis-talvisel hooajal gripivaktsiini saanud? (2023-2024)"
   },
   "vaccination.HV.Q10.helpGroup.text.0": {
@@ -96,7 +96,7 @@
     "ee": "Ma ei tea/ei mäleta"
   },
   "vaccination.HV.Q10b.title.0": {
-    "en": "When were you vaccinated against flu this season (2023-2024)?",
+    "en": "When were you vaccinated against flu this season ?",
     "ee": "Millal teid sel hooajal (2023-2024) gripi vastu vaktsineeriti?"
   },
   "vaccination.HV.Q10b.helpGroup.text.0": {
@@ -180,7 +180,7 @@
     "ee": "Kirjeldage siin (valikuline)"
   },
   "vaccination.HV.Q10d.title.0": {
-    "en": "What were your reasons for NOT getting a seasonal influenza vaccination in seaseon 2022/2023?",
+    "en": "What were your reasons for NOT getting a seasonal influenza vaccination for this current season ?",
     "ee": "Mis olid teie põhjused, miks te EI lasknud end hooajalise gripi vastu vaktsineerida hooajal 2022/2023?"
   },
   "vaccination.HV.Q10d.helpGroup.text.0": {

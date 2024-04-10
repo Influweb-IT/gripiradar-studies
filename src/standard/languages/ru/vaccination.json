@@ -32,7 +32,7 @@
     "ru": "(**) Выбирая один из этих вариантов, вы даете свое согласие на использование ваших данных за прошедшие периоды для предварительного заполнения ответов в этом опросе."
   },
   "vaccination.HV.Q9.title.0": {
-    "en": "Did you receive a flu vaccine during the previous flu season (2022-2023)",
+    "en": "Did you receive a flu vaccine during the previous flu season ?",
     "ru": "Получали ли вы прививку от гриппа в предыдущем сезоне гриппа (2022–2023 гг.)?"
   },
   "vaccination.HV.Q9.helpGroup.text.0": {
@@ -48,7 +48,7 @@
     "ru": "Как мне ответить на этот вопрос?"
   },
   "vaccination.HV.Q9.helpGroup.text.3": {
-    "en": "Answer 'yes' if you were vaccinated in autumn/winter 2022-2023.",
+    "en": "Answer 'yes' if you were vaccinated in the previous autumn/winter season",
     "ru": "Ответьте 'да', если вы были вакцинированы осенью/зимой 2022–2023 гг."
   },
   "vaccination.HV.Q9.rg.scg.option.0": {
@@ -64,7 +64,7 @@
     "ru": "Не знаю/Не помню"
   },
   "vaccination.HV.Q10.title.0": {
-    "en": "Have you received a flu vaccine this autumn/winter season? (2023-2024)",
+    "en": "Have you received a flu vaccine this autumn/winter season?",
     "ru": "Получали ли вы прививку от гриппа в этом осенне-зимнем сезоне? (2023–2024)"
   },
   "vaccination.HV.Q10.helpGroup.text.0": {
@@ -96,7 +96,7 @@
     "ru": "Не знаю/Не помню"
   },
   "vaccination.HV.Q10b.title.0": {
-    "en": "When were you vaccinated against flu this season (2023-2024)?",
+    "en": "When were you vaccinated against flu this season ?",
     "ru": "Когда вы были привиты от гриппа в этом сезоне (2023–2024 гг.)?"
   },
   "vaccination.HV.Q10b.helpGroup.text.0": {
@@ -180,7 +180,7 @@
     "ru": "Опишите здесь (необязательно)"
   },
   "vaccination.HV.Q10d.title.0": {
-    "en": "What were your reasons for NOT getting a seasonal influenza vaccination in seaseon 2022/2023?",
+    "en": "What were your reasons for NOT getting a seasonal influenza vaccination for this current season ?",
     "ru": "Какие у вас были причины НЕ делать прививку от сезонного гриппа в сезоне 2022/2023 гг.?"
   },
   "vaccination.HV.Q10d.helpGroup.text.0": {
