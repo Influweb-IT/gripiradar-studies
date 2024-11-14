@@ -281,11 +281,11 @@
   },
   "intake.Q4d.rg.mcg.option.1": {
     "en": "GCSEs, levels, CSEs or equivalent",
-    "ru": "среднее образование, профессиональное образование или эквивалентные"
+    "ru": "начальное школьное образование"
   },
   "intake.Q4d.rg.mcg.option.2": {
     "en": "A-levels or equivalent (e.g. Higher, NVQ Level3, BTEC)",
-    "ru": "TODO"
+    "ru": "среднее образование, профессиональное образование или эквивалентные"
   },
   "intake.Q4d.rg.mcg.option.3": {
     "en": "Bachelor Degree (BA, BSc) or equivalent",

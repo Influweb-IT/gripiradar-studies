@@ -281,11 +281,11 @@
   },
   "intake.Q4d.rg.mcg.option.1": {
     "en": "GCSEs, levels, CSEs or equivalent",
-    "ee": "Üldine keskhariduse tunnistus, kutsekeskhariduse tunnistus või samaväärsed"
+    "ee": "põhikooli haridus või samaväärne"
   },
   "intake.Q4d.rg.mcg.option.2": {
     "en": "A-levels or equivalent (e.g. Higher, NVQ Level3, BTEC)",
-    "ee": "TODO"
+    "ee": "Üldine keskhariduse tunnistus, kutsekeskhariduse tunnistus või samaväärsed"
   },
   "intake.Q4d.rg.mcg.option.3": {
     "en": "Bachelor Degree (BA, BSc) or equivalent",
