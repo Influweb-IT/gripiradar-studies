@@ -678,5 +678,9 @@
   "vaccination.HV.Q35m.rg.mcg.description.input.17": {
     "en": "Describe here (optional)",
     "ru": "Опишите здесь (необязательно)"
+  },
+  "vaccination.surveyEnd.title.0": {
+    "en": "Thank you! This was all for now, please submit (push « send ») your responses.",
+    "ru": "Спасибо! На этом пока все, пожалуйста, отправьте свои ответы (нажмите «отправить»)."
   }
 }
