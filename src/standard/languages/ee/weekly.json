@@ -793,7 +793,7 @@
   },
   "weekly.EX.Qcov16h.rg.scg.option.2": {
     "en": "No, I have a prescription but will not undergo a test",
-    "ee": "Ei, mul on retsept, kuid ma ei lähe testima"
+    "ee": "Ei, mul on saatekiri, kuid ma ei lähe testima"
   },
   "weekly.EX.Qcov16h.rg.scg.option.3": {
     "en": "No",
@@ -829,7 +829,7 @@
   },
   "weekly.EX.Qcov16i.rg.mcg.option.3": {
     "en": "A rapid antigen detection test or autotest done on a nasal sample (a swab inserted to 1 - 4 cm into the nostril, sampling that can be done by oneself, result obtained in a few minutes)",
-    "ee": "Ninaprooviga tehtud antigeeni kiirtest või autotest (1-4 cm ninasõõrmesse sisestatud tampooniga, proovi saab ise võtta, tulemus saadakse mõne minutiga)"
+    "ee": "Ninaprooviga tehtud antigeeni kiirtest või automaatne test (1-4 cm ninasõõrmesse sisestatud tampooniga, proovi saab ise võtta, tulemus saadakse mõne minutiga)"
   },
   "weekly.EX.Qcov16b.title.0": {
     "en": "Do you know the result of your PCR test? (if several were performed and at least one was positive, chose the “Positive” answer)",
@@ -1221,7 +1221,7 @@
   },
   "weekly.EX.Qcov7.rg.likert_1.option.3": {
     "en": "Not applicable",
-    "ee": "Ei ole kohaldatav"
+    "ee": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.nEMR.text.3": {
     "en": "Cough or sneeze into your elbow",
@@ -1241,7 +1241,7 @@
   },
   "weekly.EX.Qcov7.rg.likert_2.option.3": {
     "en": "Not applicable",
-    "ee": "Ei ole kohaldatav"
+    "ee": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.oTIp.text.5": {
     "en": "Use a disposable tissue",
@@ -1261,7 +1261,7 @@
   },
   "weekly.EX.Qcov7.rg.likert_3.option.3": {
     "en": "Not applicable",
-    "ee": "Ei ole kohaldatav"
+    "ee": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.7w6F.text.7": {
     "en": "Wear a face mask indoors",
@@ -1281,7 +1281,7 @@
   },
   "weekly.EX.Qcov7.rg.likert_4a.option.3": {
     "en": "Not applicable",
-    "ee": "Ei ole kohaldatav"
+    "ee": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.vHvi.text.9": {
     "en": "Wear a face mask outdoors",
@@ -1301,7 +1301,7 @@
   },
   "weekly.EX.Qcov7.rg.likert_4b.option.3": {
     "en": "Not applicable",
-    "ee": "Ei ole kohaldatav"
+    "ee": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.ocTu.text.11": {
     "en": "Avoid shaking hands",
@@ -1321,7 +1321,7 @@
   },
   "weekly.EX.Qcov7.rg.likert_5.option.3": {
     "en": "Not applicable",
-    "ee": "Ei ole kohaldatav"
+    "ee": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.ioJs.text.13": {
     "en": "Stop greeting by hugging and/or kissing on both cheeks",
@@ -1341,7 +1341,7 @@
   },
   "weekly.EX.Qcov7.rg.likert_11.option.3": {
     "en": "Not applicable",
-    "ee": "Ei ole kohaldatav"
+    "ee": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.ujsK.text.15": {
     "en": "Limit your use of public transport",
@@ -1361,7 +1361,7 @@
   },
   "weekly.EX.Qcov7.rg.likert_6.option.3": {
     "en": "Not applicable",
-    "ee": "Ei ole kohaldatav"
+    "ee": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.Ijdr.text.17": {
     "en": "Avoid busy places and gatherings (supermarket, cinema, stadium)",
@@ -1381,7 +1381,7 @@
   },
   "weekly.EX.Qcov7.rg.likert_7.option.3": {
     "en": "Not applicable",
-    "ee": "Ei ole kohaldatav"
+    "ee": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.t8MS.text.19": {
     "en": "Stay at home",
@@ -1401,7 +1401,7 @@
   },
   "weekly.EX.Qcov7.rg.likert_8.option.3": {
     "en": "Not applicable",
-    "ee": "Ei ole kohaldatav"
+    "ee": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.z4bE.text.21": {
     "en": "Telework or increase your number of telework days",
@@ -1421,7 +1421,7 @@
   },
   "weekly.EX.Qcov7.rg.likert_9.option.3": {
     "en": "Not applicable",
-    "ee": "Ei ole kohaldatav"
+    "ee": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.Koue.text.23": {
     "en": "Avoid travel outside your own country or region",
@@ -1441,7 +1441,7 @@
   },
   "weekly.EX.Qcov7.rg.likert_10.option.3": {
     "en": "Not applicable",
-    "ee": "Ei ole kohaldatav"
+    "ee": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.zuDa.text.25": {
     "en": "Have your food/shopping delivered by a store or a friend/family member",
@@ -1461,7 +1461,7 @@
   },
   "weekly.EX.Qcov7.rg.likert_13.option.3": {
     "en": "Not applicable",
-    "ee": "Ei ole kohaldatav"
+    "ee": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.QSBP.text.27": {
     "en": "Avoid seeing friends and family",
@@ -1481,7 +1481,7 @@
   },
   "weekly.EX.Qcov7.rg.likert_14.option.3": {
     "en": "Not applicable",
-    "ee": "Ei ole kohaldatav"
+    "ee": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.fRla.text.29": {
     "en": "Avoid being in contact with people over 65 years old or with a chronic disease",
@@ -1501,7 +1501,7 @@
   },
   "weekly.EX.Qcov7.rg.likert_15.option.3": {
     "en": "Not applicable",
-    "ee": "Ei ole kohaldatav"
+    "ee": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.h3fK.text.31": {
     "en": "Avoid being in contact with children",
@@ -1521,7 +1521,7 @@
   },
   "weekly.EX.Qcov7.rg.likert_16.option.3": {
     "en": "Not applicable",
-    "ee": "Ei ole kohaldatav"
+    "ee": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Q11.title.0": {
     "en": "What do you think is causing your symptoms?",

@@ -661,7 +661,7 @@
   },
   "intake.Q13.rg.scg.option.3": {
     "en": "Yes, daily, 10 or more times a day",
-    "ee": "Jah, iga päev, vähem kui 10 korda päevas"
+    "ee": "Jah, iga päev, rohkem kui 10 korda päevas"
   },
   "intake.Q13.rg.scg.option.5": {
     "en": "Dont know/would rather not answer",
@@ -753,11 +753,11 @@
   },
   "intake.Q26.rg.scg.option.0": {
     "en": "Yes",
-    "ee": "Yes"
+    "ee": "Jah"
   },
   "intake.Q26.rg.scg.option.1": {
     "en": "No",
-    "ee": "No"
+    "ee": "Ei"
   },
   "intake.Q26.rg.scg.option.2": {
     "en": "I don't know",

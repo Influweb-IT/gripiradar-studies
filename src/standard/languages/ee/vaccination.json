@@ -29,7 +29,7 @@
   },
   "vaccination.Q0.privacy.note": {
     "en": "(**) By selecting one of these options you give your consent to use your historical data to prefill this survey's responses.",
-    "ee": "(**) Valides ühe neist valikutest, annate nõusoleku kasutada oma ajaloolisi andmeid selle küsitluse vastuste eeltäitmiseks."
+    "ee": "(**) Valides ühe neist valikutest, annate nõusoleku kasutada oma varasemaid andmeid selle küsitluse vastuste eeltäitmiseks."
   },
   "vaccination.HV.Q9.title.0": {
     "en": "Did you receive a flu vaccine during the previous flu season ?",
