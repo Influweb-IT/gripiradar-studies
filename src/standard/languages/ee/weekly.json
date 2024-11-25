@@ -937,11 +937,11 @@
   },
   "weekly.EX.Qcov19.rg.scg.option.2": {
     "en": "Not yet, I have a prescription and plan to shortly undergo a test",
-    "ee": "Veel mitte, mul on retsept ja kavatsen teha testi varsti"
+    "ee": "Veel mitte, mul on saatekiri ja kavatsen teha testi varsti"
   },
   "weekly.EX.Qcov19.rg.scg.option.3": {
     "en": "No, I have a prescription but will not undergo a test",
-    "ee": "Ei, mul on retsept, kuid ma ei lähe testima"
+    "ee": "Ei, mul on saatekiri, kuid ma ei lähe testima"
   },
   "weekly.EX.Qcov19.rg.scg.option.4": {
     "en": "No",
