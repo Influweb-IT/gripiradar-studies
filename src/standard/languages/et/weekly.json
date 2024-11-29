@@ -1,1582 +1,1582 @@
 {
   "weekly.name.0": {
     "en": "Weekly questionnaire",
-    "ee": "Iganädalane küsimustik"
+    "et": "Iganädalane küsimustik"
   },
   "weekly.description.0": {
     "en": "Please also report if you had no complaints.",
-    "ee": "Palun teatage ka siis, kui teil ei olnud kaebusi."
+    "et": "Palun teatage ka siis, kui teil ei olnud kaebusi."
   },
   "weekly.typicalDuration.0": {
     "en": "Duration 1-5 minutes",
-    "ee": "Kestus 1-5 minutit"
+    "et": "Kestus 1-5 minutit"
   },
   "weekly.Q1.title.0": {
     "en": "Have you had any of the following symptoms since your last questionnaire (or in the past week, if this the first tie you are taking this questionnaire)?",
-    "ee": "Kas teil on pärast viimast küsimustiku täitmist esinenud mõni järgmistest sümptomitest (või viimase nädala jooksul, kui täidate küsimustikku esimest korda)?"
+    "et": "Kas teil on pärast viimast küsimustiku täitmist esinenud mõni järgmistest sümptomitest (või viimase nädala jooksul, kui täidate küsimustikku esimest korda)?"
   },
   "weekly.Q1.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.Q1.helpGroup.text.1": {
     "en": "The most important part of this study is about following up on the symptoms you have reported.",
-    "ee": "Selle uuringu kõige olulisem osa on teie teatatud sümptomite jälgimine."
+    "et": "Selle uuringu kõige olulisem osa on teie teatatud sümptomite jälgimine."
   },
   "weekly.Q1.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "weekly.Q1.helpGroup.text.3": {
     "en": "If you suffer from chronic illness, only indicate symptoms that have changed. For example, if you experience chronic shortness of breath, only mark this symptom if it has recently gotten worse. Multiple answers possible.",
-    "ee": "Kui põete kroonilist haigust, märkige vaid sümptomid, mis on muutunud. Näiteks kui teil tekib krooniline õhupuudus, märkige see sümptom alles siis, kui see on hiljuti süvenenud. Võimalik mitu vastust."
+    "et": "Kui põete kroonilist haigust, märkige vaid sümptomid, mis on muutunud. Näiteks kui teil tekib krooniline õhupuudus, märkige see sümptom alles siis, kui see on hiljuti süvenenud. Võimalik mitu vastust."
   },
   "weekly.Q1.rg.cGJZ.text.0": {
     "en": "Multiple answers possible. If you suffer from chronic illness, only indicate symptoms that have changed. For example, if you experience chronic shortness of breath, only mark this symptom if it has recently gotten worse.",
-    "ee": "Võimalik mitu vastust. Kui põete kroonilist haigust, märkige ainult sümptomid, mis on muutunud. Näiteks kui teil tekib krooniline õhupuudus, märkige see sümptom alles siis, kui see on hiljuti süvenenud."
+    "et": "Võimalik mitu vastust. Kui põete kroonilist haigust, märkige ainult sümptomid, mis on muutunud. Näiteks kui teil tekib krooniline õhupuudus, märkige see sümptom alles siis, kui see on hiljuti süvenenud."
   },
   "weekly.Q1.rg.mcg.option.0": {
     "en": "No symptoms",
-    "ee": "Sümptomeid pole"
+    "et": "Sümptomeid pole"
   },
   "weekly.Q1.rg.mcg.option.1": {
     "en": "Fever",
-    "ee": "Palavik"
+    "et": "Palavik"
   },
   "weekly.Q1.rg.mcg.option.2": {
     "en": "Chills",
-    "ee": "Külmavärinad"
+    "et": "Külmavärinad"
   },
   "weekly.Q1.rg.mcg.option.3": {
     "en": "Runny or blocked nose",
-    "ee": "Nohu või ninakinnisus"
+    "et": "Nohu või ninakinnisus"
   },
   "weekly.Q1.rg.mcg.option.4": {
     "en": "Sneezing",
-    "ee": "Aevastamine"
+    "et": "Aevastamine"
   },
   "weekly.Q1.rg.mcg.option.5": {
     "en": "Sore throat",
-    "ee": "Kurguvalu"
+    "et": "Kurguvalu"
   },
   "weekly.Q1.rg.mcg.option.6": {
     "en": "Cough",
-    "ee": "Köha"
+    "et": "Köha"
   },
   "weekly.Q1.rg.mcg.option.7": {
     "en": "Shortness of breath",
-    "ee": "Õhupuudus"
+    "et": "Õhupuudus"
   },
   "weekly.Q1.rg.mcg.option.8": {
     "en": "Headache",
-    "ee": "Peavalu"
+    "et": "Peavalu"
   },
   "weekly.Q1.rg.mcg.option.9": {
     "en": "Muscle/joint pain",
-    "ee": "Lihas-/liigesevalu"
+    "et": "Lihas-/liigesevalu"
   },
   "weekly.Q1.rg.mcg.option.10": {
     "en": "Chest pain",
-    "ee": "Valu rinnus"
+    "et": "Valu rinnus"
   },
   "weekly.Q1.rg.mcg.option.11": {
     "en": "Feeling tired or exhausted (malaise)",
-    "ee": "Väsimuse või kurnatuse tunne (halb enesetunne)"
+    "et": "Väsimuse või kurnatuse tunne (halb enesetunne)"
   },
   "weekly.Q1.rg.mcg.option.12": {
     "en": "Loss of appetite",
-    "ee": "Söögiisu kaotus"
+    "et": "Söögiisu kaotus"
   },
   "weekly.Q1.rg.mcg.option.13": {
     "en": "Coloured sputum/phlegm",
-    "ee": "Läbipaistmatu, värvusega röga / lima"
+    "et": "Läbipaistmatu, värvusega röga / lima"
   },
   "weekly.Q1.rg.mcg.option.14": {
     "en": "Watery, bloodshot eyes",
-    "ee": "Vesised, punased silmad"
+    "et": "Vesised, punased silmad"
   },
   "weekly.Q1.rg.mcg.option.15": {
     "en": "Nausea",
-    "ee": "Iiveldustunne"
+    "et": "Iiveldustunne"
   },
   "weekly.Q1.rg.mcg.option.16": {
     "en": "Vomiting",
-    "ee": "Oksendamine"
+    "et": "Oksendamine"
   },
   "weekly.Q1.rg.mcg.option.17": {
     "en": "Diarrhoea",
-    "ee": "Kõhulahtisus"
+    "et": "Kõhulahtisus"
   },
   "weekly.Q1.rg.mcg.option.18": {
     "en": "Stomach ache",
-    "ee": "Kõhuvalu"
+    "et": "Kõhuvalu"
   },
   "weekly.Q1.rg.mcg.option.19": {
     "en": "Loss of smell",
-    "ee": "Lõhnataju kadumine"
+    "et": "Lõhnataju kadumine"
   },
   "weekly.Q1.rg.mcg.option.20": {
     "en": "Loss of taste",
-    "ee": "Maitsetaju kadumine"
+    "et": "Maitsetaju kadumine"
   },
   "weekly.Q1.rg.mcg.option.21": {
     "en": "Nose bleed",
-    "ee": "Nina verejooks"
+    "et": "Nina verejooks"
   },
   "weekly.Q1.rg.mcg.option.22": {
     "en": "Rash",
-    "ee": "Lööve"
+    "et": "Lööve"
   },
   "weekly.Q1.rg.mcg.option.23": {
     "en": "Other",
-    "ee": "Muu"
+    "et": "Muu"
   },
   "weekly.HS.Q2.title.0": {
     "en": "When you filled in the previous questionnaire, you indicated that you were still sick. Are the symptoms you are  reporting now from the same timeframe as the symptoms you reported the last time?",
-    "ee": "Eelmist ankeeti täites andsite teada, et olete endiselt haige. Kas sümptomid, millest praegu teatate, pärinevad samast ajavahemikust kui sümptomid, millest teatasite eelmisel korral?"
+    "et": "Eelmist ankeeti täites andsite teada, et olete endiselt haige. Kas sümptomid, millest praegu teatate, pärinevad samast ajavahemikust kui sümptomid, millest teatasite eelmisel korral?"
   },
   "weekly.HS.Q2.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.HS.Q2.helpGroup.text.1": {
     "en": "To speed up the completion of the rest of the questionnaire.",
-    "ee": "Et kiirendada ülejäänud küsimustiku täitmist."
+    "et": "Et kiirendada ülejäänud küsimustiku täitmist."
   },
   "weekly.HS.Q2.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "weekly.HS.Q2.helpGroup.text.3": {
     "en": "If you think that the complaints you are indicating today are caused by the same infection or the same problem (the same period during which you experienced the complaints), answer 'yes'.",
-    "ee": "Kui arvate, et kaebused, millest täna teatate, on põhjustatud samast infektsioonist või samast probleemist (samal perioodil, mil kaebusi kogesite), vastake 'jah'."
+    "et": "Kui arvate, et kaebused, millest täna teatate, on põhjustatud samast infektsioonist või samast probleemist (samal perioodil, mil kaebusi kogesite), vastake 'jah'."
   },
   "weekly.HS.Q2.rg.scg.option.0": {
     "en": "Yes",
-    "ee": "Jah"
+    "et": "Jah"
   },
   "weekly.HS.Q2.rg.scg.option.1": {
     "en": "No",
-    "ee": "Ei"
+    "et": "Ei"
   },
   "weekly.HS.Q2.rg.scg.option.2": {
     "en": "I don’t know/can’t remember",
-    "ee": "Ma ei tea/ei mäleta"
+    "et": "Ma ei tea/ei mäleta"
   },
   "weekly.HS.Q2.rg.scg.option.3": {
     "en": "This does not apply to me",
-    "ee": "See ei kehti minu kohta."
+    "et": "See ei kehti minu kohta."
   },
   "weekly.HS.Qcov3.title.0": {
     "en": "In the 14 days before your symptoms started, have you been in close contact with someone for whom an antigenic or PCR test has confirmed that they have COVID-19?",
-    "ee": "Kas olete 14 päeva jooksul enne sümptomite ilmnemist olnud tihedas kontaktis kellegagi, kelle antigeen- või PCR-test on kinnitanud, et tal on COVID-19?"
+    "et": "Kas olete 14 päeva jooksul enne sümptomite ilmnemist olnud tihedas kontaktis kellegagi, kelle antigeen- või PCR-test on kinnitanud, et tal on COVID-19?"
   },
   "weekly.HS.Qcov3.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.HS.Qcov3.helpGroup.text.1": {
     "en": "In  order to study how the coronavirus spreads within the general population.",
-    "ee": "Selleks, et uurida, kuidas koroonaviirus levib elanikkonnas."
+    "et": "Selleks, et uurida, kuidas koroonaviirus levib elanikkonnas."
   },
   "weekly.HS.Qcov3.rg.scg.option.0": {
     "en": "Yes",
-    "ee": "Jah"
+    "et": "Jah"
   },
   "weekly.HS.Qcov3.rg.scg.option.1": {
     "en": "No",
-    "ee": "Ei"
+    "et": "Ei"
   },
   "weekly.HS.Qcov3.rg.scg.option.2": {
     "en": "I don’t know/can’t remember",
-    "ee": "Ma ei tea/ei mäleta"
+    "et": "Ma ei tea/ei mäleta"
   },
   "weekly.HS.Qcov3b.title.0": {
     "en": "Was this person or one of these persons a member of your household?",
-    "ee": "Kas see inimene või üks neist inimestest oli teie leibkonna liige?"
+    "et": "Kas see inimene või üks neist inimestest oli teie leibkonna liige?"
   },
   "weekly.HS.Qcov3b.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.HS.Qcov3b.helpGroup.text.1": {
     "en": "The coronavirus and influenza spread quickly indoors.",
-    "ee": "Koroonaviirus ja gripp levivad kiiresti siseruumides."
+    "et": "Koroonaviirus ja gripp levivad kiiresti siseruumides."
   },
   "weekly.HS.Qcov3b.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "weekly.HS.Qcov3b.helpGroup.text.3": {
     "en": "A member of the household is defined as a person (not necessary a family member) who lives at the same address as you, and who shares the kitchen, living room, family room or dining room.",
-    "ee": "Leibkonnaliige on määratletud kui isik (ei ole tingimata pereliige), kes elab teiega samal aadressil ja kes jagab teiega kööki, elutuba, peretuba või söögituba."
+    "et": "Leibkonnaliige on määratletud kui isik (ei ole tingimata pereliige), kes elab teiega samal aadressil ja kes jagab teiega kööki, elutuba, peretuba või söögituba."
   },
   "weekly.HS.Qcov3b.rg.scg.option.0": {
     "en": "Yes",
-    "ee": "Jah"
+    "et": "Jah"
   },
   "weekly.HS.Qcov3b.rg.scg.option.1": {
     "en": "No",
-    "ee": "Ei"
+    "et": "Ei"
   },
   "weekly.HS.Qcov3b.rg.scg.option.2": {
     "en": "I don’t know",
-    "ee": "Ma ei tea"
+    "et": "Ma ei tea"
   },
   "weekly.HS.Q3.title.0": {
     "en": "On what day did you begin feeling the first symptoms? If you do not recall the exact date, please give an approximate date.",
-    "ee": "Mis päeval hakkasite tundma esimesi sümptomeid? Kui te ei mäleta täpset kuupäeva, märkige ligikaudne kuupäev."
+    "et": "Mis päeval hakkasite tundma esimesi sümptomeid? Kui te ei mäleta täpset kuupäeva, märkige ligikaudne kuupäev."
   },
   "weekly.HS.Q3.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.HS.Q3.helpGroup.text.1": {
     "en": "This question will help us to determine how many people are experiencing symptoms per day/week.",
-    "ee": "See küsimus aitab meil kindlaks teha, kui paljudel inimestel päevas/nädalas sümptomid ilmnevad."
+    "et": "See küsimus aitab meil kindlaks teha, kui paljudel inimestel päevas/nädalas sümptomid ilmnevad."
   },
   "weekly.HS.Q3.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "weekly.HS.Q3.helpGroup.text.3": {
     "en": "Answer as precisely as possible.",
-    "ee": "Püüdke vastata võimalikult täpselt."
+    "et": "Püüdke vastata võimalikult täpselt."
   },
   "weekly.HS.Q3.rg.scg.dateInput.0": {
     "en": "Choose date",
-    "ee": "Valige kuupäev"
+    "et": "Valige kuupäev"
   },
   "weekly.HS.Q3.rg.scg.option.1": {
     "en": "I don't know/can't remember",
-    "ee": "Ma ei tea/ei mäleta"
+    "et": "Ma ei tea/ei mäleta"
   },
   "weekly.HS.Q4.title.0": {
     "en": "When did your symptoms end?",
-    "ee": "Millal teie sümptomid kadusid?"
+    "et": "Millal teie sümptomid kadusid?"
   },
   "weekly.HS.Q4.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.HS.Q4.helpGroup.text.1": {
     "en": "We can use the first and last dates of the complaints to calculate how long your complaints lasted. ",
-    "ee": "Saame kasutada kaebuste esimest ja viimast kuupäeva, et arvutada, kui kaua teie kaebused kestsid."
+    "et": "Saame kasutada kaebuste esimest ja viimast kuupäeva, et arvutada, kui kaua teie kaebused kestsid."
   },
   "weekly.HS.Q4.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "weekly.HS.Q4.helpGroup.text.3": {
     "en": "Answer as precisely as possible.",
-    "ee": "Püüdke vastata võimalikult täpselt."
+    "et": "Püüdke vastata võimalikult täpselt."
   },
   "weekly.HS.Q4.rg.scg.dateInput.0": {
     "en": "Choose date",
-    "ee": "Valige kuupäev"
+    "et": "Valige kuupäev"
   },
   "weekly.HS.Q4.rg.scg.option.1": {
     "en": "I don't know/can't remember",
-    "ee": "Ma ei tea/ei mäleta"
+    "et": "Ma ei tea/ei mäleta"
   },
   "weekly.HS.Q4.rg.scg.option.2": {
     "en": "I am still ill",
-    "ee": "Ma olen endiselt haige."
+    "et": "Ma olen endiselt haige."
   },
   "weekly.HS.Q5.title.0": {
     "en": "Did your symptoms develop suddenly over a few hours?",
-    "ee": "Kas teie sümptomid tekkisid äkiliselt mõne tunni jooksul?"
+    "et": "Kas teie sümptomid tekkisid äkiliselt mõne tunni jooksul?"
   },
   "weekly.HS.Q5.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.HS.Q5.helpGroup.text.1": {
     "en": "The sudden onset of symptoms (within a few hours) is linked to the coronavirus and influenza.",
-    "ee": "Sümptomite äkiline ilmnemine (mõne tunni jooksul) on seotud koroonaviiruse ja gripiga."
+    "et": "Sümptomite äkiline ilmnemine (mõne tunni jooksul) on seotud koroonaviiruse ja gripiga."
   },
   "weekly.HS.Q5.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "weekly.HS.Q5.helpGroup.text.3": {
     "en": "Answer “yes” if your symptoms appeared within a few hours, and not gradually over a period of several days.",
-    "ee": "Vastake “jah”, kui teie sümptomid ilmnesid mõne tunni jooksul, mitte järk-järgult mitme päeva jooksul."
+    "et": "Vastake “jah”, kui teie sümptomid ilmnesid mõne tunni jooksul, mitte järk-järgult mitme päeva jooksul."
   },
   "weekly.HS.Q5.rg.scg.option.0": {
     "en": "Yes",
-    "ee": "Jah"
+    "et": "Jah"
   },
   "weekly.HS.Q5.rg.scg.option.1": {
     "en": "No",
-    "ee": "Ei"
+    "et": "Ei"
   },
   "weekly.HS.Q5.rg.scg.option.2": {
     "en": "I don’t know/can’t remember",
-    "ee": "Ma ei tea/ei mäleta"
+    "et": "Ma ei tea/ei mäleta"
   },
   "weekly.HS.Q6.title.0": {
     "en": "On what day did your fever start? If you do not recall the exact date, please give an approximate date.",
-    "ee": "Mis päeval teil palavik algas? Kui te ei mäleta täpset kuupäeva, märkige ligikaudne kuupäev."
+    "et": "Mis päeval teil palavik algas? Kui te ei mäleta täpset kuupäeva, märkige ligikaudne kuupäev."
   },
   "weekly.HS.Q6.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.HS.Q6.helpGroup.text.1": {
     "en": "Fever is an important diagnostic symptom, so we would like to know when the fever appeared.",
-    "ee": "Palavik on oluline diagnostiline sümptom, seega tahaksime teada, millal palavik tekkis."
+    "et": "Palavik on oluline diagnostiline sümptom, seega tahaksime teada, millal palavik tekkis."
   },
   "weekly.HS.Q6.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "weekly.HS.Q6.helpGroup.text.3": {
     "en": "Answer as precisely as possible.",
-    "ee": "Püüdke vastata võimalikult täpselt."
+    "et": "Püüdke vastata võimalikult täpselt."
   },
   "weekly.HS.Q6.rg.scg.dateInput.0": {
     "en": "Choose date",
-    "ee": "Valige kuupäev"
+    "et": "Valige kuupäev"
   },
   "weekly.HS.Q6.rg.scg.option.1": {
     "en": "I don’t know/can’t remember",
-    "ee": "Ma ei tea/ei mäleta"
+    "et": "Ma ei tea/ei mäleta"
   },
   "weekly.HS.Q6b.title.0": {
     "en": "Did your fever develop suddenly over a few hours?",
-    "ee": "Kas teie palavik tekkis äkiliselt mõne tunni jooksul?"
+    "et": "Kas teie palavik tekkis äkiliselt mõne tunni jooksul?"
   },
   "weekly.HS.Q6b.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.HS.Q6b.helpGroup.text.1": {
     "en": "The sudden onset of symptoms (within a few hours) is linked to the coronavirus and influenza.",
-    "ee": "Sümptomite äkiline ilmnemine (mõne tunni jooksul) on seotud koroonaviiruse ja gripiga."
+    "et": "Sümptomite äkiline ilmnemine (mõne tunni jooksul) on seotud koroonaviiruse ja gripiga."
   },
   "weekly.HS.Q6b.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "weekly.HS.Q6b.helpGroup.text.3": {
     "en": "Answer “yes” if your symptoms appeared within a few hours, and not gradually over a period of several days.",
-    "ee": "Vastake “jah”, kui teie sümptomid ilmnesid mõne tunni jooksul, mitte järk-järgult mitme päeva jooksul."
+    "et": "Vastake “jah”, kui teie sümptomid ilmnesid mõne tunni jooksul, mitte järk-järgult mitme päeva jooksul."
   },
   "weekly.HS.Q6b.rg.scg.option.0": {
     "en": "Yes",
-    "ee": "Jah"
+    "et": "Jah"
   },
   "weekly.HS.Q6b.rg.scg.option.1": {
     "en": "No",
-    "ee": "Ei"
+    "et": "Ei"
   },
   "weekly.HS.Q6b.rg.scg.option.2": {
     "en": "I don’t know/can’t remember",
-    "ee": "Ma ei tea/ei mäleta"
+    "et": "Ma ei tea/ei mäleta"
   },
   "weekly.HS.Q6c.title.0": {
     "en": "Did you take your temperature?",
-    "ee": "Kas te kraadisite ennast?"
+    "et": "Kas te kraadisite ennast?"
   },
   "weekly.HS.Q6c.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.HS.Q6c.helpGroup.text.1": {
     "en": "If you have taken your temperature, we would like to know the highest body temperature you have measured.",
-    "ee": "Kui olete end kraadinud, soovime teada kõrgeimat kehatemperatuuri, mille olete mõõtnud."
+    "et": "Kui olete end kraadinud, soovime teada kõrgeimat kehatemperatuuri, mille olete mõõtnud."
   },
   "weekly.HS.Q6c.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "weekly.HS.Q6c.helpGroup.text.3": {
     "en": "Answer yes, if you took your temperature using a thermometer.",
-    "ee": "Vastake „jah“, kui mõõtsite kehatemperatuuri kraadiklaasiga."
+    "et": "Vastake „jah“, kui mõõtsite kehatemperatuuri kraadiklaasiga."
   },
   "weekly.HS.Q6c.rg.scg.option.0": {
     "en": "Yes",
-    "ee": "Jah"
+    "et": "Jah"
   },
   "weekly.HS.Q6c.rg.scg.option.1": {
     "en": "No",
-    "ee": "Ei"
+    "et": "Ei"
   },
   "weekly.HS.Q6c.rg.scg.option.2": {
     "en": "I don’t know/can’t remember",
-    "ee": "Ma ei tea/ei mäleta"
+    "et": "Ma ei tea/ei mäleta"
   },
   "weekly.HS.Q6d.title.0": {
     "en": "What was your highest temperature measured?",
-    "ee": "Mis oli teie kõrgeim mõõdetud temperatuur?"
+    "et": "Mis oli teie kõrgeim mõõdetud temperatuur?"
   },
   "weekly.HS.Q6d.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.HS.Q6d.helpGroup.text.1": {
     "en": "Certain infectious diseases cause a raised temperature.",
-    "ee": "Teatud nakkushaigused põhjustavad kehatemperatuuri tõusu."
+    "et": "Teatud nakkushaigused põhjustavad kehatemperatuuri tõusu."
   },
   "weekly.HS.Q6d.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "weekly.HS.Q6d.helpGroup.text.3": {
     "en": "Please indicate the highest temperature you measured during the period in which you experienced your symptoms.",
-    "ee": "Palun märkige kõrgeim kehatemperatuur, mille mõõtsite sümptomite ilmnemise perioodil."
+    "et": "Palun märkige kõrgeim kehatemperatuur, mille mõõtsite sümptomite ilmnemise perioodil."
   },
   "weekly.HS.Q6d.rg.scg.option.0": {
     "en": "Below 37.0°C",
-    "ee": "Alla 37,0 °C"
+    "et": "Alla 37,0 °C"
   },
   "weekly.HS.Q6d.rg.scg.option.1": {
     "en": "37.0°C - 37.4°C",
-    "ee": "37,0 °C - 37,4 °C"
+    "et": "37,0 °C - 37,4 °C"
   },
   "weekly.HS.Q6d.rg.scg.option.2": {
     "en": "37.5°C - 37.9°C",
-    "ee": "37,5°C – 37,9°C"
+    "et": "37,5°C – 37,9°C"
   },
   "weekly.HS.Q6d.rg.scg.option.3": {
     "en": "38.0°C - 38.9°C",
-    "ee": "38,0 °C - 38,9 °C"
+    "et": "38,0 °C - 38,9 °C"
   },
   "weekly.HS.Q6d.rg.scg.option.4": {
     "en": "39.0°C - 39.9°C",
-    "ee": "39,0 °C – 39,9 °C"
+    "et": "39,0 °C – 39,9 °C"
   },
   "weekly.HS.Q6d.rg.scg.option.5": {
     "en": "40.0°C or more",
-    "ee": "40,0 °C või rohkem"
+    "et": "40,0 °C või rohkem"
   },
   "weekly.HS.Q6d.rg.scg.option.6": {
     "en": "I don't know/can't remember",
-    "ee": "Ma ei tea/ei mäleta"
+    "et": "Ma ei tea/ei mäleta"
   },
   "weekly.HS.Q36.title.0": {
     "en": "Thank you for all these information. They will help us to estimate the frequency of symptoms among general population. You can stop here. If you have a little more time, we propose you to answer further questions about your symptoms and care. Do you accept to answer to these additional questions?",
-    "ee": "Täname teid kogu selle teabe eest. Need aitavad meil hinnata sümptomite esinemissagedust elanikkonna hulgas. Võite siin lõpetada. Kui teil on veidi rohkem aega, soovitame teil vastata täiendavatele küsimustele oma sümptomite ja ravi kohta. Kas olete nõus neile lisaküsimustele vastama?"
+    "et": "Täname teid kogu selle teabe eest. Need aitavad meil hinnata sümptomite esinemissagedust elanikkonna hulgas. Võite siin lõpetada. Kui teil on veidi rohkem aega, soovitame teil vastata täiendavatele küsimustele oma sümptomite ja ravi kohta. Kas olete nõus neile lisaküsimustele vastama?"
   },
   "weekly.HS.Q36.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.HS.Q36.helpGroup.text.1": {
     "en": "We want to know if you are willing to answer the follow-up questions. Your answers to the follow-up questions may assist our research.",
-    "ee": "Tahame teada, kas olete nõus vastama järelküsimustele. Teie vastused järelküsimustele võivad meid meie uurimistöös aidata."
+    "et": "Tahame teada, kas olete nõus vastama järelküsimustele. Teie vastused järelküsimustele võivad meid meie uurimistöös aidata."
   },
   "weekly.HS.Q36.rg.scg.option.0": {
     "en": "Yes",
-    "ee": "Jah"
+    "et": "Jah"
   },
   "weekly.HS.Q36.rg.scg.option.1": {
     "en": "No",
-    "ee": "Ei"
+    "et": "Ei"
   },
   "weekly.EX.Q7.title.0": {
     "en": "Because of your symptoms, did you VISIT (see face to face or teleconsultation) any medical services?",
-    "ee": "Kas te KÜLASTASITE (näost näkku kohtumine või veebikonsultatsioon) oma sümptomite tõttu mõnda tervishoiuteenuse pakkujat?"
+    "et": "Kas te KÜLASTASITE (näost näkku kohtumine või veebikonsultatsioon) oma sümptomite tõttu mõnda tervishoiuteenuse pakkujat?"
   },
   "weekly.EX.Q7.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.EX.Q7.helpGroup.text.1": {
     "en": "To find out whether people contact the health services because of their symptoms.",
-    "ee": "Selleks, et teada saada, kas inimesed pöörduvad oma sümptomite tõttu tervishoiuteenuse osutaja poole."
+    "et": "Selleks, et teada saada, kas inimesed pöörduvad oma sümptomite tõttu tervishoiuteenuse osutaja poole."
   },
   "weekly.EX.Q7.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele vastama?"
+    "et": "Kuidas ma peaksin sellele vastama?"
   },
   "weekly.EX.Q7.helpGroup.text.3": {
     "en": "Tick all of those that apply. If you are due to see attend, then tick the final option.",
-    "ee": "Märkige kõik need, mis sobivad. Kui alles kavatsete külastada, märkige viimane valik."
+    "et": "Märkige kõik need, mis sobivad. Kui alles kavatsete külastada, märkige viimane valik."
   },
   "weekly.EX.Q7.rg.DTpM.text.0": {
     "en": "Select all options that apply",
-    "ee": "Märkige kõik sobivad valikud"
+    "et": "Märkige kõik sobivad valikud"
   },
   "weekly.EX.Q7.rg.mcg.option.0": {
     "en": "No",
-    "ee": "Ei"
+    "et": "Ei"
   },
   "weekly.EX.Q7.rg.mcg.option.1": {
     "en": "GP or GP's practice nurse",
-    "ee": "Perearst või pereõde"
+    "et": "Perearst või pereõde"
   },
   "weekly.EX.Q7.rg.mcg.option.2": {
     "en": "Hospital admission",
-    "ee": "Haigla vastuvõtt"
+    "et": "Haigla vastuvõtt"
   },
   "weekly.EX.Q7.rg.mcg.option.3": {
     "en": "Hospital accident & emergency department / out of hours service",
-    "ee": "Haigla EMO / väljaspool tööaega"
+    "et": "Haigla EMO / väljaspool tööaega"
   },
   "weekly.EX.Q7.rg.mcg.option.4": {
     "en": "Other medical services",
-    "ee": "Muud tervishoiuteenust pakkujad"
+    "et": "Muud tervishoiuteenust pakkujad"
   },
   "weekly.EX.Q7.rg.mcg.option.5": {
     "en": "No, but I have an appointment scheduled",
-    "ee": "Ei, aga mul on vastuvõtt kokku lepitud"
+    "et": "Ei, aga mul on vastuvõtt kokku lepitud"
   },
   "weekly.EX.Q7b.title.0": {
     "en": "How soon after your symptoms appeared did you first VISIT this medical service?",
-    "ee": "Kui kiiresti pärast sümptomite ilmnemist te esimest korda seda tervishoiuteenuse osutajat KÜLASTASITE?"
+    "et": "Kui kiiresti pärast sümptomite ilmnemist te esimest korda seda tervishoiuteenuse osutajat KÜLASTASITE?"
   },
   "weekly.EX.Q7b.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.EX.Q7b.helpGroup.text.1": {
     "en": "To find out how quickly people with symptoms are seen by the health services.",
-    "ee": "Et teada saada, kui kiiresti haigusnähtudega inimesed tervishoiuteenuse osutaja juurde jõuavad."
+    "et": "Et teada saada, kui kiiresti haigusnähtudega inimesed tervishoiuteenuse osutaja juurde jõuavad."
   },
   "weekly.EX.Q7b.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "weekly.EX.Q7b.helpGroup.text.3": {
     "en": "Only record the time until your FIRST contact with the health services.",
-    "ee": "Märkige üles ainult aeg, mis kulus ESIMESE kontaktini tervishoiuteenuse osutajaga."
+    "et": "Märkige üles ainult aeg, mis kulus ESIMESE kontaktini tervishoiuteenuse osutajaga."
   },
   "weekly.EX.Q7b.rg.sFcN.text.0": {
     "en": "Select the correct number of days",
-    "ee": "Valige õige päevade arv"
+    "et": "Valige õige päevade arv"
   },
   "weekly.EX.Q7b.rg.mat.header.col0.text.0": {
     "en": "Medical Service",
-    "ee": "Tervishoiuteenus"
+    "et": "Tervishoiuteenus"
   },
   "weekly.EX.Q7b.rg.mat.r1.col0.label.0": {
     "en": "GP or GP'r practice nurse",
-    "ee": "Perearst või pereõde"
+    "et": "Perearst või pereõde"
   },
   "weekly.EX.Q7b.rg.mat.r1.col1.option.0": {
     "en": "Same day",
-    "ee": "Samal päeval"
+    "et": "Samal päeval"
   },
   "weekly.EX.Q7b.rg.mat.r1.col1.option.1": {
     "en": "1 day",
-    "ee": "1 päev"
+    "et": "1 päev"
   },
   "weekly.EX.Q7b.rg.mat.r1.col1.option.2": {
     "en": "2 days",
-    "ee": "2 päeva"
+    "et": "2 päeva"
   },
   "weekly.EX.Q7b.rg.mat.r1.col1.option.3": {
     "en": "3 days",
-    "ee": "3 päeva"
+    "et": "3 päeva"
   },
   "weekly.EX.Q7b.rg.mat.r1.col1.option.4": {
     "en": "4 days",
-    "ee": "4 päeva"
+    "et": "4 päeva"
   },
   "weekly.EX.Q7b.rg.mat.r1.col1.option.5": {
     "en": "5 - 7 days",
-    "ee": "5-7 päeva"
+    "et": "5-7 päeva"
   },
   "weekly.EX.Q7b.rg.mat.r1.col1.option.6": {
     "en": "More than 7 days",
-    "ee": "Rohkem kui 7 päeva"
+    "et": "Rohkem kui 7 päeva"
   },
   "weekly.EX.Q7b.rg.mat.r1.col1.option.7": {
     "en": "I don't know/can't remember",
-    "ee": "Ma ei tea/ei mäleta"
+    "et": "Ma ei tea/ei mäleta"
   },
   "weekly.EX.Q7b.rg.mat.r2.col0.label.0": {
     "en": "Hospital accident & department/out of hours service",
-    "ee": "Haigla EMO / väljaspool tööaega"
+    "et": "Haigla EMO / väljaspool tööaega"
   },
   "weekly.EX.Q7b.rg.mat.r2.col1.option.0": {
     "en": "Same day",
-    "ee": "Samal päeval"
+    "et": "Samal päeval"
   },
   "weekly.EX.Q7b.rg.mat.r2.col1.option.1": {
     "en": "1 day",
-    "ee": "1 päev"
+    "et": "1 päev"
   },
   "weekly.EX.Q7b.rg.mat.r2.col1.option.2": {
     "en": "2 days",
-    "ee": "2 päeva"
+    "et": "2 päeva"
   },
   "weekly.EX.Q7b.rg.mat.r2.col1.option.3": {
     "en": "3 days",
-    "ee": "3 päeva"
+    "et": "3 päeva"
   },
   "weekly.EX.Q7b.rg.mat.r2.col1.option.4": {
     "en": "4 days",
-    "ee": "4 päeva"
+    "et": "4 päeva"
   },
   "weekly.EX.Q7b.rg.mat.r2.col1.option.5": {
     "en": "5 - 7 days",
-    "ee": "5-7 päeva"
+    "et": "5-7 päeva"
   },
   "weekly.EX.Q7b.rg.mat.r2.col1.option.6": {
     "en": "More than 7 days",
-    "ee": "Rohkem kui 7 päeva"
+    "et": "Rohkem kui 7 päeva"
   },
   "weekly.EX.Q7b.rg.mat.r2.col1.option.7": {
     "en": "I don't know/can't remember",
-    "ee": "Ma ei tea/ei mäleta"
+    "et": "Ma ei tea/ei mäleta"
   },
   "weekly.EX.Q7b.rg.mat.r3.col0.label.0": {
     "en": "Hospital admission",
-    "ee": "Haigla vastuvõtt"
+    "et": "Haigla vastuvõtt"
   },
   "weekly.EX.Q7b.rg.mat.r3.col1.option.0": {
     "en": "Same day",
-    "ee": "Samal päeval"
+    "et": "Samal päeval"
   },
   "weekly.EX.Q7b.rg.mat.r3.col1.option.1": {
     "en": "1 day",
-    "ee": "1 päev"
+    "et": "1 päev"
   },
   "weekly.EX.Q7b.rg.mat.r3.col1.option.2": {
     "en": "2 days",
-    "ee": "2 päeva"
+    "et": "2 päeva"
   },
   "weekly.EX.Q7b.rg.mat.r3.col1.option.3": {
     "en": "3 days",
-    "ee": "3 päeva"
+    "et": "3 päeva"
   },
   "weekly.EX.Q7b.rg.mat.r3.col1.option.4": {
     "en": "4 days",
-    "ee": "4 päeva"
+    "et": "4 päeva"
   },
   "weekly.EX.Q7b.rg.mat.r3.col1.option.5": {
     "en": "5 - 7 days",
-    "ee": "5-7 päeva"
+    "et": "5-7 päeva"
   },
   "weekly.EX.Q7b.rg.mat.r3.col1.option.6": {
     "en": "More than 7 days",
-    "ee": "Rohkem kui 7 päeva"
+    "et": "Rohkem kui 7 päeva"
   },
   "weekly.EX.Q7b.rg.mat.r3.col1.option.7": {
     "en": "I don't know/can't remember",
-    "ee": "Ma ei tea/ei mäleta"
+    "et": "Ma ei tea/ei mäleta"
   },
   "weekly.EX.Q7b.rg.mat.r4.col0.label.0": {
     "en": "Other medical services",
-    "ee": "Muud tervishoiuteenust pakkujad"
+    "et": "Muud tervishoiuteenust pakkujad"
   },
   "weekly.EX.Q7b.rg.mat.r4.col1.option.0": {
     "en": "Same day",
-    "ee": "Samal päeval"
+    "et": "Samal päeval"
   },
   "weekly.EX.Q7b.rg.mat.r4.col1.option.1": {
     "en": "1 day",
-    "ee": "1 päev"
+    "et": "1 päev"
   },
   "weekly.EX.Q7b.rg.mat.r4.col1.option.2": {
     "en": "2 days",
-    "ee": "2 päeva"
+    "et": "2 päeva"
   },
   "weekly.EX.Q7b.rg.mat.r4.col1.option.3": {
     "en": "3 days",
-    "ee": "3 päeva"
+    "et": "3 päeva"
   },
   "weekly.EX.Q7b.rg.mat.r4.col1.option.4": {
     "en": "4 days",
-    "ee": "4 päeva"
+    "et": "4 päeva"
   },
   "weekly.EX.Q7b.rg.mat.r4.col1.option.5": {
     "en": "5 - 7 days",
-    "ee": "5-7 päeva"
+    "et": "5-7 päeva"
   },
   "weekly.EX.Q7b.rg.mat.r4.col1.option.6": {
     "en": "More than 7 days",
-    "ee": "Rohkem kui 7 päeva"
+    "et": "Rohkem kui 7 päeva"
   },
   "weekly.EX.Q7b.rg.mat.r4.col1.option.7": {
     "en": "I don't know/can't remember",
-    "ee": "Ma ei tea/ei mäleta"
+    "et": "Ma ei tea/ei mäleta"
   },
   "weekly.EX.Qcov18.title.0": {
     "en": "What is the main reason for which you did not consult any health professional for the symptoms you declared today?",
-    "ee": "Mis on peamine põhjus, miks te täna teatatud sümptomite pärast ühegi tervishoiutöötajaga ei konsulteerinud?"
+    "et": "Mis on peamine põhjus, miks te täna teatatud sümptomite pärast ühegi tervishoiutöötajaga ei konsulteerinud?"
   },
   "weekly.EX.Qcov18.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.EX.Qcov18.helpGroup.text.1": {
     "en": "To understand why some people do not consult a doctor.",
-    "ee": "Selleks, et mõista, miks mõned inimesed ei pöördu arsti poole."
+    "et": "Selleks, et mõista, miks mõned inimesed ei pöördu arsti poole."
   },
   "weekly.EX.Qcov18.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "weekly.EX.Qcov18.helpGroup.text.3": {
     "en": "Multiple answers are possible.",
-    "ee": "Võimalik mitu vastust."
+    "et": "Võimalik mitu vastust."
   },
   "weekly.EX.Qcov18.rg.4opV.text.0": {
     "en": "Select all options that apply",
-    "ee": "Märkige kõik sobivad valikud"
+    "et": "Märkige kõik sobivad valikud"
   },
   "weekly.EX.Qcov18.rg.scg.option.0": {
     "en": "My symptoms appeared very recently",
-    "ee": "Minu sümptomid ilmnesid hiljuti"
+    "et": "Minu sümptomid ilmnesid hiljuti"
   },
   "weekly.EX.Qcov18.rg.scg.option.1": {
     "en": "My symptoms are mild",
-    "ee": "Minu sümptomid on kerged"
+    "et": "Minu sümptomid on kerged"
   },
   "weekly.EX.Qcov18.rg.scg.option.2": {
     "en": "I have these symptoms often",
-    "ee": "Mul on need sümptomid sageli"
+    "et": "Mul on need sümptomid sageli"
   },
   "weekly.EX.Qcov18.rg.scg.option.3": {
     "en": "I think I know what I have and I self-medicate",
-    "ee": "Ma arvan, et tean, mis mul viga on, ja ravin ennast ise"
+    "et": "Ma arvan, et tean, mis mul viga on, ja ravin ennast ise"
   },
   "weekly.EX.Qcov18.rg.scg.option.4": {
     "en": "I think there is no effective treatment for the disease I have",
-    "ee": "Ma arvan, et minu haigusele ei ole efektiivset ravi"
+    "et": "Ma arvan, et minu haigusele ei ole efektiivset ravi"
   },
   "weekly.EX.Qcov18.rg.scg.option.5": {
     "en": "It is too hard to get an appointment quickly",
-    "ee": "Väga raske on saada kiiresti vastuvõtuaega"
+    "et": "Väga raske on saada kiiresti vastuvõtuaega"
   },
   "weekly.EX.Qcov18.rg.scg.option.6": {
     "en": "I do not have time",
-    "ee": "Mul ei ole aega"
+    "et": "Mul ei ole aega"
   },
   "weekly.EX.Qcov18.rg.scg.option.7": {
     "en": "For financial reasons",
-    "ee": "Rahalistel põhjustel"
+    "et": "Rahalistel põhjustel"
   },
   "weekly.EX.Qcov18.rg.scg.option.8": {
     "en": "For fear of consequences if the doctor thinks I have COVID-19",
-    "ee": "Kardan tagajärgi, kui arst arvab, et mul on COVID-19"
+    "et": "Kardan tagajärgi, kui arst arvab, et mul on COVID-19"
   },
   "weekly.EX.Qcov18.rg.scg.option.9": {
     "en": "Because I am vaccinated against COVID-19",
-    "ee": "Kuna ma olen COVID-19 vastu vaktsineeritud"
+    "et": "Kuna ma olen COVID-19 vastu vaktsineeritud"
   },
   "weekly.EX.Qcov18.rg.scg.input.10": {
     "en": "For another reason",
-    "ee": "Muul põhjusel"
+    "et": "Muul põhjusel"
   },
   "weekly.EX.Qcov18.rg.scg.description.input.10": {
     "en": "Describe here (optional)",
-    "ee": "Kirjeldage siin (valikuline)"
+    "et": "Kirjeldage siin (valikuline)"
   },
   "weekly.EX.Qcov18.rg.scg.option.11": {
     "en": "I don't know / I don't want to answer",
-    "ee": "Ma ei tea / ma ei taha vastata"
+    "et": "Ma ei tea / ma ei taha vastata"
   },
   "weekly.EX.Qcov16h.title.0": {
     "en": "Because of your symptoms, did you undergo a test/analyses to know if you have COVID-19?",
-    "ee": "Kas te tegite oma sümptomite tõttu testi/analüüsid, et teada saada, kas teil on COVID-19?"
+    "et": "Kas te tegite oma sümptomite tõttu testi/analüüsid, et teada saada, kas teil on COVID-19?"
   },
   "weekly.EX.Qcov16h.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.EX.Qcov16h.helpGroup.text.1": {
     "en": "We want to know which complaints lead people to get tested for the coronavirus.",
-    "ee": "Tahame teada, millised kaebused sunnivad inimesi koroonaviiruse testi tegema."
+    "et": "Tahame teada, millised kaebused sunnivad inimesi koroonaviiruse testi tegema."
   },
   "weekly.EX.Qcov16h.rg.scg.option.0": {
     "en": "Yes",
-    "ee": "Jah"
+    "et": "Jah"
   },
   "weekly.EX.Qcov16h.rg.scg.option.1": {
     "en": "Not yet, I plan to shortly undergo a test",
-    "ee": "Veel mitte, kavatsen testi teha varsti"
+    "et": "Veel mitte, kavatsen testi teha varsti"
   },
   "weekly.EX.Qcov16h.rg.scg.option.2": {
     "en": "No, I have a prescription but will not undergo a test",
-    "ee": "Ei, mul on saatekiri, kuid ma ei lähe testima"
+    "et": "Ei, mul on saatekiri, kuid ma ei lähe testima"
   },
   "weekly.EX.Qcov16h.rg.scg.option.3": {
     "en": "No",
-    "ee": "Ei"
+    "et": "Ei"
   },
   "weekly.EX.Qcov16i.title.0": {
     "en": "Which analyse(s) was it?",
-    "ee": "Milline analüüs(id) see/need oli?"
+    "et": "Milline analüüs(id) see/need oli?"
   },
   "weekly.EX.Qcov16i.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.EX.Qcov16i.helpGroup.text.1": {
     "en": "We are interested in knowing how many people with symptoms have udergone a test",
-    "ee": "Oleme huvitatud sellest, kui paljud sümptomitega inimesed on testi teinud."
+    "et": "Oleme huvitatud sellest, kui paljud sümptomitega inimesed on testi teinud."
   },
   "weekly.EX.Qcov16i.rg.tyZC.text.0": {
     "en": "Select all options that apply",
-    "ee": "Märkige kõik sobivad valikud"
+    "et": "Märkige kõik sobivad valikud"
   },
   "weekly.EX.Qcov16i.rg.mcg.option.0": {
     "en": "A PCR test (virus search, on a swab in nose or mouth, or a sputum or saliva sample)",
-    "ee": "PCR-test (viiruseotsing, tampooniga ninast või suust võetud või röga- või süljeproov)"
+    "et": "PCR-test (viiruseotsing, tampooniga ninast või suust võetud või röga- või süljeproov)"
   },
   "weekly.EX.Qcov16i.rg.mcg.option.1": {
     "en": "A serological analysis (screening for antibodies against this virus, from a drop of blood at fingertip or a blood sample)",
-    "ee": "Seroloogiline analüüs (selle viiruse vastaste antikehade skriinimine sõrmeotsaverest või vereproovist)"
+    "et": "Seroloogiline analüüs (selle viiruse vastaste antikehade skriinimine sõrmeotsaverest või vereproovist)"
   },
   "weekly.EX.Qcov16i.rg.mcg.option.2": {
     "en": "A rapid antigen detection test on a sample realized in the back of the nose (nasopharyngeal sampling, done by a health professional or a trained person, with a swab inserted to 15 cm into the nose, result obtained in less than one hour)",
-    "ee": "Antigeeni kiire tuvastamise test prooviga, mis on võetud nina tagaosast (nasofarüngeaalsete proovide võtmine, teeb tervishoiutöötaja või koolitatud isik, tampooniga, mis on sisestatud 15 cm kaugusele ninasse, tulemus saadakse vähem kui ühe tunniga)"
+    "et": "Antigeeni kiire tuvastamise test prooviga, mis on võetud nina tagaosast (nasofarüngeaalsete proovide võtmine, teeb tervishoiutöötaja või koolitatud isik, tampooniga, mis on sisestatud 15 cm kaugusele ninasse, tulemus saadakse vähem kui ühe tunniga)"
   },
   "weekly.EX.Qcov16i.rg.mcg.option.3": {
     "en": "A rapid antigen detection test or autotest done on a nasal sample (a swab inserted to 1 - 4 cm into the nostril, sampling that can be done by oneself, result obtained in a few minutes)",
-    "ee": "Ninaprooviga tehtud antigeeni kiirtest või automaatne test (1-4 cm ninasõõrmesse sisestatud tampooniga, proovi saab ise võtta, tulemus saadakse mõne minutiga)"
+    "et": "Ninaprooviga tehtud antigeeni kiirtest või automaatne test (1-4 cm ninasõõrmesse sisestatud tampooniga, proovi saab ise võtta, tulemus saadakse mõne minutiga)"
   },
   "weekly.EX.Qcov16b.title.0": {
     "en": "Do you know the result of your PCR test? (if several were performed and at least one was positive, chose the “Positive” answer)",
-    "ee": "Kas teate oma PCR-testi tulemust? (kui tehti mitu ja vähemalt üks oli positiivne, valige vastus “Positiivne”)"
+    "et": "Kas teate oma PCR-testi tulemust? (kui tehti mitu ja vähemalt üks oli positiivne, valige vastus “Positiivne”)"
   },
   "weekly.EX.Qcov16b.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.EX.Qcov16b.helpGroup.text.1": {
     "en": "We want to understand how the coronavirus is spreading within the population.",
-    "ee": "Tahame mõista, kuidas koroonaviirus elanikkonnas levib."
+    "et": "Tahame mõista, kuidas koroonaviirus elanikkonnas levib."
   },
   "weekly.EX.Qcov16b.rg.scg.option.0": {
     "en": "Yes, positive for COVID-19",
-    "ee": "Jah, positiivne COVID-19 suhtes"
+    "et": "Jah, positiivne COVID-19 suhtes"
   },
   "weekly.EX.Qcov16b.rg.scg.option.1": {
     "en": "Yes, negative for COVID-19",
-    "ee": "Jah, negatiivne COVID-19 suhtes"
+    "et": "Jah, negatiivne COVID-19 suhtes"
   },
   "weekly.EX.Qcov16b.rg.scg.option.2": {
     "en": "Yes, the results are inconclusive",
-    "ee": "Jah, tulemused on ebaselged"
+    "et": "Jah, tulemused on ebaselged"
   },
   "weekly.EX.Qcov16b.rg.scg.option.3": {
     "en": "No, I have not yet received the test results",
-    "ee": "Ei, ma pole veel testi tulemusi teada saanud"
+    "et": "Ei, ma pole veel testi tulemusi teada saanud"
   },
   "weekly.EX.Qcov16f.title.0": {
     "en": "Do you know the result of this rapid antigen detection test on nasopharyngeal sample? (if several were performed and at least one was positive, chose the “Positive” answer)",
-    "ee": "Kas teate selle nasofarüngeaalse prooviga antigeeni kiirtesti tulemust? (Kui tehti mitu testi ja vähemalt üks oli positiivne, valige vastuseks “Positiivne”)"
+    "et": "Kas teate selle nasofarüngeaalse prooviga antigeeni kiirtesti tulemust? (Kui tehti mitu testi ja vähemalt üks oli positiivne, valige vastuseks “Positiivne”)"
   },
   "weekly.EX.Qcov16f.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.EX.Qcov16f.helpGroup.text.1": {
     "en": "We want to understand how the coronavirus is spreading within the population.",
-    "ee": "Tahame mõista, kuidas koroonaviirus elanikkonnas levib."
+    "et": "Tahame mõista, kuidas koroonaviirus elanikkonnas levib."
   },
   "weekly.EX.Qcov16f.rg.scg.option.0": {
     "en": "Yes, positive for COVID-19",
-    "ee": "Jah, positiivne COVID-19 suhtes"
+    "et": "Jah, positiivne COVID-19 suhtes"
   },
   "weekly.EX.Qcov16f.rg.scg.option.1": {
     "en": "Yes, negative for COVID-19",
-    "ee": "Jah, negatiivne COVID-19 suhtes"
+    "et": "Jah, negatiivne COVID-19 suhtes"
   },
   "weekly.EX.Qcov16f.rg.scg.option.2": {
     "en": "Yes, the results are inconclusive",
-    "ee": "Jah, tulemused on ebaselged"
+    "et": "Jah, tulemused on ebaselged"
   },
   "weekly.EX.Qcov16f.rg.scg.option.3": {
     "en": "I don't know/can't remember",
-    "ee": "Ma ei tea/ei mäleta"
+    "et": "Ma ei tea/ei mäleta"
   },
   "weekly.EX.Qcov16k.title.0": {
     "en": "Do you know the result of this antigenic test or self-test on nasal sample? (if several were performed and at least one was positive, chose the “Positive” answer)",
-    "ee": "Kas teate selle ninaprooviga tehtud antigeeni kiirtesti või enesetesti tulemust? (Kui tehti mitu testi ja vähemalt üks oli positiivne, valige vastuseks “Positiivne”)"
+    "et": "Kas teate selle ninaprooviga tehtud antigeeni kiirtesti või enesetesti tulemust? (Kui tehti mitu testi ja vähemalt üks oli positiivne, valige vastuseks “Positiivne”)"
   },
   "weekly.EX.Qcov16k.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.EX.Qcov16k.helpGroup.text.1": {
     "en": "We want to understand how the coronavirus is spreading within the population.",
-    "ee": "Tahame mõista, kuidas koroonaviirus elanikkonnas levib."
+    "et": "Tahame mõista, kuidas koroonaviirus elanikkonnas levib."
   },
   "weekly.EX.Qcov16k.rg.scg.option.0": {
     "en": "Yes, positive for COVID-19",
-    "ee": "Jah, positiivne COVID-19 suhtes"
+    "et": "Jah, positiivne COVID-19 suhtes"
   },
   "weekly.EX.Qcov16k.rg.scg.option.1": {
     "en": "Yes, negative for COVID-19",
-    "ee": "Jah, negatiivne COVID-19 suhtes"
+    "et": "Jah, negatiivne COVID-19 suhtes"
   },
   "weekly.EX.Qcov16k.rg.scg.option.2": {
     "en": "Yes, the results are inconclusive",
-    "ee": "Jah, tulemused on ebaselged"
+    "et": "Jah, tulemused on ebaselged"
   },
   "weekly.EX.Qcov16k.rg.scg.option.3": {
     "en": "I don't know/can't remember",
-    "ee": "Ma ei tea/ei mäleta"
+    "et": "Ma ei tea/ei mäleta"
   },
   "weekly.EX.Qcov19.title.0": {
     "en": "Because of your symptoms, did you undergo a test/analyses to know if you have the Flu?",
-    "ee": "Kas te tegite oma sümptomite tõttu testi/analüüsid, et teada saada, kas teil on gripp?"
+    "et": "Kas te tegite oma sümptomite tõttu testi/analüüsid, et teada saada, kas teil on gripp?"
   },
   "weekly.EX.Qcov19.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.EX.Qcov19.helpGroup.text.1": {
     "en": "We want to know which complaints lead people to get tested for the flu.",
-    "ee": "Tahame teada, millised kaebused sunnivad inimesi gripitesti tegema."
+    "et": "Tahame teada, millised kaebused sunnivad inimesi gripitesti tegema."
   },
   "weekly.EX.Qcov19.rg.scg.option.0": {
     "en": "Yes, a PCR test based on a swab in nose or mouth, or a sputum or saliva sample",
-    "ee": "Jah, PCR-test, mis põhineb tampooniga ninast või suust võetud proovil või röga- või süljeproovil"
+    "et": "Jah, PCR-test, mis põhineb tampooniga ninast või suust võetud proovil või röga- või süljeproovil"
   },
   "weekly.EX.Qcov19.rg.scg.option.1": {
     "en": "Yes, a rapid detection test (result available in less than an hour)",
-    "ee": "Jah, kiirtest (tulemus saadaval vähem kui tunni pärast)"
+    "et": "Jah, kiirtest (tulemus saadaval vähem kui tunni pärast)"
   },
   "weekly.EX.Qcov19.rg.scg.option.2": {
     "en": "Not yet, I have a prescription and plan to shortly undergo a test",
-    "ee": "Veel mitte, mul on saatekiri ja kavatsen teha testi varsti"
+    "et": "Veel mitte, mul on saatekiri ja kavatsen teha testi varsti"
   },
   "weekly.EX.Qcov19.rg.scg.option.3": {
     "en": "No, I have a prescription but will not undergo a test",
-    "ee": "Ei, mul on saatekiri, kuid ma ei lähe testima"
+    "et": "Ei, mul on saatekiri, kuid ma ei lähe testima"
   },
   "weekly.EX.Qcov19.rg.scg.option.4": {
     "en": "No",
-    "ee": "Ei"
+    "et": "Ei"
   },
   "weekly.EX.Qcov19b.title.0": {
     "en": "Have you received the results of your Flu test?",
-    "ee": "Kas olete saanud oma gripitesti tulemused?"
+    "et": "Kas olete saanud oma gripitesti tulemused?"
   },
   "weekly.EX.Qcov19b.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.EX.Qcov19b.helpGroup.text.1": {
     "en": "We want to understand how the flu is spreading within the population.",
-    "ee": "Tahame mõista, kuidas gripp elanikkonnas levib."
+    "et": "Tahame mõista, kuidas gripp elanikkonnas levib."
   },
   "weekly.EX.Qcov19b.rg.scg.option.0": {
     "en": "Yes, the test is positive for influenza",
-    "ee": "Jah, test on gripi suhtes positiivne"
+    "et": "Jah, test on gripi suhtes positiivne"
   },
   "weekly.EX.Qcov19b.rg.scg.option.1": {
     "en": "Yes, the test is negative for influenza",
-    "ee": "Jah, test on gripi suhtes negatiivne"
+    "et": "Jah, test on gripi suhtes negatiivne"
   },
   "weekly.EX.Qcov19b.rg.scg.option.2": {
     "en": "Yes, the results are inconclusive",
-    "ee": "Jah, tulemused on ebaselged"
+    "et": "Jah, tulemused on ebaselged"
   },
   "weekly.EX.Qcov19b.rg.scg.option.3": {
     "en": "No, I have not yet received the test results",
-    "ee": "Ei, ma pole veel testi tulemusi teada saanud"
+    "et": "Ei, ma pole veel testi tulemusi teada saanud"
   },
   "weekly.EX.Q9.title.0": {
     "en": "Did you take medication for these symptoms?",
-    "ee": "Kas võtsite nende sümptomite vastu ravimeid?"
+    "et": "Kas võtsite nende sümptomite vastu ravimeid?"
   },
   "weekly.EX.Q9.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.EX.Q9.helpGroup.text.1": {
     "en": "To find out who gets treated, and how effective treatment is.",
-    "ee": "Et teada saada, keda ravitakse ja kui efektiivne ravi on."
+    "et": "Et teada saada, keda ravitakse ja kui efektiivne ravi on."
   },
   "weekly.EX.Q9.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "weekly.EX.Q9.helpGroup.text.3": {
     "en": "Only record those medications that you used because of this illness. If you are on other medications because of a pre-existing illness then do not record these.",
-    "ee": "Märkige ainult need ravimid, mida kasutasite selle haiguse tõttu. Kui te võtate juba olemasoleva haiguse tõttu muid ravimeid, siis ärge neid märkige."
+    "et": "Märkige ainult need ravimid, mida kasutasite selle haiguse tõttu. Kui te võtate juba olemasoleva haiguse tõttu muid ravimeid, siis ärge neid märkige."
   },
   "weekly.EX.Q9.rg.vMc3.text.0": {
     "en": "Select all options that apply",
-    "ee": "Märkige kõik sobivad valikud"
+    "et": "Märkige kõik sobivad valikud"
   },
   "weekly.EX.Q9.rg.mcg.option.0": {
     "en": "No medication",
-    "ee": "Ei võta ravimeid"
+    "et": "Ei võta ravimeid"
   },
   "weekly.EX.Q9.rg.mcg.option.1": {
     "en": "Pain killers (e.g. paracetamol, ibuprofen, aspirin, etc)",
-    "ee": "Valuvaigistid (nt paratsetamool, ibuprofeen, aspiriin jne)"
+    "et": "Valuvaigistid (nt paratsetamool, ibuprofeen, aspiriin jne)"
   },
   "weekly.EX.Q9.rg.mcg.option.2": {
     "en": "Cough medication (e.g. expectorants)",
-    "ee": "Köharavimid (nt rögalahtistajad)"
+    "et": "Köharavimid (nt rögalahtistajad)"
   },
   "weekly.EX.Q9.rg.mcg.option.3": {
     "en": "Antivirals against influenza (eg: Tamiflu)",
-    "ee": "Gripivastased preparaadid (nt: Tamiflu)"
+    "et": "Gripivastased preparaadid (nt: Tamiflu)"
   },
   "weekly.EX.Q9.rg.mcg.option.4": {
     "en": "Antibiotics",
-    "ee": "Antibiootikumid"
+    "et": "Antibiootikumid"
   },
   "weekly.EX.Q9.rg.mcg.option.5": {
     "en": "Homeopathy",
-    "ee": "Homöopaatia"
+    "et": "Homöopaatia"
   },
   "weekly.EX.Q9.rg.mcg.option.6": {
     "en": "Alternative medicine (essential oil, phytotherapy, etc.)",
-    "ee": "Alternatiivmeditsiin (eeterlik õli, fütoteraapia jne)"
+    "et": "Alternatiivmeditsiin (eeterlik õli, fütoteraapia jne)"
   },
   "weekly.EX.Q9.rg.mcg.option.7": {
     "en": "Other",
-    "ee": "Muu"
+    "et": "Muu"
   },
   "weekly.EX.Q9.rg.mcg.option.8": {
     "en": "I don't know/can't remember",
-    "ee": "Ma ei tea/ei mäleta"
+    "et": "Ma ei tea/ei mäleta"
   },
   "weekly.EX.Q14.title.0": {
     "en": "Because of your symptoms, were you hospitalized?",
-    "ee": "Kas te sattusite oma sümptomite tõttu haiglasse?"
+    "et": "Kas te sattusite oma sümptomite tõttu haiglasse?"
   },
   "weekly.EX.Q14.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.EX.Q14.helpGroup.text.1": {
     "en": "We want to understand the rates of hospitalization due to symptoms",
-    "ee": "Tahame mõista, kui tihti määrati sümptomite tõttu haiglaravi"
+    "et": "Tahame mõista, kui tihti määrati sümptomite tõttu haiglaravi"
   },
   "weekly.Q14.helGroup.how_answer": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "weekly.EX.Q14.helpGroup.text.2": {
     "en": "Answer yes only if the hospitalization is related to your current symptoms and not if it was planned before or related to an accident.",
-    "ee": "Vastake jaatavalt ainult juhul, kui hospitaliseerimine on seotud teie praeguste sümptomitega ning eitavalt, kui see oli planeeritud varem või seotud õnnetusega."
+    "et": "Vastake jaatavalt ainult juhul, kui hospitaliseerimine on seotud teie praeguste sümptomitega ning eitavalt, kui see oli planeeritud varem või seotud õnnetusega."
   },
   "weekly.EX.Q14.rg.scg.option.0": {
     "en": "Yes",
-    "ee": "Jah"
+    "et": "Jah"
   },
   "weekly.EX.Q14.rg.scg.option.1": {
     "en": "No",
-    "ee": "Ei"
+    "et": "Ei"
   },
   "weekly.EX.Q10.title.0": {
     "en": "Did you change your daily routine because of your illness?",
-    "ee": "Kas muutsite oma haiguse tõttu oma igapäevast rutiini?"
+    "et": "Kas muutsite oma haiguse tõttu oma igapäevast rutiini?"
   },
   "weekly.EX.Q10.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.EX.Q10.helpGroup.text.1": {
     "en": "To determine how the symptoms are impacting your daily life.",
-    "ee": "Selleks, et teha kindlaks, kuidas sümptomid teie igapäevaelu mõjutavad.?"
+    "et": "Selleks, et teha kindlaks, kuidas sümptomid teie igapäevaelu mõjutavad.?"
   },
   "weekly.EX.Q10.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "weekly.EX.Q10.helpGroup.text.3": {
     "en": "We want to know if you have missed work or school due to your symptoms, or if you have modified your daily routine in any way (for example, if you were unable to engage in sport activities). If you are a student, and were unable to attend online classes due to your symptoms, you should also select option 2. We are interested in changes due to your symptoms/complaints and not due to any quarantine.",
-    "ee": "Tahame teada, kas olete sümptomite tõttu töölt või koolist puudunud või olete oma igapäevast rutiini kuidagi muutnud (näiteks kui te ei saanud tegeleda spordiga). Kui olete üliõpilane ja te ei saanud oma sümptomite tõttu veebikursustel osaleda, peaksite valima ka 2. valiku. Oleme huvitatud muudatustest, mis tulenevad teie sümptomitest/kaebustest ja mitte mistahes karantiinist."
+    "et": "Tahame teada, kas olete sümptomite tõttu töölt või koolist puudunud või olete oma igapäevast rutiini kuidagi muutnud (näiteks kui te ei saanud tegeleda spordiga). Kui olete üliõpilane ja te ei saanud oma sümptomite tõttu veebikursustel osaleda, peaksite valima ka 2. valiku. Oleme huvitatud muudatustest, mis tulenevad teie sümptomitest/kaebustest ja mitte mistahes karantiinist."
   },
   "weekly.EX.Q10.rg.scg.option.0": {
     "en": "No, I was able to go about my daily activities as usual",
-    "ee": "Ei, ma sain teha oma igapäevaseid tegevusi nagu tavaliselt"
+    "et": "Ei, ma sain teha oma igapäevaseid tegevusi nagu tavaliselt"
   },
   "weekly.EX.Q10.rg.scg.option.1": {
     "en": "Yes, but I did not take time off work/school",
-    "ee": "Jah, aga ma ei võtnud töölt/koolist vabaks"
+    "et": "Jah, aga ma ei võtnud töölt/koolist vabaks"
   },
   "weekly.EX.Q10.rg.scg.option.2": {
     "en": "Yes, I took time off school or work",
-    "ee": "Jah, ma võtsin koolist või töölt vabaks"
+    "et": "Jah, ma võtsin koolist või töölt vabaks"
   },
   "weekly.EX.Q10b.title.0": {
     "en": "Are you currently still unable to work or attend school due to your symptoms/complaints?",
-    "ee": "Kas te ei saa praegu ikka veel oma sümptomite/kaebuste tõttu töötada ega koolis käia?"
+    "et": "Kas te ei saa praegu ikka veel oma sümptomite/kaebuste tõttu töötada ega koolis käia?"
   },
   "weekly.EX.Q10b.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.EX.Q10b.helpGroup.text.1": {
     "en": "To determine how the symptoms are impacting your daily life.",
-    "ee": "Selleks, et teha kindlaks, kuidas sümptomid teie igapäevaelu mõjutavad.?"
+    "et": "Selleks, et teha kindlaks, kuidas sümptomid teie igapäevaelu mõjutavad.?"
   },
   "weekly.EX.Q10b.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "weekly.EX.Q10b.helpGroup.text.3": {
     "en": "Answer 'yes' if you missed work or school today due to certain symptoms.",
-    "ee": "Vastake 'jah', kui jätsite täna teatud sümptomite tõttu tööle või kooli minemata."
+    "et": "Vastake 'jah', kui jätsite täna teatud sümptomite tõttu tööle või kooli minemata."
   },
   "weekly.EX.Q10b.rg.scg.option.0": {
     "en": "Yes",
-    "ee": "Jah"
+    "et": "Jah"
   },
   "weekly.EX.Q10b.rg.scg.option.1": {
     "en": "No",
-    "ee": "Ei"
+    "et": "Ei"
   },
   "weekly.EX.Q10b.rg.scg.option.2": {
     "en": "Other (I did not have to work or go to school today in any case)",
-    "ee": "Muu (ma ei pidanud täna igal juhul töötama ega koolis käima)"
+    "et": "Muu (ma ei pidanud täna igal juhul töötama ega koolis käima)"
   },
   "weekly.EX.Q10c.title.0": {
     "en": "For how many days have you been unable to work normally/go to school (when you otherwise would have)?",
-    "ee": "Mitu päeva te pole saanud normaalselt töötada/koolis käia (kui te muidu ei oleks saanud)?"
+    "et": "Mitu päeva te pole saanud normaalselt töötada/koolis käia (kui te muidu ei oleks saanud)?"
   },
   "weekly.EX.Q10c.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.EX.Q10c.helpGroup.text.1": {
     "en": "To calculate the number of days a person misses work or school due to certain symptoms.",
-    "ee": "Selleks, et arvutada päevade arvu, mille jooksul inimene teatud sümptomite tõttu töölt või koolist puudub."
+    "et": "Selleks, et arvutada päevade arvu, mille jooksul inimene teatud sümptomite tõttu töölt või koolist puudub."
   },
   "weekly.EX.Q10c.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "weekly.EX.Q10c.helpGroup.text.3": {
     "en": "Only count the days that you would otherwise have gone to work or school. Provide as precise an estimate as possible.",
-    "ee": "Arvestage ainult neid päevi, mil te muidu oleksite tööl või koolis käinud. Esitage võimalikult täpne hinnang."
+    "et": "Arvestage ainult neid päevi, mil te muidu oleksite tööl või koolis käinud. Esitage võimalikult täpne hinnang."
   },
   "weekly.EX.Q10c.rg.ddg.option.0": {
     "en": "1 day",
-    "ee": "1 päev"
+    "et": "1 päev"
   },
   "weekly.EX.Q10c.rg.ddg.option.1": {
     "en": "2 days",
-    "ee": "2 päeva"
+    "et": "2 päeva"
   },
   "weekly.EX.Q10c.rg.ddg.option.2": {
     "en": "3 days",
-    "ee": "3 päeva"
+    "et": "3 päeva"
   },
   "weekly.EX.Q10c.rg.ddg.option.3": {
     "en": "4 days",
-    "ee": "4 päeva"
+    "et": "4 päeva"
   },
   "weekly.EX.Q10c.rg.ddg.option.4": {
     "en": "5 days",
-    "ee": "5 päeva"
+    "et": "5 päeva"
   },
   "weekly.EX.Q10c.rg.ddg.option.5": {
     "en": "6 to 10 days",
-    "ee": "6 kuni 10 päeva"
+    "et": "6 kuni 10 päeva"
   },
   "weekly.EX.Q10c.rg.ddg.option.6": {
     "en": "11 to 15 days",
-    "ee": "11 kuni 15 päeva"
+    "et": "11 kuni 15 päeva"
   },
   "weekly.EX.Q10c.rg.ddg.option.7": {
     "en": "More than 15 days",
-    "ee": "Rohkem kui 15 päeva"
+    "et": "Rohkem kui 15 päeva"
   },
   "weekly.EX.Qcov7.title.0": {
     "en": "Did you begin to follow or increase any of the measures below, due to your symptoms (compared to the period before your symptoms began)?",
-    "ee": "Kas hakkasite oma sümptomite tõttu järgima või rohkem järgima mõnda allolevatest meetmetest (võrreldes perioodiga enne sümptomite ilmnemist)?"
+    "et": "Kas hakkasite oma sümptomite tõttu järgima või rohkem järgima mõnda allolevatest meetmetest (võrreldes perioodiga enne sümptomite ilmnemist)?"
   },
   "weekly.EX.Qcov7.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.EX.Qcov7.helpGroup.text.1": {
     "en": "To examine how different measures are being followed.",
-    "ee": "Selleks, et uurida, kuidas erinevaid meetmeid järgitakse."
+    "et": "Selleks, et uurida, kuidas erinevaid meetmeid järgitakse."
   },
   "weekly.EX.Qcov7.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "weekly.EX.Qcov7.helpGroup.text.3": {
     "en": "For example, 'Avoid shaking hands': Answer 'yes' if you shake hands less or not at all due to your symptoms; Answer 'No, I am not following this measure' if you continue to shake hands despite your symptoms; Answer 'No, I was already following this measure' if you had already stopped shaking hands before the onset of your symptoms and you did not change this behaviour.",
-    "ee": "Näiteks 'Vältige kätlemist': Vastake 'jah', kui kätlete oma sümptomite tõttu vähem või üldse mitte; Vastake 'Ei, ma ei järgi seda meedet', kui jätkate oma sümptomitest hoolimata kätlemist; Vastake 'Ei, ma juba järgisin seda meedet', kui te olite juba enne sümptomite ilmnemist kätlemise lõpetanud ja te ei muutnud seda käitumist."
+    "et": "Näiteks 'Vältige kätlemist': Vastake 'jah', kui kätlete oma sümptomite tõttu vähem või üldse mitte; Vastake 'Ei, ma ei järgi seda meedet', kui jätkate oma sümptomitest hoolimata kätlemist; Vastake 'Ei, ma juba järgisin seda meedet', kui te olite juba enne sümptomite ilmnemist kätlemise lõpetanud ja te ei muutnud seda käitumist."
   },
   "weekly.EX.Qcov7.rg.gU4U.text.0": {
     "en": "To be completed optionally",
-    "ee": "Täidetakse valikuliselt"
+    "et": "Täidetakse valikuliselt"
   },
   "weekly.EX.Qcov7.rg.v1C0.text.1": {
     "en": "Regularly wash or disinfect hands",
-    "ee": "Peske käsi või kasutage antiseptikat kätel regulaarselt"
+    "et": "Peske käsi või kasutage antiseptikat kätel regulaarselt"
   },
   "weekly.EX.Qcov7.rg.likert_1.option.0": {
     "en": "Yes, I am following this measure now for the first time, or in a stricter way",
-    "ee": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
+    "et": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
   },
   "weekly.EX.Qcov7.rg.likert_1.option.1": {
     "en": "No, I was already following this measure",
-    "ee": "Ei, ma juba järgisin seda meedet"
+    "et": "Ei, ma juba järgisin seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_1.option.2": {
     "en": "No, I am not following this measure",
-    "ee": "Ei, ma ei järgi seda meedet"
+    "et": "Ei, ma ei järgi seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_1.option.3": {
     "en": "Not applicable",
-    "ee": "Eelnevad variandid ei sobi"
+    "et": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.nEMR.text.3": {
     "en": "Cough or sneeze into your elbow",
-    "ee": "Kata suu köhimise või aevastamis ajal küünarnukiga"
+    "et": "Kata suu köhimise või aevastamis ajal küünarnukiga"
   },
   "weekly.EX.Qcov7.rg.likert_2.option.0": {
     "en": "Yes, I am following this measure now for the first time, or in a stricter way",
-    "ee": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
+    "et": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
   },
   "weekly.EX.Qcov7.rg.likert_2.option.1": {
     "en": "No, I was already following this measure",
-    "ee": "Ei, ma juba järgisin seda meedet"
+    "et": "Ei, ma juba järgisin seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_2.option.2": {
     "en": "No, I am not following this measure",
-    "ee": "Ei, ma ei järgi seda meedet"
+    "et": "Ei, ma ei järgi seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_2.option.3": {
     "en": "Not applicable",
-    "ee": "Eelnevad variandid ei sobi"
+    "et": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.oTIp.text.5": {
     "en": "Use a disposable tissue",
-    "ee": "Kasutage ühekordset salvrätikut"
+    "et": "Kasutage ühekordset salvrätikut"
   },
   "weekly.EX.Qcov7.rg.likert_3.option.0": {
     "en": "Yes, I am following this measure now for the first time, or in a stricter way",
-    "ee": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
+    "et": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
   },
   "weekly.EX.Qcov7.rg.likert_3.option.1": {
     "en": "No, I was already following this measure",
-    "ee": "Ei, ma juba järgisin seda meedet"
+    "et": "Ei, ma juba järgisin seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_3.option.2": {
     "en": "No, I am not following this measure",
-    "ee": "Ei, ma ei järgi seda meedet"
+    "et": "Ei, ma ei järgi seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_3.option.3": {
     "en": "Not applicable",
-    "ee": "Eelnevad variandid ei sobi"
+    "et": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.7w6F.text.7": {
     "en": "Wear a face mask indoors",
-    "ee": "Kandke siseruumides näomaski"
+    "et": "Kandke siseruumides näomaski"
   },
   "weekly.EX.Qcov7.rg.likert_4a.option.0": {
     "en": "Yes, I am following this measure now for the first time, or in a stricter way",
-    "ee": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
+    "et": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
   },
   "weekly.EX.Qcov7.rg.likert_4a.option.1": {
     "en": "No, I was already following this measure",
-    "ee": "Ei, ma juba järgisin seda meedet"
+    "et": "Ei, ma juba järgisin seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_4a.option.2": {
     "en": "No, I am not following this measure",
-    "ee": "Ei, ma ei järgi seda meedet"
+    "et": "Ei, ma ei järgi seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_4a.option.3": {
     "en": "Not applicable",
-    "ee": "Eelnevad variandid ei sobi"
+    "et": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.vHvi.text.9": {
     "en": "Wear a face mask outdoors",
-    "ee": "Kandke õues näomaski"
+    "et": "Kandke õues näomaski"
   },
   "weekly.EX.Qcov7.rg.likert_4b.option.0": {
     "en": "Yes, I am following this measure now for the first time, or in a stricter way",
-    "ee": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
+    "et": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
   },
   "weekly.EX.Qcov7.rg.likert_4b.option.1": {
     "en": "No, I was already following this measure",
-    "ee": "Ei, ma juba järgisin seda meedet"
+    "et": "Ei, ma juba järgisin seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_4b.option.2": {
     "en": "No, I am not following this measure",
-    "ee": "Ei, ma ei järgi seda meedet"
+    "et": "Ei, ma ei järgi seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_4b.option.3": {
     "en": "Not applicable",
-    "ee": "Eelnevad variandid ei sobi"
+    "et": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.ocTu.text.11": {
     "en": "Avoid shaking hands",
-    "ee": "Vältige kätlemist"
+    "et": "Vältige kätlemist"
   },
   "weekly.EX.Qcov7.rg.likert_5.option.0": {
     "en": "Yes, I am following this measure now for the first time, or in a stricter way",
-    "ee": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
+    "et": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
   },
   "weekly.EX.Qcov7.rg.likert_5.option.1": {
     "en": "No, I was already following this measure",
-    "ee": "Ei, ma juba järgisin seda meedet"
+    "et": "Ei, ma juba järgisin seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_5.option.2": {
     "en": "No, I am not following this measure",
-    "ee": "Ei, ma ei järgi seda meedet"
+    "et": "Ei, ma ei järgi seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_5.option.3": {
     "en": "Not applicable",
-    "ee": "Eelnevad variandid ei sobi"
+    "et": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.ioJs.text.13": {
     "en": "Stop greeting by hugging and/or kissing on both cheeks",
-    "ee": "Ärge tervitage mõlemale põsele kallistades ja/või suudeldes"
+    "et": "Ärge tervitage mõlemale põsele kallistades ja/või suudeldes"
   },
   "weekly.EX.Qcov7.rg.likert_11.option.0": {
     "en": "Yes, I am following this measure now for the first time, or in a stricter way",
-    "ee": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
+    "et": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
   },
   "weekly.EX.Qcov7.rg.likert_11.option.1": {
     "en": "No, I was already following this measure",
-    "ee": "Ei, ma juba järgisin seda meedet"
+    "et": "Ei, ma juba järgisin seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_11.option.2": {
     "en": "No, I am not following this measure",
-    "ee": "Ei, ma ei järgi seda meedet"
+    "et": "Ei, ma ei järgi seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_11.option.3": {
     "en": "Not applicable",
-    "ee": "Eelnevad variandid ei sobi"
+    "et": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.ujsK.text.15": {
     "en": "Limit your use of public transport",
-    "ee": "Piirake ühistranspordi kasutamist"
+    "et": "Piirake ühistranspordi kasutamist"
   },
   "weekly.EX.Qcov7.rg.likert_6.option.0": {
     "en": "Yes, I am following this measure now for the first time, or in a stricter way",
-    "ee": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
+    "et": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
   },
   "weekly.EX.Qcov7.rg.likert_6.option.1": {
     "en": "No, I was already following this measure",
-    "ee": "Ei, ma juba järgisin seda meedet"
+    "et": "Ei, ma juba järgisin seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_6.option.2": {
     "en": "No, I am not following this measure",
-    "ee": "Ei, ma ei järgi seda meedet"
+    "et": "Ei, ma ei järgi seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_6.option.3": {
     "en": "Not applicable",
-    "ee": "Eelnevad variandid ei sobi"
+    "et": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.Ijdr.text.17": {
     "en": "Avoid busy places and gatherings (supermarket, cinema, stadium)",
-    "ee": "Vältige rahvarohkeid kohti ja kogunemisi (supermarket, kino, staadion)"
+    "et": "Vältige rahvarohkeid kohti ja kogunemisi (supermarket, kino, staadion)"
   },
   "weekly.EX.Qcov7.rg.likert_7.option.0": {
     "en": "Yes, I am following this measure now for the first time, or in a stricter way",
-    "ee": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
+    "et": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
   },
   "weekly.EX.Qcov7.rg.likert_7.option.1": {
     "en": "No, I was already following this measure",
-    "ee": "Ei, ma juba järgisin seda meedet"
+    "et": "Ei, ma juba järgisin seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_7.option.2": {
     "en": "No, I am not following this measure",
-    "ee": "Ei, ma ei järgi seda meedet"
+    "et": "Ei, ma ei järgi seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_7.option.3": {
     "en": "Not applicable",
-    "ee": "Eelnevad variandid ei sobi"
+    "et": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.t8MS.text.19": {
     "en": "Stay at home",
-    "ee": "Püsige kodus"
+    "et": "Püsige kodus"
   },
   "weekly.EX.Qcov7.rg.likert_8.option.0": {
     "en": "Yes, I am following this measure now for the first time, or in a stricter way",
-    "ee": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
+    "et": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
   },
   "weekly.EX.Qcov7.rg.likert_8.option.1": {
     "en": "No, I was already following this measure",
-    "ee": "Ei, ma juba järgisin seda meedet"
+    "et": "Ei, ma juba järgisin seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_8.option.2": {
     "en": "No, I am not following this measure",
-    "ee": "Ei, ma ei järgi seda meedet"
+    "et": "Ei, ma ei järgi seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_8.option.3": {
     "en": "Not applicable",
-    "ee": "Eelnevad variandid ei sobi"
+    "et": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.z4bE.text.21": {
     "en": "Telework or increase your number of telework days",
-    "ee": "Tehke kaugtööd või suurendage kaugtööpäevade arvu"
+    "et": "Tehke kaugtööd või suurendage kaugtööpäevade arvu"
   },
   "weekly.EX.Qcov7.rg.likert_9.option.0": {
     "en": "Yes, I am following this measure now for the first time, or in a stricter way",
-    "ee": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
+    "et": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
   },
   "weekly.EX.Qcov7.rg.likert_9.option.1": {
     "en": "No, I was already following this measure",
-    "ee": "Ei, ma juba järgisin seda meedet"
+    "et": "Ei, ma juba järgisin seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_9.option.2": {
     "en": "No, I am not following this measure",
-    "ee": "Ei, ma ei järgi seda meedet"
+    "et": "Ei, ma ei järgi seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_9.option.3": {
     "en": "Not applicable",
-    "ee": "Eelnevad variandid ei sobi"
+    "et": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.Koue.text.23": {
     "en": "Avoid travel outside your own country or region",
-    "ee": "Vältige reisimist väljaspoole oma riiki või piirkonda"
+    "et": "Vältige reisimist väljaspoole oma riiki või piirkonda"
   },
   "weekly.EX.Qcov7.rg.likert_10.option.0": {
     "en": "Yes, I am following this measure now for the first time, or in a stricter way",
-    "ee": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
+    "et": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
   },
   "weekly.EX.Qcov7.rg.likert_10.option.1": {
     "en": "No, I was already following this measure",
-    "ee": "Ei, ma juba järgisin seda meedet"
+    "et": "Ei, ma juba järgisin seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_10.option.2": {
     "en": "No, I am not following this measure",
-    "ee": "Ei, ma ei järgi seda meedet"
+    "et": "Ei, ma ei järgi seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_10.option.3": {
     "en": "Not applicable",
-    "ee": "Eelnevad variandid ei sobi"
+    "et": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.zuDa.text.25": {
     "en": "Have your food/shopping delivered by a store or a friend/family member",
-    "ee": "Laske oma toit/ostud kohale toimetada poe või sõbra/pereliikme poolt"
+    "et": "Laske oma toit/ostud kohale toimetada poe või sõbra/pereliikme poolt"
   },
   "weekly.EX.Qcov7.rg.likert_13.option.0": {
     "en": "Yes, I am following this measure now for the first time, or in a stricter way",
-    "ee": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
+    "et": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
   },
   "weekly.EX.Qcov7.rg.likert_13.option.1": {
     "en": "No, I was already following this measure",
-    "ee": "Ei, ma juba järgisin seda meedet"
+    "et": "Ei, ma juba järgisin seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_13.option.2": {
     "en": "No, I am not following this measure",
-    "ee": "Ei, ma ei järgi seda meedet"
+    "et": "Ei, ma ei järgi seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_13.option.3": {
     "en": "Not applicable",
-    "ee": "Eelnevad variandid ei sobi"
+    "et": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.QSBP.text.27": {
     "en": "Avoid seeing friends and family",
-    "ee": "Vältige sõprade ja perega kohtumist"
+    "et": "Vältige sõprade ja perega kohtumist"
   },
   "weekly.EX.Qcov7.rg.likert_14.option.0": {
     "en": "Yes, I am following this measure now for the first time, or in a stricter way",
-    "ee": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
+    "et": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
   },
   "weekly.EX.Qcov7.rg.likert_14.option.1": {
     "en": "No, I was already following this measure",
-    "ee": "Ei, ma juba järgisin seda meedet"
+    "et": "Ei, ma juba järgisin seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_14.option.2": {
     "en": "No, I am not following this measure",
-    "ee": "Ei, ma ei järgi seda meedet"
+    "et": "Ei, ma ei järgi seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_14.option.3": {
     "en": "Not applicable",
-    "ee": "Eelnevad variandid ei sobi"
+    "et": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.fRla.text.29": {
     "en": "Avoid being in contact with people over 65 years old or with a chronic disease",
-    "ee": "Vältige kokkupuudet üle 65-aastaste või kroonilisi haiguseid põdevate inimestega"
+    "et": "Vältige kokkupuudet üle 65-aastaste või kroonilisi haiguseid põdevate inimestega"
   },
   "weekly.EX.Qcov7.rg.likert_15.option.0": {
     "en": "Yes, I am following this measure now for the first time, or in a stricter way",
-    "ee": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
+    "et": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
   },
   "weekly.EX.Qcov7.rg.likert_15.option.1": {
     "en": "No, I was already following this measure",
-    "ee": "Ei, ma juba järgisin seda meedet"
+    "et": "Ei, ma juba järgisin seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_15.option.2": {
     "en": "No, I am not following this measure",
-    "ee": "Ei, ma ei järgi seda meedet"
+    "et": "Ei, ma ei järgi seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_15.option.3": {
     "en": "Not applicable",
-    "ee": "Eelnevad variandid ei sobi"
+    "et": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Qcov7.rg.h3fK.text.31": {
     "en": "Avoid being in contact with children",
-    "ee": "Vältige kokkupuudet lastega"
+    "et": "Vältige kokkupuudet lastega"
   },
   "weekly.EX.Qcov7.rg.likert_16.option.0": {
     "en": "Yes, I am following this measure now for the first time, or in a stricter way",
-    "ee": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
+    "et": "Jah, ma järgin seda meedet praegu esimest korda või rangemalt"
   },
   "weekly.EX.Qcov7.rg.likert_16.option.1": {
     "en": "No, I was already following this measure",
-    "ee": "Ei, ma juba järgisin seda meedet"
+    "et": "Ei, ma juba järgisin seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_16.option.2": {
     "en": "No, I am not following this measure",
-    "ee": "Ei, ma ei järgi seda meedet"
+    "et": "Ei, ma ei järgi seda meedet"
   },
   "weekly.EX.Qcov7.rg.likert_16.option.3": {
     "en": "Not applicable",
-    "ee": "Eelnevad variandid ei sobi"
+    "et": "Eelnevad variandid ei sobi"
   },
   "weekly.EX.Q11.title.0": {
     "en": "What do you think is causing your symptoms?",
-    "ee": "Mis teie arvates põhjustab teie sümptomeid?"
+    "et": "Mis teie arvates põhjustab teie sümptomeid?"
   },
   "weekly.EX.Q11.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "weekly.EX.Q11.helpGroup.text.1": {
     "en": "To see if our assessment of your illness, based on your symptoms, matches what you believe to be the cause. You may have a better idea of the cause of your illness than our computer algorithms.",
-    "ee": "Et näha, kas meie hinnang teie haigusele teie sümptomite põhjal vastab sellele, mida teie arvate olevat põhjuseks. Teil võib olla parem ettekujutus oma haiguse põhjusest kui meie arvutialgoritmid."
+    "et": "Et näha, kas meie hinnang teie haigusele teie sümptomite põhjal vastab sellele, mida teie arvate olevat põhjuseks. Teil võib olla parem ettekujutus oma haiguse põhjusest kui meie arvutialgoritmid."
   },
   "weekly.EX.Q11.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "weekly.EX.Q11.helpGroup.text.3": {
     "en": "If you are reasonably sure of the cause of your symptoms, select the appropriate box. Otherwise, select 'No, I Don’t know'.",
-    "ee": "Kui olete oma sümptomite põhjuses piisavalt kindel, valige vastav ruut. Vastasel juhul valige 'Ei, ma ei tea'."
+    "et": "Kui olete oma sümptomite põhjuses piisavalt kindel, valige vastav ruut. Vastasel juhul valige 'Ei, ma ei tea'."
   },
   "weekly.EX.Q11.rg.scg.option.0": {
     "en": "Flu or flu-like illness",
-    "ee": "Gripp või gripilaadne haigus"
+    "et": "Gripp või gripilaadne haigus"
   },
   "weekly.EX.Q11.rg.scg.option.1": {
     "en": "New coronavirus (COVID-19)",
-    "ee": "Uus koroonaviirus (COVID-19)"
+    "et": "Uus koroonaviirus (COVID-19)"
   },
   "weekly.EX.Q11.rg.scg.option.2": {
     "en": "Common cold",
-    "ee": "Tavaline külmetus"
+    "et": "Tavaline külmetus"
   },
   "weekly.EX.Q11.rg.scg.option.3": {
     "en": "Allergy/hay fever",
-    "ee": "Allergia/heinanohu"
+    "et": "Allergia/heinanohu"
   },
   "weekly.EX.Q11.rg.scg.option.4": {
     "en": "Ashtma",
-    "ee": "Astma"
+    "et": "Astma"
   },
   "weekly.EX.Q11.rg.scg.option.5": {
     "en": "Gastroenteritis complaints or gastric flu",
-    "ee": "Gastroenteriidi kaebused või kõhugripp"
+    "et": "Gastroenteriidi kaebused või kõhugripp"
   },
   "weekly.EX.Q11.rg.scg.option.6": {
     "en": "Other",
-    "ee": "Muu"
+    "et": "Muu"
   },
   "weekly.EX.Q11.rg.scg.option.7": {
     "en": "I don't know",
-    "ee": "Ma ei tea"
+    "et": "Ma ei tea"
   },
   "weekly.surveyEnd.title.0": {
     "en": "Thank you! This was all for now, please submit (push « send ») your responses. We will ask you again next week.",
-    "ee": "Täname teid! See on selleks korraks kõik, palun esitage oma vastused (vajutage „Saada“) . Küsime teilt järgmisel nädalal uuesti."
+    "et": "Täname teid! See on selleks korraks kõik, palun esitage oma vastused (vajutage „Saada“) . Küsime teilt järgmisel nädalal uuesti."
   }
 }

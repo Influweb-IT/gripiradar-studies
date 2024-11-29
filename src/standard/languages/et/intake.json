@@ -1,818 +1,818 @@
 {
   "intake.name.0": {
     "en": "Intake questionnaire",
-    "ee": "Vastuvõtuküsimustik"
+    "et": "Vastuvõtuküsimustik"
   },
   "intake.description.0": {
     "en": "The purpose of the background questionnaire is to find out a little more about each user.",
-    "ee": "Taustaküsimustiku eesmärk on iga kasutaja kohta veidi rohkem teada saada."
+    "et": "Taustaküsimustiku eesmärk on iga kasutaja kohta veidi rohkem teada saada."
   },
   "intake.typicalDuration.0": {
     "en": "Duration 5-10 minutes",
-    "ee": "Kestus 5-10 minutit"
+    "et": "Kestus 5-10 minutit"
   },
   "intake.Q1.title.0": {
     "en": "What is your gender?",
-    "ee": "Mis soost te olete?"
+    "et": "Mis soost te olete?"
   },
   "intake.Q1.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "intake.Q1.helpGroup.text.1": {
     "en": "In order to examine the differences between men and women.",
-    "ee": "Selleks, et uurida erinevusi meeste ja naiste vahel."
+    "et": "Selleks, et uurida erinevusi meeste ja naiste vahel."
   },
   "intake.Q1.rg.scg.option.0": {
     "en": "Male",
-    "ee": "Mees"
+    "et": "Mees"
   },
   "intake.Q1.rg.scg.option.1": {
     "en": "Female",
-    "ee": "Naine"
+    "et": "Naine"
   },
   "intake.Q1.rg.scg.option.2": {
     "en": "Other",
-    "ee": "Muu"
+    "et": "Muu"
   },
   "intake.Q2.title.0": {
     "en": "What is your date of birth (month and year)?",
-    "ee": "Mis on teie sünnikuupäev (kuu ja aasta)?"
+    "et": "Mis on teie sünnikuupäev (kuu ja aasta)?"
   },
   "intake.Q2.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "intake.Q2.helpGroup.text.1": {
     "en": "In order to examine the differences between age groups.",
-    "ee": "Selleks, et uurida erinevusi vanuserühmade vahel."
+    "et": "Selleks, et uurida erinevusi vanuserühmade vahel."
   },
   "intake.Q2.rg.feedback.text.1": {
     "en": " years old",
-    "ee": "aastat vana"
+    "et": "aastat vana"
   },
   "intake.Q3.title.0": {
     "en": "What is your home postal code?",
-    "ee": "Mis on teie kodu sihtnumber?"
+    "et": "Mis on teie kodu sihtnumber?"
   },
   "intake.Q3.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "intake.Q3.helpGroup.text.1": {
     "en": "In order to verify the representativeness of our cohort (the group of participants in this study), and to examine the geographical differences in the spread of the coronavirus and influenza.",
-    "ee": "Selleks, et kontrollida meie valimi (selles uuringus osalejate rühma) esinduslikkust ning uurida koroonaviiruse ja gripi leviku geograafilisi erinevusi."
+    "et": "Selleks, et kontrollida meie valimi (selles uuringus osalejate rühma) esinduslikkust ning uurida koroonaviiruse ja gripi leviku geograafilisi erinevusi."
   },
   "intake.Q3.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "intake.Q3.helpGroup.text.3": {
     "en": "Insert the postal code of your place of residence",
-    "ee": "Sisestage oma elukoha sihtnumber"
+    "et": "Sisestage oma elukoha sihtnumber"
   },
   "intake.Q3.rg.scg.input.0": {
     "en": "Postal code:",
-    "ee": "Sihtnumber:"
+    "et": "Sihtnumber:"
   },
   "intake.Q3.rg.scg.description.input.0": {
     "en": "Postal code",
-    "ee": "Sihtnumber"
+    "et": "Sihtnumber"
   },
   "intake.Q3.rg.scg.option.1": {
     "en": "I prefer not to answer this question",
-    "ee": "Ma eelistan sellele küsimusele mitte vastata"
+    "et": "Ma eelistan sellele küsimusele mitte vastata"
   },
   "intake.Q3.error.3": {
     "en": "Please enter the digits of your postal code",
-    "ee": "Palun sisestage oma sihtnumbri numbrid"
+    "et": "Palun sisestage oma sihtnumbri numbrid"
   },
   "intake.Q3.error.4": {
     "en": "Please enter at most 5 digits",
-    "ee": "Palun sisestage kuni 5 numbrit"
+    "et": "Palun sisestage kuni 5 numbrit"
   },
   "intake.Q4.title.0": {
     "en": "What is your current professional status?",
-    "ee": "Milline on teie praegune ametialane staatus?"
+    "et": "Milline on teie praegune ametialane staatus?"
   },
   "intake.Q4.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "intake.Q4.helpGroup.text.1": {
     "en": "To check how representative our sample is compared to the population as a whole, and to find out whether the chance of getting flu is different for people in different types of occupation.",
-    "ee": "Selleks, et kontrollida, kui esinduslik on meie valim võrreldes elanikkonnaga tervikuna, ja selgitada välja, kas grippi haigestumise võimalus on erinevate ametitüüpide puhul erinev."
+    "et": "Selleks, et kontrollida, kui esinduslik on meie valim võrreldes elanikkonnaga tervikuna, ja selgitada välja, kas grippi haigestumise võimalus on erinevate ametitüüpide puhul erinev."
   },
   "intake.Q4.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "intake.Q4.helpGroup.text.3": {
     "en": "Please, tick the box that most closely resembles your main occupation. For pre-school children who don't go to daycare tick the \"other\" box.",
-    "ee": "Palun märkige ruut, mis sarnaneb kõige rohkem teie põhitööga. Eelkooliealiste laste korral, kes ei käi lasteaias, tehke linnuke lahtrisse \"muu\""
+    "et": "Palun märkige ruut, mis sarnaneb kõige rohkem teie põhitööga. Eelkooliealiste laste korral, kes ei käi lasteaias, tehke linnuke lahtrisse \"muu\""
   },
   "intake.Q4.rg.scg.option.0": {
     "en": "Paid employment, full time",
-    "ee": "Tasustatud töö, täistööaeg"
+    "et": "Tasustatud töö, täistööaeg"
   },
   "intake.Q4.rg.scg.option.1": {
     "en": "Paid employment, part time",
-    "ee": "Tasustatud töö, osaline tööaeg"
+    "et": "Tasustatud töö, osaline tööaeg"
   },
   "intake.Q4.rg.scg.option.2": {
     "en": "Self-employed (businessman, farmer, tradesman, etc.)",
-    "ee": "Füüsilisest isikust ettevõtja (ärimees, talunik, kaupmees jne)"
+    "et": "Füüsilisest isikust ettevõtja (ärimees, talunik, kaupmees jne)"
   },
   "intake.Q4.rg.scg.option.3": {
     "en": "Attending daycare/school/college/university",
-    "ee": "Käin lasteaias/koolis/kolledžis/ülikoolis"
+    "et": "Käin lasteaias/koolis/kolledžis/ülikoolis"
   },
   "intake.Q4.rg.scg.option.4": {
     "en": "Home-maker (e.g. housewife)",
-    "ee": "Kodune (nt koduperenaine)"
+    "et": "Kodune (nt koduperenaine)"
   },
   "intake.Q4.rg.scg.option.5": {
     "en": "Unemployed",
-    "ee": "Töötu"
+    "et": "Töötu"
   },
   "intake.Q4.rg.scg.option.6": {
     "en": "Long-term sick-leave or parental leave",
-    "ee": "Pikaajaline haigusleht või lapsehoolduspuhkus"
+    "et": "Pikaajaline haigusleht või lapsehoolduspuhkus"
   },
   "intake.Q4.rg.scg.option.7": {
     "en": "Retired",
-    "ee": "Pensionär"
+    "et": "Pensionär"
   },
   "intake.Q4.rg.scg.option.8": {
     "en": "Other",
-    "ee": "Muu"
+    "et": "Muu"
   },
   "intake.Q4b.title.0": {
     "en": "What is the postal code of your school/college/workplace (where you spend the majority of your working/studying time)?",
-    "ee": "Mis on teie kooli/kolledži/töökoha (kus veedate suurema osa oma töö-/õppimisajast) sihtnumber?"
+    "et": "Mis on teie kooli/kolledži/töökoha (kus veedate suurema osa oma töö-/õppimisajast) sihtnumber?"
   },
   "intake.Q4b.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "intake.Q4b.helpGroup.text.1": {
     "en": "To be able to determine the distance you regularly travel during your movements.",
-    "ee": "Selleks, et oleks võimalik kindlaks teha vahemaad, mida te oma liikumiste ajal regulaarselt läbite."
+    "et": "Selleks, et oleks võimalik kindlaks teha vahemaad, mida te oma liikumiste ajal regulaarselt läbite."
   },
   "intake.Q4b.rg.scg.input.0": {
     "en": "Postal code",
-    "ee": "Sihtnumber"
+    "et": "Sihtnumber"
   },
   "intake.Q4b.rg.scg.description.input.0": {
     "en": "Postal code",
-    "ee": "Sihtnumber"
+    "et": "Sihtnumber"
   },
   "intake.Q4b.rg.scg.option.1": {
     "en": "I don’t know/can’t remember",
-    "ee": "Ma ei tea/ei mäleta"
+    "et": "Ma ei tea/ei mäleta"
   },
   "intake.Q4b.rg.scg.option.2": {
     "en": "Not applicable (e.g. don’t have a fixed workplace)",
-    "ee": "Ei ole kohaldatav (nt ei ole kindlat töökohta)"
+    "et": "Ei ole kohaldatav (nt ei ole kindlat töökohta)"
   },
   "intake.Q4b.error.3": {
     "en": "Please enter the digits of your postal code",
-    "ee": "Palun sisestage oma sihtnumbri numbrid"
+    "et": "Palun sisestage oma sihtnumbri numbrid"
   },
   "intake.Q4b.error.4": {
     "en": "Please enter at most 5 digits",
-    "ee": "Palun sisestage kuni 5 numbrit"
+    "et": "Palun sisestage kuni 5 numbrit"
   },
   "intake.Q4h.title.0": {
     "en": "Which of the following descriptions most closely matches with your main occupation? ",
-    "ee": "Milline järgmistest kirjeldustest vastab kõige rohkem teie põhitööle?"
+    "et": "Milline järgmistest kirjeldustest vastab kõige rohkem teie põhitööle?"
   },
   "intake.Q4h.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "intake.Q4h.helpGroup.text.1": {
     "en": "To check how representative our sample is compared to the population as a whole and to find out whether the chance of getting COVID-19 or flu are different for people in different types of occupation.",
-    "ee": "Selleks, et kontrollida, kui esinduslik on meie valim võrreldes elanikkonnaga tervikuna, ja saada teada, kas COVID-19-sse või grippi haigestumise võimalus on erinevat tüüpi elukutsete puhul erinev."
+    "et": "Selleks, et kontrollida, kui esinduslik on meie valim võrreldes elanikkonnaga tervikuna, ja saada teada, kas COVID-19-sse või grippi haigestumise võimalus on erinevat tüüpi elukutsete puhul erinev."
   },
   "intake.Q4h.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "intake.Q4h.helpGroup.text.3": {
     "en": "Please tick the box that most closely resembles your main occupation.",
-    "ee": "Palun märkige ruut, mis sarnaneb kõige rohkem teie põhitööga."
+    "et": "Palun märkige ruut, mis sarnaneb kõige rohkem teie põhitööga."
   },
   "intake.Q4h.rg.scg.option.0": {
     "en": "Services and sales workers (Personal Services Workers, Sales Workers, Personal Care Workers, Protective Services Workers)",
-    "ee": "Teenused ja müügitöötajad (isiklike teenuste osutajad, müügitöötajad, isikuhooldustöötajad, kaitseteenuste osutajad)"
+    "et": "Teenused ja müügitöötajad (isiklike teenuste osutajad, müügitöötajad, isikuhooldustöötajad, kaitseteenuste osutajad)"
   },
   "intake.Q4h.rg.scg.option.1": {
     "en": "Craft and related trades workers (Handicraft and printing workers, Food processing, wood working, garment and other craft and related trades workers,  Metal, machinery and related trades workers, Electrical and electronic trades workers, Building and related trades workers, excluding electricians)",
-    "ee": "Käsitöölised ja sellega seotud ametid (käsitöö- ja trükitöölised, toidutöötluse, puidutöötluse, rõivaste tegemise ja muude käsitööde ja nendega seotud ametid, metalli-, masinate ja nendega seotud erialade töötajad, elektri- ja elektroonikatööstuse töötajad, ehitus- ja sellega seotud erialade töötajad, välja arvatud elektrikud)"
+    "et": "Käsitöölised ja sellega seotud ametid (käsitöö- ja trükitöölised, toidutöötluse, puidutöötluse, rõivaste tegemise ja muude käsitööde ja nendega seotud ametid, metalli-, masinate ja nendega seotud erialade töötajad, elektri- ja elektroonikatööstuse töötajad, ehitus- ja sellega seotud erialade töötajad, välja arvatud elektrikud)"
   },
   "intake.Q4h.rg.scg.option.2": {
     "en": "Armed forces occupations (Commissioned armed forces officers, Armed forces occupations other ranks, Non-commissioned armed forces officers)",
-    "ee": "Relvajõudude ametid (relvajõudude allohvitserid, relvajõudude ametialad muude auastmetega)"
+    "et": "Relvajõudude ametid (relvajõudude allohvitserid, relvajõudude ametialad muude auastmetega)"
   },
   "intake.Q4h.rg.scg.option.3": {
     "en": "Managers (Chief Executives, Senior Officials and Legislators, Administrative and Commercial Managers, Production and Specialized Services Managers, Hospitality, Retail and Other Services Managers)",
-    "ee": "Juhid (tegevjuhid, kõrgemad ametnikud ja seadusandjad, haldus- ja ärijuhid, tootmis- ja eriteenuste juhid, hotellinduse, jaemüügi ja muude teenuste juhid)"
+    "et": "Juhid (tegevjuhid, kõrgemad ametnikud ja seadusandjad, haldus- ja ärijuhid, tootmis- ja eriteenuste juhid, hotellinduse, jaemüügi ja muude teenuste juhid)"
   },
   "intake.Q4h.rg.scg.option.4": {
     "en": "Professionals (Science and Engineering Professionals, Health Professionals,  Teaching Professionals, Business and Administration Professionals, Information and Communications Technology Professionals, Legal, Social and Cultural Professionals)",
-    "ee": "Spetsialistid (teaduse ja inseneriteaduse spetsialistid, tervishoiutöötajad, õpetajad, äri- ja haldusspetsialistid, info- ja kommunikatsioonitehnoloogia spetsialistid, õigus-, sotsiaal- ja kultuurivaldkonna spetsialistid)"
+    "et": "Spetsialistid (teaduse ja inseneriteaduse spetsialistid, tervishoiutöötajad, õpetajad, äri- ja haldusspetsialistid, info- ja kommunikatsioonitehnoloogia spetsialistid, õigus-, sotsiaal- ja kultuurivaldkonna spetsialistid)"
   },
   "intake.Q4h.rg.scg.option.5": {
     "en": "Technicians and associate professionals (Science and Engineering Associate Professionals, Health Associate Professionals, Business and Administration Associate Professionals, Legal, Social, Cultural and Related Associate Professionals, Information and Communications Technicians)",
-    "ee": "Tehnikud ja abispetsialistid (teaduse ja inseneriteaduse abispetsialistid, tervishoiutöötajad, äri- ja haldusabi abispetsialistid, õigus-, sotsiaal-, kultuurivaldkonna ja nendega seotud abispetsialistid, teabe- ja kommunikatsioonitehnikud)"
+    "et": "Tehnikud ja abispetsialistid (teaduse ja inseneriteaduse abispetsialistid, tervishoiutöötajad, äri- ja haldusabi abispetsialistid, õigus-, sotsiaal-, kultuurivaldkonna ja nendega seotud abispetsialistid, teabe- ja kommunikatsioonitehnikud)"
   },
   "intake.Q4h.rg.scg.option.6": {
     "en": "Clerical support workers (General and Keyboard Clerks, Customer Services Clerks,  Numerical and Material Recording Clerks, Other Clerical Support Workers)",
-    "ee": "Ametlikud tugitöötajad (avalikkusega vahetult kokku puutuvad ametnikud, klienditeeninduse ametnikud, numbrite ja materjalide salvestamise ametnikud, muud kontoritöötajad)"
+    "et": "Ametlikud tugitöötajad (avalikkusega vahetult kokku puutuvad ametnikud, klienditeeninduse ametnikud, numbrite ja materjalide salvestamise ametnikud, muud kontoritöötajad)"
   },
   "intake.Q4h.rg.scg.option.7": {
     "en": "Skilled agricultural, forestry and fishery workers",
-    "ee": "Põllumajanduse, metsanduse ja kalanduse valdkonna oskustöölised"
+    "et": "Põllumajanduse, metsanduse ja kalanduse valdkonna oskustöölised"
   },
   "intake.Q4h.rg.scg.option.8": {
     "en": "Plant and machine operators and assemblers (Stationary Plant and Machine Operators, Assemblers, Drivers and Mobile Plant Operators)",
-    "ee": "Tehaste ja masinate operaatorid ja komplekteerijad (statsionaarsete seadmete ja masinate operaatorid, monteerijad, autojuhid ja mobiilsete seadmete operaatorid)"
+    "et": "Tehaste ja masinate operaatorid ja komplekteerijad (statsionaarsete seadmete ja masinate operaatorid, monteerijad, autojuhid ja mobiilsete seadmete operaatorid)"
   },
   "intake.Q4h.rg.scg.option.9": {
     "en": "Elementary occupations (Cleaners and Helpers, Agricultural, Forestry and Fishery Labourers, Labourers in Mining, Construction, Manufacturing and Transport, Food Preparation Assistants, Street and Related Sales and Services Workers, Refuse Workers and Other Elementary Workers)",
-    "ee": "Lihttöölised (koristajad ja abilised, põllumajandus-, metsandus- ja kalandustöölised, kaevandamise, ehituse, tootmise ja transpordi töötajad, toiduvalmistamise abitöötajad, tänava- ja nendega seotud müügi- ja teenindustöötajad, jäätmeveotöötajad ja muud lihttöölised)"
+    "et": "Lihttöölised (koristajad ja abilised, põllumajandus-, metsandus- ja kalandustöölised, kaevandamise, ehituse, tootmise ja transpordi töötajad, toiduvalmistamise abitöötajad, tänava- ja nendega seotud müügi- ja teenindustöötajad, jäätmeveotöötajad ja muud lihttöölised)"
   },
   "intake.Q4h.rg.scg.input.10": {
     "en": "Other",
-    "ee": "Muu"
+    "et": "Muu"
   },
   "intake.Q4h.rg.scg.description.input.10": {
     "en": "Describe here (optional)",
-    "ee": "Kirjeldage siin (valikuline)"
+    "et": "Kirjeldage siin (valikuline)"
   },
   "intake.Q4d.title.0": {
     "en": "What is the highest level of formal education/qualification that you have?",
-    "ee": "Mis on teie kõrgeim formaalse hariduse/kvalifikatsiooni tase?"
+    "et": "Mis on teie kõrgeim formaalse hariduse/kvalifikatsiooni tase?"
   },
   "intake.Q4d.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "intake.Q4d.helpGroup.text.1": {
     "en": "To check how representative our sample is compared to the population of the UK (Italy, Belgium..) as a whole.",
-    "ee": "Selleks, et kontrollida, kui esinduslik on meie valim võrreldes Ühendkuningriigi (Itaalia, Belgia ...) elanikkonnaga tervikuna."
+    "et": "Selleks, et kontrollida, kui esinduslik on meie valim võrreldes Ühendkuningriigi (Itaalia, Belgia ...) elanikkonnaga tervikuna."
   },
   "intake.Q4d.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "intake.Q4d.helpGroup.text.3": {
     "en": "Please choose the box that represents your HIGHEST level of educational achievements. The different option rougly equate to: 1 - no qualifications, 2 - school-leaving exams at around 16 years of age, 3 - school-leaving exams at around 18 years of age, 4 - University degree or equivalent professional qualification, 5 - Higher degree or advanced professional qualification. If you are an adult who is currently undergoing part - time training(e.g.night school) then tick the box that represents your current highest level of education.",
-    "ee": "Palun valige ruut, mis esindab teie KÕRGEIMAT haridusalase saavutuse taset. Valikud vastavad umbes järgmisele: 1 - puudub kvalifikatsioon, 2 - kooli lõpueksamid umbes 16-aastaselt, 3 - kooli lõpueksamid umbes 18-aastaselt, 4 - ülikoolikraad või sellele vastav kutsekvalifikatsioon, 5 - kõrgem akadeemiline kraad või kõrgem kutsekvalifikatsioon. Kui olete täiskasvanu, kes õpib praegu osalise koormusega (nt õhtukoolis), siis märkige ruut, mis tähistab teie praegust kõrgeimat haridustaset."
+    "et": "Palun valige ruut, mis esindab teie KÕRGEIMAT haridusalase saavutuse taset. Valikud vastavad umbes järgmisele: 1 - puudub kvalifikatsioon, 2 - kooli lõpueksamid umbes 16-aastaselt, 3 - kooli lõpueksamid umbes 18-aastaselt, 4 - ülikoolikraad või sellele vastav kutsekvalifikatsioon, 5 - kõrgem akadeemiline kraad või kõrgem kutsekvalifikatsioon. Kui olete täiskasvanu, kes õpib praegu osalise koormusega (nt õhtukoolis), siis märkige ruut, mis tähistab teie praegust kõrgeimat haridustaset."
   },
   "intake.Q4d.rg.nUk7.text.0": {
     "en": "Select all options that apply",
-    "ee": "Märkige kõik sobivad valikud"
+    "et": "Märkige kõik sobivad valikud"
   },
   "intake.Q4d.rg.mcg.option.0": {
     "en": "I have no formal qualification",
-    "ee": "Mul puudub formaalne kvalifikatsioon"
+    "et": "Mul puudub formaalne kvalifikatsioon"
   },
   "intake.Q4d.rg.mcg.option.1": {
     "en": "GCSEs, levels, CSEs or equivalent",
-    "ee": "põhikooli haridus või samaväärne"
+    "et": "põhikooli haridus või samaväärne"
   },
   "intake.Q4d.rg.mcg.option.2": {
     "en": "A-levels or equivalent (e.g. Higher, NVQ Level3, BTEC)",
-    "ee": "Üldine keskhariduse tunnistus, kutsekeskhariduse tunnistus või samaväärsed"
+    "et": "Üldine keskhariduse tunnistus, kutsekeskhariduse tunnistus või samaväärsed"
   },
   "intake.Q4d.rg.mcg.option.3": {
     "en": "Bachelor Degree (BA, BSc) or equivalent",
-    "ee": "Bakalaureusekraad (BA, BSc) või samaväärne"
+    "et": "Bakalaureusekraad (BA, BSc) või samaväärne"
   },
   "intake.Q4d.rg.mcg.option.4": {
     "en": "Higher Degree or equivalent (e.g. Masters Degree, PGCE, PhD, Medical Doctorate, Advanced Professional Award)",
-    "ee": "Kõrgem kraad või samaväärne kraad (nt magistrikraad, õpetajakoolituse tunnistus, doktorikraad, meditsiinidoktor, kõrgem kutsetunnistus)"
+    "et": "Kõrgem kraad või samaväärne kraad (nt magistrikraad, õpetajakoolituse tunnistus, doktorikraad, meditsiinidoktor, kõrgem kutsetunnistus)"
   },
   "intake.Q4d.rg.mcg.option.5": {
     "en": "I am still in education",
-    "ee": "Ma alles õpin"
+    "et": "Ma alles õpin"
   },
   "intake.Q5.title.0": {
     "en": "Except people you meet on public transportation, do you have contact with any of the following during the course of a typical day (so without COVID-19 measures)?",
-    "ee": "Kas teil on oma tüüpilise päeva jooksul (ilma COVID-19 meetmeteta) kokkupuuteid järgmiste inimrühmadega, välja arvatud inimesed, kellega kohtute ühistranspordis?"
+    "et": "Kas teil on oma tüüpilise päeva jooksul (ilma COVID-19 meetmeteta) kokkupuuteid järgmiste inimrühmadega, välja arvatud inimesed, kellega kohtute ühistranspordis?"
   },
   "intake.Q5.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "intake.Q5.helpGroup.text.1": {
     "en": "To find out whether you are likely to be exposed to more infection risk than the average person (e.g. work with children, or patients).",
-    "ee": "Selleks, et teada saada, kas teie tõenäoline nakatumise risk on suurem kui keskmisel inimesel (nt töö laste või patsientidega)."
+    "et": "Selleks, et teada saada, kas teie tõenäoline nakatumise risk on suurem kui keskmisel inimesel (nt töö laste või patsientidega)."
   },
   "intake.Q5.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "intake.Q5.helpGroup.text.3": {
     "en": "Groups of people could include any setting where you come into contact with large numbers of people at once, e.g. a teacher who may contact many children in a day.",
-    "ee": "Inimeste rühmad võivad hõlmata mis tahes olukordi, kus puutute korraga kokku suure hulga inimestega, nt õpetaja, kes võib päevas paljude lastega ühendust võtta."
+    "et": "Inimeste rühmad võivad hõlmata mis tahes olukordi, kus puutute korraga kokku suure hulga inimestega, nt õpetaja, kes võib päevas paljude lastega ühendust võtta."
   },
   "intake.Q5.rg.dwL8.text.0": {
     "en": "Select all options that apply",
-    "ee": "Märkige kõik sobivad valikud"
+    "et": "Märkige kõik sobivad valikud"
   },
   "intake.Q5.rg.mcg.option.0": {
     "en": "More than 10 children or teenagers (without counting your own children)",
-    "ee": "Rohkem kui 10 last või teismelist (ilma teie enda lapsi arvestamata)"
+    "et": "Rohkem kui 10 last või teismelist (ilma teie enda lapsi arvestamata)"
   },
   "intake.Q5.rg.mcg.option.1": {
     "en": "More than 10 people aged over 65",
-    "ee": "Rohkem kui 10 üle 65-aastast inimest"
+    "et": "Rohkem kui 10 üle 65-aastast inimest"
   },
   "intake.Q5.rg.mcg.option.2": {
     "en": "Patients",
-    "ee": "Patsiendid"
+    "et": "Patsiendid"
   },
   "intake.Q5.rg.mcg.option.3": {
     "en": "Groups of people (more than 10 individuals at any one time)",
-    "ee": "Inimeste rühmad (rohkem kui 10 inimest korraga)"
+    "et": "Inimeste rühmad (rohkem kui 10 inimest korraga)"
   },
   "intake.Q5.rg.mcg.option.4": {
     "en": "None of the above",
-    "ee": "Mitte ükski ülaltoodust"
+    "et": "Mitte ükski ülaltoodust"
   },
   "intake.Q6.title.0": {
     "en": "INCLUDING YOU, how many people in each of the following age groups live in your household?",
-    "ee": "Kui palju inimesi elab teie leibkonnas igas järgmises vanuserühmas, KAASA ARVATUD TEIE ISE?"
+    "et": "Kui palju inimesi elab teie leibkonnas igas järgmises vanuserühmas, KAASA ARVATUD TEIE ISE?"
   },
   "intake.Q6.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "intake.Q6.helpGroup.text.1": {
     "en": "Members of larger households, or those with children, may more likely get infected than the others.",
-    "ee": "Suuremate leibkondade liikmed või need, kellel on lapsed, võivad nakatuda suurema tõenäosusega kui teised."
+    "et": "Suuremate leibkondade liikmed või need, kellel on lapsed, võivad nakatuda suurema tõenäosusega kui teised."
   },
   "intake.Q6.rg.mat.row0.l.label.0": {
     "en": "0 - 4 years",
-    "ee": "0-4 aastat"
+    "et": "0-4 aastat"
   },
   "intake.Q6.rg.mat.row1.l.label.0": {
     "en": "5 - 18 years",
-    "ee": "5-18 aastat"
+    "et": "5-18 aastat"
   },
   "intake.Q6.rg.mat.row2.l.label.0": {
     "en": "19 - 44 years",
-    "ee": "19-44 aastat"
+    "et": "19-44 aastat"
   },
   "intake.Q6.rg.mat.row3.l.label.0": {
     "en": "45 - 64 years",
-    "ee": "45-64 aastat"
+    "et": "45-64 aastat"
   },
   "intake.Q6.rg.mat.row4.l.label.0": {
     "en": "65+",
-    "ee": "65+"
+    "et": "65+"
   },
   "intake.Q6c.title.0": {
     "en": "One or several of these people are they at risk of complications in case of flu or COVID-19 (e.g, pregnant, over 65, underlying health condition, obese, etc.)?",
-    "ee": "Kas ühel või mitmel neist inimestest esineb gripi või COVID-19 korral tüsistuste oht (nt rase, üle 65-aastane, tervislik seisund, rasvumine jne)?"
+    "et": "Kas ühel või mitmel neist inimestest esineb gripi või COVID-19 korral tüsistuste oht (nt rase, üle 65-aastane, tervislik seisund, rasvumine jne)?"
   },
   "intake.Q6c.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "intake.Q6c.helpGroup.text.1": {
     "en": "TODO",
-    "ee": "TODO"
+    "et": "TODO"
   },
   "intake.Q6c.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "intake.Q6c.helpGroup.text.3": {
     "en": "TODO",
-    "ee": "TODO"
+    "et": "TODO"
   },
   "intake.Q6c.rg.scg.option.0": {
     "en": "Yes",
-    "ee": "Jah"
+    "et": "Jah"
   },
   "intake.Q6c.rg.scg.option.1": {
     "en": "No",
-    "ee": "Ei"
+    "et": "Ei"
   },
   "intake.Q6c.rg.scg.option.2": {
     "en": "Don't know/would rather not answer",
-    "ee": "Ei tea / pigem ei vastaks"
+    "et": "Ei tea / pigem ei vastaks"
   },
   "intake.Q6b.title.0": {
     "en": "How many of the children in your household go to school or day-care?",
-    "ee": "Kui paljud teie leibkonna lapsed käivad koolis või lasteaias?"
+    "et": "Kui paljud teie leibkonna lapsed käivad koolis või lasteaias?"
   },
   "intake.Q6b.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "intake.Q6b.helpGroup.text.1": {
     "en": "Attending school, daycare or childcare can increase the risk of contracting the coronavirus or influenza, as well as other similar illnesses. We wish to study this issue.",
-    "ee": "Koolis, lasteaias või lastehoius käimine võib suurendada riski haigestuda koroonaviirusesse või grippi, aga ka teistesse sarnastesse haigustesse. Soovime seda teemat uurida."
+    "et": "Koolis, lasteaias või lastehoius käimine võib suurendada riski haigestuda koroonaviirusesse või grippi, aga ka teistesse sarnastesse haigustesse. Soovime seda teemat uurida."
   },
   "intake.Q6b.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "intake.Q6b.helpGroup.text.3": {
     "en": "If your child attends school, daycare or childcare (even if only one day a week), please count it. Participation in (sport) associations or other extracurricular activities does not count.",
-    "ee": "Kui teie laps käib koolis, lasteaias või lastehoius (isegi kui ainult ühel päeval nädalas), siis palun arvestage sellega. Osalemine (spordi)klubides või muudes koolivälistes tegevustes ei lähe arvesse."
+    "et": "Kui teie laps käib koolis, lasteaias või lastehoius (isegi kui ainult ühel päeval nädalas), siis palun arvestage sellega. Osalemine (spordi)klubides või muudes koolivälistes tegevustes ei lähe arvesse."
   },
   "intake.Q6b.rg.scg.option.0": {
     "en": "None",
-    "ee": "Mitte ükski"
+    "et": "Mitte ükski"
   },
   "intake.Q6b.rg.scg.option.6": {
     "en": "More than 5",
-    "ee": "Rohkem kui 5"
+    "et": "Rohkem kui 5"
   },
   "intake.Q7.title.0": {
     "en": "What means of transportation do you typically use for your daily activities?",
-    "ee": "Millist transpordivahendit te tavaliselt oma igapäevaste tegevuste jaoks kasutate?"
+    "et": "Millist transpordivahendit te tavaliselt oma igapäevaste tegevuste jaoks kasutate?"
   },
   "intake.Q7.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "intake.Q7.helpGroup.text.1": {
     "en": "We want to know if people who regularly use public transportation have a higher risk of infection.",
-    "ee": "Tahame teada, kas inimestel, kes kasutavad regulaarselt ühistransporti, on suurem risk nakatuda."
+    "et": "Tahame teada, kas inimestel, kes kasutavad regulaarselt ühistransporti, on suurem risk nakatuda."
   },
   "intake.Q7.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "intake.Q7.helpGroup.text.3": {
     "en": "Mark the box that best matches the means of transportation you most frequently use.",
-    "ee": "Märkige ruut, mis vastab teie kõige sagedamini kasutatavatele transpordivahenditele."
+    "et": "Märkige ruut, mis vastab teie kõige sagedamini kasutatavatele transpordivahenditele."
   },
   "intake.Q7.rg.9JtQ.text.0": {
     "en": "Please select the transportation means you use the most.",
-    "ee": "Palun valige transpordivahend, mida kõige rohkem kasutate."
+    "et": "Palun valige transpordivahend, mida kõige rohkem kasutate."
   },
   "intake.Q7.rg.scg.option.0": {
     "en": "Walking",
-    "ee": "Kõndimine"
+    "et": "Kõndimine"
   },
   "intake.Q7.rg.scg.option.1": {
     "en": "Bike",
-    "ee": "Jalgratas"
+    "et": "Jalgratas"
   },
   "intake.Q7.rg.scg.option.2": {
     "en": "Motorbike/scooter",
-    "ee": "Mootorratas/skuuter"
+    "et": "Mootorratas/skuuter"
   },
   "intake.Q7.rg.scg.option.3": {
     "en": "Car",
-    "ee": "Auto"
+    "et": "Auto"
   },
   "intake.Q7.rg.scg.option.4": {
     "en": "Public transportation (bus, train, tube, etc)",
-    "ee": "Ühistransport (buss, rong, metroo jne)"
+    "et": "Ühistransport (buss, rong, metroo jne)"
   },
   "intake.Q7.rg.scg.option.5": {
     "en": "Other",
-    "ee": "Muu"
+    "et": "Muu"
   },
   "intake.Q8.title.0": {
     "en": "How often do you have common colds or flu-like diseases?",
-    "ee": "Kui sageli teil esineb külmetushaigusi või gripilaadseid haigusi?"
+    "et": "Kui sageli teil esineb külmetushaigusi või gripilaadseid haigusi?"
   },
   "intake.Q8.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "intake.Q8.helpGroup.text.1": {
     "en": "We want to know if some people have an increased risk of infection.",
-    "ee": "Me tahame teada, kas mõnel inimesel on suurenenud nakkusoht."
+    "et": "Me tahame teada, kas mõnel inimesel on suurenenud nakkusoht."
   },
   "intake.Q8.rg.scg.option.0": {
     "en": "Never",
-    "ee": "Mitte kunagi"
+    "et": "Mitte kunagi"
   },
   "intake.Q8.rg.scg.option.1": {
     "en": "Once or twice a year",
-    "ee": "1 või 2 korda aastas"
+    "et": "1 või 2 korda aastas"
   },
   "intake.Q8.rg.scg.option.2": {
     "en": "Between 3 and 5 times a year",
-    "ee": "3 kuni 5 korda aastas"
+    "et": "3 kuni 5 korda aastas"
   },
   "intake.Q8.rg.scg.option.3": {
     "en": "Between 6 and 10 times a year",
-    "ee": "6 kuni 10 korda aastas"
+    "et": "6 kuni 10 korda aastas"
   },
   "intake.Q8.rg.scg.option.4": {
     "en": "More than 10 times a year",
-    "ee": "Rohkem kui 10 korda aastas"
+    "et": "Rohkem kui 10 korda aastas"
   },
   "intake.Q8.rg.scg.option.5": {
     "en": "I don't know",
-    "ee": "Ma ei tea"
+    "et": "Ma ei tea"
   },
   "intake.Q11.title.0": {
     "en": "Do you take regular medication for any of the following medical conditions?",
-    "ee": "Kas te võtate regulaarselt ravimeid mistahes järgmise haigusseisundi tõttu?"
+    "et": "Kas te võtate regulaarselt ravimeid mistahes järgmise haigusseisundi tõttu?"
   },
   "intake.Q11.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "intake.Q11.helpGroup.text.1": {
     "en": "This question allows us to find out whether you have other medical conditions that may increase your risk of having more severe illness if you are infected.",
-    "ee": "See küsimus võimaldab meil välja selgitada, kas teil on muid haigusseisundeid, mis võivad suurendada teie riski haigestuda raskemasse haigusse, kui olete nakatunud."
+    "et": "See küsimus võimaldab meil välja selgitada, kas teil on muid haigusseisundeid, mis võivad suurendada teie riski haigestuda raskemasse haigusse, kui olete nakatunud."
   },
   "intake.Q11.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "intake.Q11.helpGroup.text.3": {
     "en": "Only answer \"yes\" if you take regular medication for your medical problem. If, for instance, you only occasionally take an asthma inhaler, then do not answer \"yes\" for asthma.",
-    "ee": "Vastake \"jah\" ainult siis, kui võtate oma meditsiinilise probleemi tõttu regulaarselt ravimeid. Kui te näiteks kasutate astmainhalaatorit vaid aeg-ajalt, siis ärge vastake astma puhul \"jah\"."
+    "et": "Vastake \"jah\" ainult siis, kui võtate oma meditsiinilise probleemi tõttu regulaarselt ravimeid. Kui te näiteks kasutate astmainhalaatorit vaid aeg-ajalt, siis ärge vastake astma puhul \"jah\"."
   },
   "intake.Q11.rg.hYo0.text.0": {
     "en": "Select all options that apply",
-    "ee": "Märkige kõik sobivad valikud"
+    "et": "Märkige kõik sobivad valikud"
   },
   "intake.Q11.rg.mcg.option.0": {
     "en": "No",
-    "ee": "Ei"
+    "et": "Ei"
   },
   "intake.Q11.rg.mcg.option.1": {
     "en": "Asthma",
-    "ee": "Astma"
+    "et": "Astma"
   },
   "intake.Q11.rg.mcg.option.2": {
     "en": "Diabetes",
-    "ee": "Suhkrutõbi"
+    "et": "Suhkrutõbi"
   },
   "intake.Q11.rg.mcg.option.3": {
     "en": "Chronic lung disorder besides asthma e.g. COPD, emphysema, or other disorders that affect your breathing",
-    "ee": "Krooniline kopsuhaigus peale astma, nt KOK, emfüseem või muud häired, mis mõjutavad teie hingamist"
+    "et": "Krooniline kopsuhaigus peale astma, nt KOK, emfüseem või muud häired, mis mõjutavad teie hingamist"
   },
   "intake.Q11.rg.mcg.option.4": {
     "en": "Heart disorder",
-    "ee": "Südamehäire"
+    "et": "Südamehäire"
   },
   "intake.Q11.rg.mcg.option.5": {
     "en": "Kidney disorder",
-    "ee": "Neeruhäire"
+    "et": "Neeruhäire"
   },
   "intake.Q11.rg.mcg.option.6": {
     "en": "An immunocompromising condition (e.g. splenectomy, organ transplant, acquired immune deficiency, cancer treatment)",
-    "ee": "Immuunsust langetav seisund (nt splenektoomia, elundisiirdamine, omandatud immuunpuudulikkus, vähiravi)"
+    "et": "Immuunsust langetav seisund (nt splenektoomia, elundisiirdamine, omandatud immuunpuudulikkus, vähiravi)"
   },
   "intake.Q11.rg.mcg.option.7": {
     "en": "I would rather not answer",
-    "ee": "Ma pigem ei vastaks"
+    "et": "Ma pigem ei vastaks"
   },
   "intake.Q12.title.0": {
     "en": "Are you currently pregnant?",
-    "ee": "Kas te olete rase?"
+    "et": "Kas te olete rase?"
   },
   "intake.Q12.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "intake.Q12.helpGroup.text.1": {
     "en": "Pregnancy is a potential risk factor for severe symptoms in the event of infection.",
-    "ee": "Rasedus on nakkuse korral potentsiaalne riskitegur tõsiste sümptomite tekkeks."
+    "et": "Rasedus on nakkuse korral potentsiaalne riskitegur tõsiste sümptomite tekkeks."
   },
   "intake.Q12.rg.scg.option.0": {
     "en": "Yes",
-    "ee": "Jah"
+    "et": "Jah"
   },
   "intake.Q12.rg.scg.option.1": {
     "en": "No",
-    "ee": "Ei"
+    "et": "Ei"
   },
   "intake.Q12.rg.scg.option.2": {
     "en": "Don't know/would rather not answer",
-    "ee": "Ei tea / pigem ei vastaks"
+    "et": "Ei tea / pigem ei vastaks"
   },
   "intake.Q12b.title.0": {
     "en": "Which trimester of the pregnancy are you in?",
-    "ee": "Mitmes raseduse trimester teil on ?"
+    "et": "Mitmes raseduse trimester teil on ?"
   },
   "intake.Q12b.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "intake.Q12b.helpGroup.text.1": {
     "en": "The risk of severe symptoms can vary depending on the pregnancy trimester, but this link has not yet been clearly established.",
-    "ee": "Tõsiste sümptomite oht võib olenevalt raseduse trimestrist erineda, kuid seda seost pole veel selgelt kindlaks tehtud."
+    "et": "Tõsiste sümptomite oht võib olenevalt raseduse trimestrist erineda, kuid seda seost pole veel selgelt kindlaks tehtud."
   },
   "intake.Q12b.rg.scg.option.0": {
     "en": "First trimester (week 1-12)",
-    "ee": "Esimene trimester (1.-12. nädal)"
+    "et": "Esimene trimester (1.-12. nädal)"
   },
   "intake.Q12b.rg.scg.option.1": {
     "en": "Second trimester (week 13-28)",
-    "ee": "Teine trimester (13.-28. nädal)"
+    "et": "Teine trimester (13.-28. nädal)"
   },
   "intake.Q12b.rg.scg.option.2": {
     "en": "Third trimester (week 29-delivery)",
-    "ee": "Kolmas trimester (29. nädalast kuni sünnituseni)"
+    "et": "Kolmas trimester (29. nädalast kuni sünnituseni)"
   },
   "intake.Q12b.rg.scg.option.3": {
     "en": "Don't know/would rather not answer",
-    "ee": "Ei tea / pigem ei vastaks"
+    "et": "Ei tea / pigem ei vastaks"
   },
   "intake.Q13.title.0": {
     "en": "Do you smoke tobacco?",
-    "ee": "Kas te suitsetate tubakat?"
+    "et": "Kas te suitsetate tubakat?"
   },
   "intake.Q13.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "intake.Q13.helpGroup.text.1": {
     "en": "Smoking might make you more likely to get a more severe dose of virus disease. We would like to test this.",
-    "ee": "Suitsetamine võib suurendada tõenäosust saada raskem viirushaigus. Tahaksime seda testida."
+    "et": "Suitsetamine võib suurendada tõenäosust saada raskem viirushaigus. Tahaksime seda testida."
   },
   "intake.Q13.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele vastama?"
+    "et": "Kuidas ma peaksin sellele vastama?"
   },
   "intake.Q13.helpGroup.text.3": {
     "en": "Please, answer as accurately as possible.",
-    "ee": "Palun vastake võimalikult täpselt."
+    "et": "Palun vastake võimalikult täpselt."
   },
   "intake.Q13.rg.scg.option.0": {
     "en": "No",
-    "ee": "Ei"
+    "et": "Ei"
   },
   "intake.Q13.rg.scg.option.1": {
     "en": "Yes, occasionally",
-    "ee": "Jah, aeg-ajalt"
+    "et": "Jah, aeg-ajalt"
   },
   "intake.Q13.rg.scg.option.2": {
     "en": "Yes, daily, fewer than 10 times a day",
-    "ee": "Jah, iga päev, vähem kui 10 korda päevas"
+    "et": "Jah, iga päev, vähem kui 10 korda päevas"
   },
   "intake.Q13.rg.scg.option.3": {
     "en": "Yes, daily, 10 or more times a day",
-    "ee": "Jah, iga päev, rohkem kui 10 korda päevas"
+    "et": "Jah, iga päev, rohkem kui 10 korda päevas"
   },
   "intake.Q13.rg.scg.option.5": {
     "en": "Dont know/would rather not answer",
-    "ee": "Ei tea / pigem ei vastaks"
+    "et": "Ei tea / pigem ei vastaks"
   },
   "intake.Q14.title.0": {
     "en": "Do you have one of the following allergies that can cause respiratory symptoms?",
-    "ee": "Kas teil on mõni järgmistest allergiatest, mis võivad põhjustada hingamisteede haigussümptomeid?"
+    "et": "Kas teil on mõni järgmistest allergiatest, mis võivad põhjustada hingamisteede haigussümptomeid?"
   },
   "intake.Q14.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "intake.Q14.helpGroup.text.1": {
     "en": "Certain allergies provoke the same symptoms as respiratory infections.",
-    "ee": "Teatud allergiad põhjustavad samu sümptomeid kui hingamisteede infektsioonid."
+    "et": "Teatud allergiad põhjustavad samu sümptomeid kui hingamisteede infektsioonid."
   },
   "intake.Q14.helpGroup.text.2": {
     "en": "How should I answer this question?",
-    "ee": "Kuidas ma peaksin sellele küsimusele vastama?"
+    "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "intake.Q14.helpGroup.text.3": {
     "en": "Multiple answers are possible, mark all that apply.",
-    "ee": "Võimalik on mitu vastust, märkige kõik sobivad."
+    "et": "Võimalik on mitu vastust, märkige kõik sobivad."
   },
   "intake.Q14.rg.7tXM.text.0": {
     "en": "Select all options that apply",
-    "ee": "Märkige kõik sobivad valikud"
+    "et": "Märkige kõik sobivad valikud"
   },
   "intake.Q14.rg.mcg.option.0": {
     "en": "Hay fever",
-    "ee": "Allergia õietolmu/puude/heintaimede suhtes"
+    "et": "Allergia õietolmu/puude/heintaimede suhtes"
   },
   "intake.Q14.rg.mcg.option.1": {
     "en": "Allergy against house dust mite",
-    "ee": "Allergia maja tolmulestade suhtes"
+    "et": "Allergia maja tolmulestade suhtes"
   },
   "intake.Q14.rg.mcg.option.2": {
     "en": "Allergy against domestic animals or pets",
-    "ee": "Allergia koduloomade või lemmikloomade suhtes"
+    "et": "Allergia koduloomade või lemmikloomade suhtes"
   },
   "intake.Q14.rg.mcg.option.3": {
     "en": "Other allergies that cause respiratory symptoms (e.g. sneezing, runny eyes)",
-    "ee": "Muud allergiad, mis põhjustavad hingamisteede haigussümptomeid (nt aevastamine, nohu)"
+    "et": "Muud allergiad, mis põhjustavad hingamisteede haigussümptomeid (nt aevastamine, nohu)"
   },
   "intake.Q14.rg.mcg.option.4": {
     "en": "I do not have an allergy that causes respiratory symptoms",
-    "ee": "Mul ei ole allergiat, mis põhjustab hingamisteede haigussümptomeid."
+    "et": "Mul ei ole allergiat, mis põhjustab hingamisteede haigussümptomeid."
   },
   "intake.Q15.title.0": {
     "en": "Do you follow a special diet?",
-    "ee": "Kas te järgite spetsiaalset dieeti?"
+    "et": "Kas te järgite spetsiaalset dieeti?"
   },
   "intake.Q15.rg.mVmB.text.0": {
     "en": "Select all options that apply",
-    "ee": "Märkige kõik sobivad valikud"
+    "et": "Märkige kõik sobivad valikud"
   },
   "intake.Q15.rg.mcg.option.0": {
     "en": "No special diet",
-    "ee": "Ei järgi ühtegi erilist dieeti"
+    "et": "Ei järgi ühtegi erilist dieeti"
   },
   "intake.Q15.rg.mcg.option.1": {
     "en": "Vegetarian",
-    "ee": "Taimetoitlane"
+    "et": "Taimetoitlane"
   },
   "intake.Q15.rg.mcg.option.2": {
     "en": "Veganism",
-    "ee": "Veganlus"
+    "et": "Veganlus"
   },
   "intake.Q15.rg.mcg.option.3": {
     "en": "Low-calorie",
-    "ee": "Madala kalorsusega dieet"
+    "et": "Madala kalorsusega dieet"
   },
   "intake.Q15.rg.mcg.option.4": {
     "en": "Other",
-    "ee": "Muu"
+    "et": "Muu"
   },
   "intake.Q26.title.0": {
     "en": "Are you taking or do you plan to take this winter homeopathic products in order to prevent COVID-19?",
-    "ee": "Kas te võtate või kavatsete võtta sel talvel homöopaatilisi preparaate, et vältida COVID-19 viirusesse nakatumist?"
+    "et": "Kas te võtate või kavatsete võtta sel talvel homöopaatilisi preparaate, et vältida COVID-19 viirusesse nakatumist?"
   },
   "intake.Q26.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "intake.Q26.helpGroup.text.1": {
     "en": "We are interested in knowing more about your health-related habits",
-    "ee": "Soovime teie tervisega seotud harjumuste kohta rohkem teada saada"
+    "et": "Soovime teie tervisega seotud harjumuste kohta rohkem teada saada"
   },
   "intake.Q26.rg.scg.option.0": {
     "en": "Yes",
-    "ee": "Jah"
+    "et": "Jah"
   },
   "intake.Q26.rg.scg.option.1": {
     "en": "No",
-    "ee": "Ei"
+    "et": "Ei"
   },
   "intake.Q26.rg.scg.option.2": {
     "en": "I don't know",
-    "ee": "Ma ei tea"
+    "et": "Ma ei tea"
   },
   "intake.Q26.rg.scg.option.3": {
     "en": "I don't want to answer",
-    "ee": "Ma ei taha vastata."
+    "et": "Ma ei taha vastata."
   },
   "intake.Q17.title.0": {
     "en": "Where did you first hear about the platform?",
-    "ee": "Kus te sellest platvormist esimest korda kuulsite?"
+    "et": "Kus te sellest platvormist esimest korda kuulsite?"
   },
   "intake.Q17.helpGroup.text.0": {
     "en": "Why are we asking this?",
-    "ee": "Miks me seda küsime?"
+    "et": "Miks me seda küsime?"
   },
   "intake.Q17.helpGroup.text.1": {
     "en": "We would like to know how you found out about our website.",
-    "ee": "Soovime teada, kuidas te meie veebisaidist teada saite."
+    "et": "Soovime teada, kuidas te meie veebisaidist teada saite."
   },
   "intake.Q17.rg.hIai.text.0": {
     "en": "Select all options that apply",
-    "ee": "Märkige kõik sobivad valikud"
+    "et": "Märkige kõik sobivad valikud"
   },
   "intake.Q17.rg.mcg.option.0": {
     "en": "Radio or television",
-    "ee": "Raadiost või televisioonist"
+    "et": "Raadiost või televisioonist"
   },
   "intake.Q17.rg.mcg.option.1": {
     "en": "In the newspaper or in a magazine",
-    "ee": "Ajalehest või ajakirjast"
+    "et": "Ajalehest või ajakirjast"
   },
   "intake.Q17.rg.mcg.option.2": {
     "en": "The internet (a website, link, a search engine)",
-    "ee": "Internetist (veebisait, link, otsingumootor)"
+    "et": "Internetist (veebisait, link, otsingumootor)"
   },
   "intake.Q17.rg.mcg.option.3": {
     "en": "By poster",
-    "ee": "Posterilt"
+    "et": "Posterilt"
   },
   "intake.Q17.rg.mcg.option.4": {
     "en": "Via family or friends",
-    "ee": "Pere või sõprade kaudu"
+    "et": "Pere või sõprade kaudu"
   },
   "intake.Q17.rg.mcg.option.5": {
     "en": "Via school or work",
-    "ee": "Kooli või töö kaudu"
+    "et": "Kooli või töö kaudu"
   },
   "intake.Q17.rg.mcg.option.6": {
     "en": "Other",
-    "ee": "Muu"
+    "et": "Muu"
   },
   "intake.surveyEnd.title.0": {
     "en": "Thank you! This was all for now, please submit (push « send ») your responses. Please come back or continue reporting symptoms you experience during the last week.",
-    "ee": "Täname teid! See on selleks korraks kõik, palun esitage oma vastused (vajutage „Saada“). Palun tulge tagasi või jätkake viimase nädala jooksul kogetud sümptomitest teatamist."
+    "et": "Täname teid! See on selleks korraks kõik, palun esitage oma vastused (vajutage „Saada“). Palun tulge tagasi või jätkake viimase nädala jooksul kogetud sümptomitest teatamist."
   }
 }

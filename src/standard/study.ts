@@ -5,7 +5,7 @@ import { WeeklyDef } from "../common";
 
 import { StudyRulesBuilder } from "./studyRules";
 
-import "./languages/ee";
+import "./languages/et";
 import "./languages/ru";
 import "./languages/en";
 

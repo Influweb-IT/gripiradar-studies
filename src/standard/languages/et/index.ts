@@ -4,7 +4,7 @@ import intake from "./intake.json";
 import weekly from "./weekly.json";
 import vaccination from "./vaccination.json";
 
-const languageId = "ee";
+const languageId = "et";
 
 LanguageHelpers.addLanguage(languageId, intake);
 LanguageHelpers.addLanguage(languageId, weekly);
