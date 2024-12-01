@@ -569,7 +569,7 @@
   },
   "intake.Q11.rg.mcg.option.6": {
     "en": "An immunocompromising condition (e.g. splenectomy, organ transplant, acquired immune deficiency, cancer treatment)",
-    "ru": "Состояние иммунодефицита (например, спленэктомия, трансплантация органов, приобретенный иммунодефицит, лечение рака)"
+    "ru": "Состояние снижения иммунитета (например, спленэктомия, трансплантация органов, приобретенный иммунодефицит, лечение рака)"
   },
   "intake.Q11.rg.mcg.option.7": {
     "en": "I would rather not answer",
@@ -693,7 +693,7 @@
   },
   "intake.Q14.rg.mcg.option.0": {
     "en": "Hay fever",
-    "ru": "Сенная лихорадка"
+    "ru": "Аллергия на пыльцу/деревья/травы"
   },
   "intake.Q14.rg.mcg.option.1": {
     "en": "Allergy against house dust mite",
