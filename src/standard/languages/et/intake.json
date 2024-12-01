@@ -384,16 +384,16 @@
     "et": "Miks me seda küsime?"
   },
   "intake.Q6c.helpGroup.text.1": {
-    "en": "TODO",
-    "et": "TODO"
+    "en": "We would like to know if any of your close contacts might be at risk of complications if contracting COVID-19",
+    "et": "Sooviksime teada, kas mõnel teie lähikontaktsel võiks olla COVID-19-sse haigestumise korral tüsistuste oht"
   },
   "intake.Q6c.helpGroup.text.2": {
     "en": "How should I answer this question?",
     "et": "Kuidas ma peaksin sellele küsimusele vastama?"
   },
   "intake.Q6c.helpGroup.text.3": {
-    "en": "TODO",
-    "et": "TODO"
+    "en": "Please select the appropriate answer",
+    "et": "Palun valige sobiv vastus"
   },
   "intake.Q6c.rg.scg.option.0": {
     "en": "Yes",

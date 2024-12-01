@@ -384,16 +384,16 @@
     "ru": "Почему мы это спрашиваем?"
   },
   "intake.Q6c.helpGroup.text.1": {
-    "en": "TODO",
-    "ru": "TODO"
+    "en": "We would like to know if any of your close contacts might be at risk of complications if contracting COVID-19",
+    "ru": "Мы хотели бы знать, может ли кто либо из ваших близких контактов подвергаться риску осложнений в случае заражения COVID-19"
   },
   "intake.Q6c.helpGroup.text.2": {
     "en": "How should I answer this question?",
     "ru": "Как мне ответить на этот вопрос?"
   },
   "intake.Q6c.helpGroup.text.3": {
-    "en": "TODO",
-    "ru": "TODO"
+    "en": "Please select the appropriate answer",
+    "ru": "Пожалуйста, выберите подходящий ответ"
   },
   "intake.Q6c.rg.scg.option.0": {
     "en": "Yes",
