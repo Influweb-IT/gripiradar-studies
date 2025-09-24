@@ -33,7 +33,7 @@
   },
   "vaccination.HV.Q9.title.0": {
     "en": "Did you receive a flu vaccine during the previous flu season ?",
-    "ru": "Получали ли вы прививку от гриппа в предыдущем сезоне гриппа (2023–2024 гг.)?"
+    "ru": "Получали ли вы прививку от гриппа в предыдущем сезоне гриппа (2024–2025 гг.)?"
   },
   "vaccination.HV.Q9.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -49,7 +49,7 @@
   },
   "vaccination.HV.Q9.helpGroup.text.3": {
     "en": "Answer 'yes' if you were vaccinated in the previous autumn/winter season",
-    "ru": "Ответьте 'да', если вы были вакцинированы осенью/зимой 2023–2024 гг."
+    "ru": "Ответьте 'да', если вы были вакцинированы осенью/зимой 2024–2025 гг."
   },
   "vaccination.HV.Q9.rg.scg.option.0": {
     "en": "Yes",
@@ -65,7 +65,7 @@
   },
   "vaccination.HV.Q10.title.0": {
     "en": "Have you received a flu vaccine this autumn/winter season?",
-    "ru": "Получали ли вы прививку от гриппа в этом осенне-зимнем сезоне? (2024–2025)"
+    "ru": "Получали ли вы прививку от гриппа в этом осенне-зимнем сезоне? (2025–2026)"
   },
   "vaccination.HV.Q10.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -97,7 +97,7 @@
   },
   "vaccination.HV.Q10b.title.0": {
     "en": "When were you vaccinated against flu this season ?",
-    "ru": "Когда вы были привиты от гриппа в этом сезоне (2024–2025 гг.)?"
+    "ru": "Когда вы были привиты от гриппа в этом сезоне (2025–2026 гг.)?"
   },
   "vaccination.HV.Q10b.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -181,7 +181,7 @@
   },
   "vaccination.HV.Q10d.title.0": {
     "en": "What were your reasons for NOT getting a seasonal influenza vaccination for this current season ?",
-    "ru": "Какие у вас были причины НЕ делать прививку от сезонного гриппа в сезоне 2023/2024 гг.?"
+    "ru": "Какие у вас были причины НЕ делать прививку от сезонного гриппа в сезоне 2025/2026 гг.?"
   },
   "vaccination.HV.Q10d.helpGroup.text.0": {
     "en": "Why are we asking this?",

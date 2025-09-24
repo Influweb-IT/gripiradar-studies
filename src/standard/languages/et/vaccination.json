@@ -33,7 +33,7 @@
   },
   "vaccination.HV.Q9.title.0": {
     "en": "Did you receive a flu vaccine during the previous flu season ?",
-    "et": "Kas saite eelmisel gripihooajal (2023-2024) gripivaktsiini?"
+    "et": "Kas saite eelmisel gripihooajal (2024-2025) gripivaktsiini?"
   },
   "vaccination.HV.Q9.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -49,7 +49,7 @@
   },
   "vaccination.HV.Q9.helpGroup.text.3": {
     "en": "Answer 'yes' if you were vaccinated in the previous autumn/winter season",
-    "et": "Vastake 'jah', kui olete vaktsineeritud sügisel/talvel 2023-2024."
+    "et": "Vastake 'jah', kui olete vaktsineeritud sügisel/talvel 2024-2025."
   },
   "vaccination.HV.Q9.rg.scg.option.0": {
     "en": "Yes",
@@ -65,7 +65,7 @@
   },
   "vaccination.HV.Q10.title.0": {
     "en": "Have you received a flu vaccine this autumn/winter season?",
-    "et": "Kas olete sel sügis-talvisel hooajal gripivaktsiini saanud? (2024-2025)"
+    "et": "Kas olete sel sügis-talvisel hooajal gripivaktsiini saanud? (2025-2026)"
   },
   "vaccination.HV.Q10.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -97,7 +97,7 @@
   },
   "vaccination.HV.Q10b.title.0": {
     "en": "When were you vaccinated against flu this season ?",
-    "et": "Millal teid sel hooajal (2024-2025) gripi vastu vaktsineeriti?"
+    "et": "Millal teid sel hooajal (2025-2026) gripi vastu vaktsineeriti?"
   },
   "vaccination.HV.Q10b.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -181,7 +181,7 @@
   },
   "vaccination.HV.Q10d.title.0": {
     "en": "What were your reasons for NOT getting a seasonal influenza vaccination for this current season ?",
-    "et": "Mis olid teie põhjused, miks te EI lasknud end hooajalise gripi vastu vaktsineerida hooajal 2024/2025?"
+    "et": "Mis olid teie põhjused, miks te EI lasknud end hooajalise gripi vastu vaktsineerida hooajal 2025/2026?"
   },
   "vaccination.HV.Q10d.helpGroup.text.0": {
     "en": "Why are we asking this?",
